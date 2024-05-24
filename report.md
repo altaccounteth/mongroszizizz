@@ -162,15 +162,12 @@ Pour la suite de l'analyse, j'utillise debank et layerzeroscan pour trouver des 
 0xc50d540b932ff4edeeb7404cb963616e140c3acb
 ```
 
-TLDR: 
-Arkham graph qui ne peut pas etre plus clair
-compte debank avec les memes photo de profil (pas un argument on chain mais c'est tres suspect)
-Tx disperse depuis polygon 
-https://polygonscan.com/tx/0xc2bcc5d4f0d7b33492e9e8477a06a3d60fa3ab1e3c1187fa9b38958ed273ab67
-Tx disperse de GETH depuis arbitrum 
-https://arbiscan.io/tx/0x4b74b62172d82946974c3d9655ed5eb901c21ae05d7ce2b2f78bc18da784531b
-Tx disperse de BUSD depuis la bsc 
-https://bscscan.com/tx/0x703dbd5b341be4a1e1c382cfe0e7650775e14031a8e950ccbb1193c61ebde788
+TLDR:
+
+An Arkham graph that couldn't be clearer.
+DeBank accounts with the same profile pictures (not an on-chain argument, but highly suspicious).
+Use of disperse transactions that led to subsequent interactions (the most blatant case being the disperse of GETH).
+Consistent farming pattern on Layer Zero.
 
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5f9aa0f-00c7-47a0-84f6-2a51c0359da2)
@@ -198,5 +195,48 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x10167822FaaBE05D5506
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/905f5efe-e959-48aa-8dc8-9302b22307f2)
 
-etc etc etc
+On-chain arguments:
+The cluster consists of a main wallet that has farmed a significant size across numerous protocols:
+0x18958ba039f66dc7ec399a04227d0d0f032d2493
+
+Attached to it are countless Sybil wallets for Layer Zero.
+They all follow the same pattern: initially receiving AVAX, followed by transactions in DeFi Kingdoms, etc.
+
+There are also numerous wallets that received small dispersed sums that led to a transaction afterwards, which appears to be intentional dispersal. The most telling dispersal involves GETH, a token needed to use the Layer Zero testnet bridge.
+
+Here are the translations and descriptions for the transactions from different blockchains:
+
+Disperse transaction from Polygon:
+https://polygonscan.com/tx/0xc2bcc5d4f0d7b33492e9e8477a06a3d60fa3ab1e3c1187fa9b38958ed273ab67
+
+Disperse transaction of GETH from Arbitrum:
+https://arbiscan.io/tx/0x4b74b62172d82946974c3d9655ed5
+
+Disperse transaction of BUSD from Binance Smart Chain (BSC):
+https://bscscan.com/tx/0x703dbd5b341be4a1e1c382cfe0e7650775e14031a8e950ccbb1193c61ebde788
+
+These links will take you to the respective blockchain explorers where you can review the details of each transaction.
+
+The cluster seems vast, and the interactions we observe on-chain resemble those of a script, in my humble opinion. In this report, I have only included the wallets that seemed blatantly obvious to minimize false positives.
+
+Moreover, all these wallets have a similar number of Layer Zero messages (about 59 messages) and interacted with Layer Zero 12 months ago following the same pattern.
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c7919b33-7160-4e33-8ce9-01d0682a23e2)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/728740dd-c5c8-4831-a881-5c8dd72dcf9b)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/097afa09-3030-417a-825f-996d2407b1a2)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/96d2232a-22b3-4eb6-b26a-49729973c27e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/56baeaf4-7d42-4d89-8fc4-d08e9c65e430)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/19fd9cb5-252e-4c81-bc5f-7035d07d143f)
+
+etc etc 
+
+
+
+
+
+
 
