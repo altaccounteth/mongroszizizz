@@ -222,6 +222,9 @@ https://arbiscan.io/tx/0x4b74b62172d82946974c3d9655ed5eb901c21ae05d7ce2b2f78bc18
 Disperse transaction of BUSD from Binance Smart Chain (BSC):
 https://bscscan.com/tx/0x703dbd5b341be4a1e1c382cfe0e7650775e14031a8e950ccbb1193c61ebde788
 
+Disperse Transaction of AVAX from avalanche:
+https://snowtrace.io/tx/0x986a4281246751487a500ccd89dec39f0ea12567aeae1b3423f60ad5de033f60
+
 These links will take you to the respective blockchain explorers where you can review the details of each transaction.
 
 The cluster seems vast, and the interactions we observe on-chain resemble those of a script, in my humble opinion. In this report, I have only included the wallets that seemed blatantly obvious to minimize false positives.
