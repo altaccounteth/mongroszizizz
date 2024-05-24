@@ -163,8 +163,14 @@ Pour la suite de l'analyse, j'utillise debank et layerzeroscan pour trouver des 
 ```
 
 TLDR: 
- Arkham graph qui ne peut pas etre plus clair
+Arkham graph qui ne peut pas etre plus clair
 compte debank avec les memes photo de profil (pas un argument on chain mais c'est tres suspect)
+Tx disperse depuis polygon 
+https://polygonscan.com/tx/0xc2bcc5d4f0d7b33492e9e8477a06a3d60fa3ab1e3c1187fa9b38958ed273ab67
+Tx disperse de GETH depuis arbitrum 
+https://arbiscan.io/tx/0x4b74b62172d82946974c3d9655ed5eb901c21ae05d7ce2b2f78bc18da784531b
+Tx disperse de BUSD depuis la bsc 
+https://bscscan.com/tx/0x703dbd5b341be4a1e1c382cfe0e7650775e14031a8e950ccbb1193c61ebde788
 
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5f9aa0f-00c7-47a0-84f6-2a51c0359da2)
