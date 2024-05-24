@@ -131,6 +131,9 @@ Pour la suite de l'analyse, j'utillise debank et layerzeroscan pour trouver des 
 
 ## CLUSTER 2
 
+The first 28 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
+The rest are linked to numerous addresses of the cluster, multiple times.
+
 ```
 0x18958ba039f66dc7ec399a04227d0d0f032d2493
 0x4f142b82bbc4f06655bca6432e500cce1227cdd3
@@ -234,9 +237,43 @@ Moreover, all these wallets have a similar number of Layer Zero messages (about 
 
 etc etc 
 
+## CLUSTER 3
 
+The first 28 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
+The rest are linked to numerous addresses of the cluster, multiple times.
 
+```
+0x29e6c5d260e4b800e5a2226afbfca66568310da7
+0x80019ceb167ef8e1d3d991fc42739e4c06e587d6
+0x08c144c7da146189a4097e771e54512c5ff9d145
+0xb43e0b414d156570d9123bf5286d15ed2e22fa72
+0x392cb58fb7d6c27943d16ddd68d943dfb2695da9
+0x92c814b4bba46af24d887aa0e34e63b7b381ba03
+0xcdaa39e7bcc311de7970e6fc8bba92cef0b8c4e1
+0x5ace6f229552901c69c914529f0d99ec757c265d
+0x604040c5a2b04008d97739482906d40214f7ca3b
+0xcddd83a4ce477bc8d81aeed33539b0338273a4fc
+0x4d60c23d86dc8da36c8d739e0db921f15553b6f7
+0x71954e31c0a79aaac6c9cde641691ee6a5c3d936
+0xa1da0e1100e88aa6c4f5555cfa5ac24d5ff4088d
+0xaf08d3360369ca473d2dbd1e2dc4f69296bb0e5b
+0x0aca8c735159fea6705080d80a1959622f647a59
+0x30c795f8ab70fbeb2b1e79ac88cccaf2966cd058
+0xe4125a0edfb48070b60d33368fae03b40ac4f0ea
+0xdc7a3734d9cf7efecc0d53a4854be2a4e00cf81f
+0xb22223f2f433700d095797facd6a7212d6779675
+0xbeb616971159c12971df15cfc195b11a0cca30d7
+0xc2e5b466e3a0b116ad1f8f62cd3903d5cb314c78
+0xcfd426deb6f9f1e4e959aa7c28b42d546cded891
+0x41261fb9e642318994528e8a902c3582b50d9034
+0x1e0740315d6014c9bbc4423b09c8fb5aac39d8d7
+0x0aada189cbb5743f9e6123464ee7c1553818796e
+0x5c357023e4b0afb0224ac6159e4df0eb672ec355
+0x9434cf7b244958dc6cbaf9fb46173caba8d2595f
+0xde52e9ab7282c060e763db278fcc0a3ff839cfdb
+```
 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5038e1eb-d596-4b39-aebb-123f7e8ecc32)
 
 
 
