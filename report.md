@@ -131,7 +131,7 @@ Pour la suite de l'analyse, j'utillise debank et layerzeroscan pour trouver des 
 
 ## CLUSTER 2
 
-The first 28 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
+The first addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
 
 ```
@@ -163,6 +163,10 @@ The rest are linked to numerous addresses of the cluster, multiple times.
 0x1738d03536e92453c6753d3b56525a36a23133db
 0xd595a0f6ca118c2d73ab693bc4c3cc724341c8f2
 0xc50d540b932ff4edeeb7404cb963616e140c3acb
+0xBAa1A2f5C8cBFEcf8791b4196116c8fA3B089795
+0x94f7B3996C94414E2C1AA12e1EaaBEf507125272
+0xe536490d4B884f951B52f4a98753937FDc88EddF
+0x142fdDF38ed8Ce4b81F828246880b84BDE4AA9B6
 ```
 
 TLDR:
