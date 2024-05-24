@@ -7,16 +7,22 @@ As a French speaker not fully fluent in English, this report has been translated
 
 # Detailed Methodology
 
-To identify these clusters, I capitalized on a common mistake among Sybil schemes: using the same deposit address on a centralized exchange (CEX). I employed SQL queries on Dune Analytics to create a custom dashboard, which helped me find multiple addresses interacting with the same CEX deposit address. I refined my searches to discover wallets interacting with the initially identified addresses, broadening my clusters to include at least 20 wallets for relevance. All addresses were then manually checked using Layer Zero Scan, the premium version of DeBank (an excellent tool once mastered), and Arkham Intel. The main indicators for detecting these clusters were the identical CEX deposit address and similar on-chain activities (e.g., the same dates, interaction orders with protocols, transfers of bridgeable Layer Zero tokens like JOE among cluster wallets). Every detail was manually verified to minimize false positives.
+To identify these clusters, I capitalized on a common mistake among Sybil schemes: using the same deposit address on a centralized exchange (CEX). 
+
+I employed SQL queries on Dune Analytics to create a custom dashboard, which helped me find multiple addresses interacting with the same CEX deposit address. I refined my searches to discover wallets interacting with the initially identified addresses, broadening my clusters to include at least 20 wallets for relevance. 
+All addresses were then manually checked using Layer Zero Scan, the premium version of DeBank (an excellent tool once mastered), and Arkham Intel. 
+
+The main indicators for detecting these clusters were the identical CEX deposit address and similar on-chain activities (e.g., the same dates, interaction orders with protocols, transfers of bridgeable Layer Zero tokens like JOE among cluster wallets). 
+
+Every detail was manually verified to minimize false positives.
 
 I hope you find this analysis useful!
 
 # Reward Address (If Eligible)
 
+0xBe971035fD87DBbDdAbf48763d4f12CF08F50895
 
-0xEb8006791807CFD378cF33F676E8C9c3f7d4739F
-
-This is a fresh address.
+(fresh wallet)
 
 
 # Table of Contents
@@ -47,3 +53,21 @@ This is a fresh address.
 22. [Cluster 22](#cluster-22)
 
 </details>
+
+As the cluster are independant and a description comes with every cluster, the two following sections have been regrouped.
+
+This following section is an rotation of the list of the addresses of the cluster and its description: the CEX deposit address some of the addresses share, an Arkham diagram & the second layer of detection.
+
+# Reported Addresses & Description
+
+
+
+
+
+
+
+## CLUSTER 1
+
+
+The first 14 addresses of the cluster share the same Binance deposit address 0xD6e68D8BD25FD515714BC934bE0D29051783bd5C. The rest are linked to numerous addresses of the cluster, multiple times.
+
