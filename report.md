@@ -71,6 +71,7 @@ This following section is an rotation of the list of the addresses of the cluste
 
 ## CLUSTER 1
 
+<details>
 pas fini
 
 The first 28 addresses of the cluster share the same Binance deposit address 0x0b08063Ff2b8f04AfB65268Bae43223Ac2D6b0b5. The rest are linked to numerous addresses of the cluster, multiple times.
@@ -127,10 +128,10 @@ pour gagner du temps je peux deja eliminer les 6 address ayant des liens evident
 
 
 Pour la suite de l'analyse, j'utillise debank et layerzeroscan pour trouver des pattern commun. 
-
+</details>
 
 ## CLUSTER 2
-
+<details>
 The first 10 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
 LEs 32 premieres ont des messages layerzero, les autres ont pour la plupart utilisé le stacking stargate mais je n'ai malheureusement pas eu le temps de toutes les epluches 1 a une 1 (seulement celle du stacking stargate). 
@@ -676,8 +677,12 @@ Moreover, all these wallets have a similar number of Layer Zero messages (about 
 
 etc etc 
 
+</details>
+
+
 ## CLUSTER 3
 
+<details>
 The first 28 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
 
@@ -714,5 +719,5 @@ The rest are linked to numerous addresses of the cluster, multiple times.
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5038e1eb-d596-4b39-aebb-123f7e8ecc32)
 
-
+</details>
 
