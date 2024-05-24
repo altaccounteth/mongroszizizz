@@ -134,8 +134,7 @@ Pour la suite de l'analyse, j'utillise debank et layerzeroscan pour trouver des 
 <details>
 The first 10 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
-LEs 32 premieres ont des messages layerzero, les autres ont pour la plupart utilisé le stacking stargate mais je n'ai malheureusement pas eu le temps de toutes les epluches 1 a une 1 (seulement celle du stacking stargate). 
-Elles sont toutes relie par des disperse
+The first 32 have Layer Zero messages, while the others mostly used Stargate stacking, but unfortunately, I didn't have time to thoroughly examine each one individually (only those involved in Stargate stacking). They are all connected by disperse transactions.
 
 ```
 0x18958ba039f66dc7ec399a04227d0d0f032d2493
