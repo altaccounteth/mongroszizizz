@@ -213,7 +213,7 @@ Disperse transaction from Polygon:
 https://polygonscan.com/tx/0xc2bcc5d4f0d7b33492e9e8477a06a3d60fa3ab1e3c1187fa9b38958ed273ab67
 
 Disperse transaction of GETH from Arbitrum:
-https://arbiscan.io/tx/0x4b74b62172d82946974c3d9655ed5
+https://arbiscan.io/tx/0x4b74b62172d82946974c3d9655ed5eb901c21ae05d7ce2b2f78bc18da784531b
 
 Disperse transaction of BUSD from Binance Smart Chain (BSC):
 https://bscscan.com/tx/0x703dbd5b341be4a1e1c382cfe0e7650775e14031a8e950ccbb1193c61ebde788
