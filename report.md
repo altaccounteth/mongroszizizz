@@ -762,6 +762,10 @@ Testnet bridge same days.
 ## Cluster 4
 
 <details>
+
+**TLDR**
+Same Bybit deposit address.
+Same strategy to rank higher on the Layer Zero Dune leaderboard (Stargate wash trading).
   
 ```
 0x420c769af76ae6a065808f1a67c9f53bbd98a455
@@ -794,20 +798,20 @@ Testnet bridge same days.
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x5820CAf64483A7cB29Ba3Ef93f9AB34b6a54bFcD,0x420c769Af76AE6A065808F1a67c9F53BbD98A455,0x4f020Ec2b43BDaD10e30e885C99c0CdEA134aF77,0xaF591924Ba8261AAcF87DC444806177f99Ab0D8B,0x7f1Ea099d396D76F41C22a4159A0D4931F1afC4C,0x9adb99789a7D2Fd9c6506d12e92A7A3f715DeE07,0x9eF07CAa3517273AE4bded736d3678a447EB7F3e,0x7303C823d2c992302C8cC7596900d8f80879aACb,0xEB04D45667F9F555bb868FE83759C2B57E4c7716,0xe7BD4088B944b644fCA7AFe7C84A1ED71f3f3109,0x0c6feD6b745727C906D4B50a906dceD536dF9f64,0x94a76e7B7A503E0342755b223b6321bb03FEd1C1,0x29faf75Ad1Bfe4fF545B64a57a76881F0fF42ccb,0x8Ec9E390C846ca749535F9fBd4Bbd67C39957F04,0xc8729f0853E25bC694e1F55901Ee620058191fD0,0xAd14f125F22fFAc70432f28587AAfDb8D83E34a7,0xB061032dfc753Bf123B8bB2C3A48CF2a39bd9Bb9,0x3432FA91B8C8D7D5a627fAD339F4f174B83192b6,0x726B8631e87459e6aB53a4102eeC714cebE24eE9,0xA337198F4EEdE41257980d8f2e3eD3d5C7084306,0x618e4f464B143Bcc3B10f252D02bBA0411D34D76,0x9981316e8FcD782F7D956b5b1BeD861Ec2F9e477,0x77D47537212dfc5b920F784FD2dbA5978C1f2565,0x9AE2Fb2c0385A28959A2Cd400bE47d4337dff28C,0x6F6F2b5aFc9021A4baaab518f632a5f8438a9F49?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-On voit clairement sur le arkham le lien entre les differentes addresses, maintanant je vais plus chercher en profondeur avec des argument on chain.
+We can clearly see the link between the different addresses on the Arkham graph. Now, I will delve deeper with on-chain arguments.
 
-Onchain analysis: 
+On-chain analysis:
 
-Premierement, on voit que des nombreux wallets ont un debut d'activité on chain layer zero similaire, cf le dune:
-addresses avec une activité demarrant le meme jour a tres peu d'intervalle horaire.
+Firstly, we see that many wallets have a similar start of on-chain activity for Layer Zero, as shown on Dune:
+addresses with activity starting on the same day within a very short time interval.
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3882843b-d29e-4770-8d73-bf4149a64d81)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f435b702-af70-438f-bd0c-36ba321609a9)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4d564e0e-4a51-428e-b9a8-65dc0a6b689d)
 
-ensuite, on va approfondir en regardant le pattern des messages layer zero sur les differentes addresses du cluster: 
-On remarque que notre prospect a essentiellement utilisé stargate dans son farming layer zero, en faisant du farming de volume sur tous ses wallets, tres utilisé pour gagner de nombreux classemnt de le dune de ranking layer zero 
-voici quelques exemples: 
+Next, we'll delve deeper by examining the pattern of Layer Zero messages across the different addresses in the cluster:
+We notice that our prospect primarily used Stargate in their Layer Zero farming, engaging in volume farming across all their wallets, which is commonly used to gain numerous rankings in the Layer Zero dune ranking.
+Here are a few examples:
 
 0x9adb99789a7d2fd9c6506d12e92a7a3f715dee07
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/202a42a2-79a4-4f1c-af70-e06b5f085adb)
