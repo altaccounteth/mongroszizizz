@@ -996,5 +996,10 @@ Very similar ranking scores.
 On chain analysis
 
 
+Dispersed 55k USDC among all their wallets on Arbitrum to farm the Orderly bridge (Layer Zero interaction), distributing about 1.1k per wallet.
+https://arbiscan.io/tx/0xd104245414238ca2fce89fd8609750f0139a1b7d71398832f535d237baf18027
+
 
 </details>
+
+
