@@ -806,8 +806,28 @@ addresses avec une activité demarrant le meme jour a tres peu d'intervalle hora
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4d564e0e-4a51-428e-b9a8-65dc0a6b689d)
 
 ensuite, on va approfondir en regardant le pattern des messages layer zero sur les differentes addresses du cluster: 
+On remarque que notre prospect a essentiellement utilisé stargate dans son farming layer zero, en faisant du farming de volume sur tous ses wallets, tres utilisé pour gagner de nombreux classemnt de le dune de ranking layer zero 
+voici quelques exemples: 
 
+0x9adb99789a7d2fd9c6506d12e92a7a3f715dee07
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/202a42a2-79a4-4f1c-af70-e06b5f085adb)
 
+0x7f1ea099d396d76f41c22a4159a0d4931f1afc4c
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1c8f8f1a-6322-40e6-983b-5a4ca8d0c23a)
+
+0xaf591924ba8261aacf87dc444806177f99ab0d8b
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a79e9a76-6c26-40b5-aa62-f5a7d5705054)
+
+0x4f020ec2b43bdad10e30e885c99c0cdea134af77
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7ddb5772-bf01-4b9f-b4b4-84f8d6bbfb3a)
+
+0x420c769af76ae6a065808f1a67c9f53bbd98a455
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a39b904f-e38c-4f81-b3e4-9c2815016ee5)
+
+0x9ef07caa3517273ae4bded736d3678a447eb7f3e
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/51c19d57-5b21-47dc-9cd0-5bfac68f5e79)
+
+Etc c'est le cas pour toutes les addresses de ce cluster
 
 
 </details>
