@@ -762,6 +762,7 @@ Testnet bridge same days.
 ## Cluster 4
 
 <details>
+The first 12 addresses of the cluster share the same ByBit deposit address 0x5820CAf64483A7cB29Ba3Ef93f9AB34b6a54bFcD. 
 
 **TLDR**
 Same Bybit deposit address.
