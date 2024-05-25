@@ -682,8 +682,11 @@ etc etc
 ## CLUSTER 3
 
 <details>
-The first 28 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
+The first 10 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
+
+TLDR:
+Stagate bridge with same amount of STG, same day, same binance deposit address
 
 ```
 0x29e6c5d260e4b800e5a2226afbfca66568310da7
@@ -720,12 +723,12 @@ The rest are linked to numerous addresses of the cluster, multiple times.
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x29e6c5D260e4b800e5A2226aFbFca66568310dA7,0x29e6c5D260e4b800e5A2226aFbFca66568310dA7,0x80019ceB167ef8e1d3d991FC42739E4c06E587d6,0x08C144C7dA146189A4097e771E54512C5FF9d145,0xb43E0b414D156570d9123bF5286D15eD2E22FA72,0x392cB58Fb7D6C27943d16ddD68d943DFB2695dA9,0x92C814b4BBA46aF24D887AA0E34e63B7B381ba03,0xcDAA39e7bcc311De7970E6Fc8BBA92CeF0b8c4e1,0x5acE6F229552901C69C914529f0d99ec757C265D,0x604040c5a2B04008d97739482906D40214F7Ca3b,0xCddD83a4cE477bC8d81aEED33539b0338273a4fC,0x4d60C23D86dc8DA36C8D739e0db921f15553b6F7,0x71954E31c0A79aAaC6C9cDE641691EE6A5c3D936,0xa1da0e1100E88AA6c4f5555CFa5aC24d5FF4088d,0xAf08d3360369Ca473d2DBD1E2dc4F69296bb0E5B,0x0aCa8C735159FEA6705080d80A1959622F647A59,0x30c795f8AB70FbeB2B1e79aC88Cccaf2966CD058,0xE4125A0EdFb48070B60D33368fAe03B40aC4f0Ea,0xdc7A3734D9CF7efEcC0d53A4854be2A4e00Cf81F,0xb22223f2f433700D095797facD6A7212D6779675,0xBEB616971159c12971Df15Cfc195B11A0cca30D7,0xC2e5b466e3a0b116ad1F8F62cd3903D5cb314C78,0xcfd426dEb6F9F1e4e959AA7C28B42D546CdeD891,0x41261fb9E642318994528e8a902C3582b50D9034,0x1e0740315D6014C9bBc4423b09C8fB5aaC39d8d7,0x0Aada189CBb5743F9E6123464EE7C1553818796e,0x5C357023e4B0AFb0224aC6159e4Df0Eb672EC355,0x9434Cf7b244958dC6Cbaf9fB46173CAbA8d2595f,0xDE52e9Ab7282c060E763Db278fCc0a3Ff839CfdB?flow=self&positions=%7B%220x29e6c5D260e4b800e5A2226aFbFca66568310dA7%22%3A%7B%22fx%22%3A29%2C%22fy%22%3A-28%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-Pour ce qui est du onchain: 
+Regarding on-chain:
 
--envoi de usdt a plusieurs wallet de notre liste:
+- Sending USDT to several wallets from our list.
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e2259894-8cf2-4a8b-ae29-a77156b1775d)
 
--meme pattern sur stargate avec des STG, le tout le 10/04/2023, environ 5000 STG a chaque fois, puis depot binance. Quelques images de debank pour illustrer mon propos.  la date d'execution ne laisse pas de place au hasard, surtout que les address de depot binance sont similaires: 
+Same pattern on Stargate with STG tokens, all on October 4th 2023, about 5000 STG each time, then deposited to Binance. A few DeBank images to illustrate my point. The execution date does not leave room for coincidence, especially since the Binance deposit addresses are similar.
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2eae7603-ae9d-4abd-a1b7-32028051392c)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4a24dab6-5542-437d-b9dd-46b827846d51)
@@ -741,6 +744,14 @@ Pour ce qui est du onchain:
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/95d45284-4e02-4a43-8592-bc59f8de69f2)
 
 ETC ETC
+
+Similar pattern observed on the transactions seen on LayerZeroScan.
+Testnet bridge same days.
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5106638f-98ba-4c06-8270-371f5a1bd7f9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d767fcf-01f1-447a-80e4-113a836ef608)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0d9228fd-e2fd-4b1a-9bd0-4baf13242ff1)
+
 
 </details>
 
