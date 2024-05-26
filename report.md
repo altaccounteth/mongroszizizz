@@ -995,6 +995,7 @@ The first 12  addresses are linked by the same CEX deposit on ByBit:
 0x5e8c3a2B1c88D61558DFd4B810150CAe188ec65D
 
 **TLDR**
+Same date  & amount Linea Renzo Mint on ALL WALLETS
 Same ZKSYNC/ZKSYNCLITE/STARKNET native bridge date
 Same STG lock date on arbitrum 
 
@@ -1034,6 +1035,42 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x7ABd480bDad5CCFe1AcC
 
 Layerzeroday verysimilar
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ac503934-f392-4454-a1df-9d0934e9aac6)
+
+RENZO    
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5497783a-6384-4416-b9ec-e4f6b8e5e224)
+
+
+
+Renzo Linea Mint on same date with same amount:
+
+https://lineascan.build/tx/0x31d5838cbdcbb3461ef663d2385f471760adfc293bed0ea75f7c7002d4737962      
+https://lineascan.build/tx/0xe296283b059da2c1efda533b5795825bac96b7dbcef87b2b228966f52f23041a     
+https://lineascan.build/tx/0xfe7231e0a3abd4bf7cd4c419958f6d997ae7d88ad96a854009c838baa6af2bc5    
+https://lineascan.build/tx/0x8802609ab6f683815e23dd0d32eecee0fe9f1d1131b89a368eb030d1f89e3f94     
+https://lineascan.build/tx/0x101038346b1f5d982594a2b14993e7af8f2bb75a516556e8385d0fb50f28b582     
+https://lineascan.build/tx/0x5af61148bfe5d6bf37411822496589c9e417fc648eba2b27cd27768d9332892a       
+https://lineascan.build/tx/0x198fa2ecd9dcef4d774b082880682deb91d6581b6ceba3877961bd292b5eff67         
+https://lineascan.build/tx/0xfcf078be86e38dd70a58d640910f889b4549aa36580522f558fee869a360261b     
+https://lineascan.build/tx/0x2c6a7aed6ab820f84c8459d61a59d1fda5f78ed18695bc915ce0e70aa0b80b5b       
+https://lineascan.build/tx/0x2a1133b5079e577c58124c29e5e0606941f549f0228c08c7ea8940a4e2925a1f      
+https://lineascan.build/tx/0x52eb2a1211cbeede2cb65688326e4bc8e8bc353cbb6b58e0d79aa178cd211db6    
+https://lineascan.build/tx/0xf95937cd79431fb1a46edf9f70d445c0e86c457602353d92a2e81fb1f575572f      
+https://lineascan.build/tx/0x6c1a57754fc395b06e651be0a3aa006885045d3dfae58988b31a73c65de4a531     
+https://lineascan.build/tx/0x96b7c8c79db72a1b5bab8512afe0f658c7a9d5cfa31eb3e4a8e779da552f4938     
+https://lineascan.build/tx/0xa2bb2cbcba9d225c638d6f6a5e41fea08af7cee290e6ba7a2ad8f9823ede2b3f
+https://lineascan.build/tx/0xfe5c6ec85b21d1ec93e38a61c573d9f119c3dfef398297197648030c221c6ed4    
+https://lineascan.build/tx/0x0f9db065a7b72b3800cc91e706907765dc6bd740bffff0480b2ff549a5c5be4e    
+https://lineascan.build/tx/0x31ec369519f40b42438a182d0c013cf2f9de48863a814d76534e67781102f4ff     
+https://lineascan.build/tx/0x3e1af24381f38b52585ba0b7706686eb8df57a586c738fb33fef6e233fd5bbc7    
+https://lineascan.build/tx/0xa212ee8bb999b85532352230c20acf8d37bb6ebf5c0bfefa55fd1e8fcca8eed5       
+https://lineascan.build/tx/0x1a67b03cfcbcfd4fb2063642448ee9535954664290314b8c577afbc051bab7bc     
+https://lineascan.build/tx/0x8aeeb7ba311c6b7c4d78bbf22815882b1db4e954c763e826574ade36680a6f3c     
+https://lineascan.build/tx/0x05469bb3b0fca3c6d21da88ce4867e76e9c85b21db4979e0bd075e6535a1be58     
+https://lineascan.build/tx/0xa4d8c902c373975c8f7f00b789a39c65e1ff5b42e6471b605f88b1d837a19427      
+https://lineascan.build/tx/0xcf0043b6027b229adf3b5d13db0464040a699a5f08fd2db8ee4ce7d4a8b86ac5     
+https://lineascan.build/tx/0x4c742ce663144fbced1f489f0b0a61bcfc85d48722b8fb45834e0790f0aad671
+
 
 Many wallets locked similar amounts of STG on the same day.
 
