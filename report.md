@@ -706,8 +706,9 @@ etc etc
 The first 10 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
 
-TLDR:
+**TLDR**
 Stagate bridge with same amount of STG, same day, same binance deposit address, same lzd
+All the wallets in this cluster that locked STG did so on the same day.
 
 ```
 0x29e6c5d260e4b800e5a2226afbfca66568310da7
@@ -782,6 +783,56 @@ Testnet bridge same days.
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d767fcf-01f1-447a-80e4-113a836ef608)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0d9228fd-e2fd-4b1a-9bd0-4baf13242ff1)
 
+LOCK STG DATE: 
+All the wallets in this cluster that locked STG did so on the same day.
+
+1eme 2024-04-17   2024-03-19   2024-02-23   2024-01-26   2023-03-18   2022-10-20   2022-10-13   2022-10-06   2022-10-03   2022-10-03   2022-09-20   
+2eme 2024-04-17   2024-03-19   2023-02-16   
+3eme 2024-04-17   2024-03-19   
+4eme 2024-04-17   2024-03-19   
+5eme 2024-04-17   2024-03-19   
+6eme 2024-04-17   2024-03-19   2024-03-19   2023-02-16   
+7eme 2024-04-17   2024-03-19   
+8eme 2024-04-17   
+11eme 2024-04-17   
+12eme 2024-04-17   
+13eme 2024-04-17   
+14eme 2024-04-17   
+15eme 2024-04-17   
+16eme 2024-04-17   
+17eme 2024-04-17   
+18eme 2024-04-17   
+20eme 2024-04-17   
+21eme 2024-04-17   
+25eme 2024-04-17   
+27eme 2024-04-17   
+28eme 2024-04-17   
+29eme 2024-04-17   2024-03-19   
+30eme 2024-04-17   2024-03-19   
+31eme 2024-04-17   2024-03-19   2023-02-16   
+32eme 2024-04-17   2024-03-19   
+
+ZKSYNC BRIDGE 
+2eme 2024-04-17 
+3eme 2024-04-17 
+14eme 2024-04-17 
+28eme 2024-04-17 
+29eme 2024-04-17 
+30eme 2024-04-17 2024-04-17 
+31eme 2024-04-17 
+
+arbitrum bridge
+1eme 2022-11-18 
+2eme 2023-02-17 2023-02-17 
+3eme 2023-02-17 
+4eme 2023-02-17 
+5eme 2023-02-17 
+6eme 2023-02-17 
+7eme 2023-02-17 
+29eme 2023-02-17 2023-02-17 
+30eme 2023-02-17 2023-02-17 
+31eme 2023-02-17 2023-02-17 
+32eme 2023-02-17 
 
 </details>
 
