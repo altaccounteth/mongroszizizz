@@ -1358,7 +1358,7 @@ We trace back to: 0x8e3a87c8503FAFfc3845c0E958c590A30952A2b4
 etc etc…
 
 All gen 1 and 2 wallets have the same amount of STG deposited and the same unlock time. Same deposit period…
-
+It cannot be a coincidence! 
 
 </details>
 
