@@ -993,6 +993,7 @@ Same goes for ZKSYNC, no doubt about this cluster.
   
 The first 12  addresses are linked by the same CEX deposit on ByBit:
 0x5e8c3a2B1c88D61558DFd4B810150CAe188ec65D
+sybil cluster farming multiple airdrops across +20 wallets
 
 **TLDR**
 Same date  & amount Linea Renzo Mint on ALL WALLETS
@@ -1202,6 +1203,10 @@ starknet
 <details>
 11 first address same CEX deposit 0xf9f24433BE35f0f14673eE30B079a0727d3278F5 (OKX)
 
+**TLDR**
+STG stargate bridge wash trading, then deposit to Binance
+
+
 ```
 0xb9e5817f583e523bb93915152c9bf59a86b3bb1a
 0x63500fae0e488188d48fb4706e4d2837947e7e1d
@@ -1254,7 +1259,62 @@ for exemple, 11 address with 315 layerzerodays, created within less than 2 hours
 
 On chain analysis:
 - nombre de messages layerzero similaire sut tous les wallets (environ 100)
-- on remarque des pattern similaire sur plusieurs wallats
+- on remarque des pattern similaire sur plusieurs wallets
+
+STG Bridge with a huge amount, on very close dates. Bridge with a large amount then deposit to Binance, and the chain continues.
+
+Binance withdraw and deposit chain: 
+2023/12/20 -> 2023/12/27 wash trading with Binance
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/57220392-177d-44a9-980a-65743dad61e4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/909e3c0a-8583-4cf5-9fd5-56e5ac6169ee)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6fdb910a-349e-4bbc-acad-5464283c58f9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5f334d7e-237c-4730-8167-bab6f73e0977)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7c6742c1-1113-40e3-8cd3-d2870a3763f3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce329d49-5a19-4f62-bdc6-51420efb03c8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/22a465a0-4391-43df-afe1-5a07be2ac7bf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/120fbabe-62e6-4f50-9e99-cd1056cd07d8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e85ad69-fec9-4674-be4b-90b5019f6f7c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/253e195d-879f-41bc-9856-a0763d2af8bf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8f9ea175-7014-465c-8437-734b01dcbcc2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3dc220d9-d70c-485d-935c-e95d76426302)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/839f8311-f99a-43c1-b1a5-d8643ddc9c5f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6124e02b-8481-4c45-9ce1-80bd83b70182)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3ab46241-607a-47e0-bdd3-79ab44d99735)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/feeed3a0-be36-4942-ad0d-95a6e4b7056f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e106dd60-ff3f-443f-9902-0b14ed2999ed)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c3f248ac-b379-480d-871a-9b597633be2a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/899f10a0-44ce-4fc7-a54e-665e5eeb961f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9dfe1328-cd5a-465a-98e1-fe575eb10fd1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8bc94439-0d39-49d7-9d7f-b62bc4ac92d6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d570b7aa-943f-4666-8e5f-33976a6dce32)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8293527a-71e2-4fa2-af51-865f67fcff69)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dceb18b9-c702-497f-b873-d5fb585037dc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/76876455-89a3-4610-b418-6b5ae1994b0f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0d2df3fb-d97f-4b28-bce4-26bf3fd0954b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d426e768-b3f1-4e62-80cd-b82636557b23)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/367bfad3-71c4-472d-be11-e440d521aa51)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ec3e4818-9d45-4625-9a91-c7a172d17856)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a34f18b1-0ef3-48bf-9e12-f0f78e8cf799)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/79524660-7e6c-4c34-b5a3-1dfa65413997)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5fa0880-0d37-4658-bf49-09ad83581dc4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0ca1ba29-a07f-453a-8665-8473d8c2a055)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4c27ac7f-f2ee-42de-8728-6c02809c6791)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2a143470-b0e3-4096-a10a-aae760389744)
+
+
+
+
+
+
+
+Wash trading exemples: 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c546bb00-770c-45fd-b754-c504a1bb3377)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0922c841-729e-47e1-9d4b-f2fc7b2e72e4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f7aca0be-9b41-49b7-b428-1dc3ec067476)
+
+
+
+
 
 </details>
 
