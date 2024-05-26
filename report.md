@@ -1204,8 +1204,8 @@ starknet
 11 first address same CEX deposit 0xf9f24433BE35f0f14673eE30B079a0727d3278F5 (OKX)
 
 **TLDR**
-STG stargate bridge wash trading, then deposit to Binance
-
+STG stargate bridge wash trading with huge amount, then deposit to Binance
+Similar layer zero days
 
 ```
 0xb9e5817f583e523bb93915152c9bf59a86b3bb1a
@@ -1257,9 +1257,9 @@ for exemple, 11 address with 315 layerzerodays, created within less than 2 hours
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/72c621fe-9fb7-45dd-b621-a67bc3d69ef9)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5578c746-fada-499f-a917-29c5887dd2ad)
 
-On chain analysis:
-- nombre de messages layerzero similaire sut tous les wallets (environ 100)
-- on remarque des pattern similaire sur plusieurs wallets
+On-chain analysis:
+- Similar number of LayerZero messages across all wallets (approximately 100).
+- Similar patterns observed across multiple wallets.
 
 STG Bridge with a huge amount, on very close dates. Bridge with a large amount then deposit to Binance, and the chain continues.
 
