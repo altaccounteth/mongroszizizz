@@ -10,11 +10,13 @@ As a French speaker not fully fluent in English, this report has been translated
 To identify these clusters, I capitalized on a common mistake among Sybil schemes: using the same deposit address on a centralized exchange (CEX). 
 
 I employed SQL queries on Dune Analytics to create a custom dashboard, which helped me find multiple addresses interacting with the same CEX deposit address. I refined my searches to discover wallets interacting with the initially identified addresses, broadening my clusters to include at least 20 wallets for relevance. 
+
+I also used a **graph algorithm** to find all these addresses, which is why I occasionally use terms like gen0, gen1, gen2. Gen0 refers to the addresses with the same CEX deposit, gen1 includes addresses that interacted with gen1, gen2, and so on.
+
 All addresses were then manually checked using Layer Zero Scan, the premium version of DeBank (an excellent tool once mastered), and Arkham Intel. 
 Arkham is a useful tool, but it does not map all the chains used by Layer Zero, so a manual double-check is mandatory to find the Sybils that have used the chains not mapped by Arkham! 
 
 The main indicators for detecting these clusters were the identical CEX deposit address and similar on-chain activities (e.g., the same dates, interaction orders with protocols, transfers of bridgeable Layer Zero tokens like JOE among cluster wallets). 
-
 
 
 Every detail was manually verified to minimize false positives.
@@ -1372,7 +1374,111 @@ It cannot be a coincidence!
 
 
 <details>
-
-
   
+The first 7 addresses are linked by the same Kucoin CEX deposit:
+0x13645493baDBEA2cC67e83f92eff7bBFc820124D
+
+```
+0xcdcacc1623428893b5e5460e3a1e2811a23ecbf2
+0x5ccd93a30be7cbbbd32fabfc7bf8e0ad59239c4e
+0xd2eb1fc07318f07bfb109cd1cc62be12d74d30ce
+0xff42ae25b73c245fd5dee535d098b65ea7dc9d05
+0x9759f8f96e54b8d166859e1fc4081819d4c3d0ad
+0x35cf73070c709f4d0b45a1b2060fd91e5f02c19d
+0xc73b4f316e31569a28f3730fed8af7b6623f1314
+0x22e45db423c0974de0f5f2dde836519d1a173e5f
+0x465fbece3182eac3f2d07916ba63a8ad9ae4d049
+0xd146c0c79bc5bba7d624086eeebae19d01e7bdd3
+0xed834b19348f69ce3f5a32d9b6f485bf359242dc
+0xc7cda73dc62d249ddb02179a8b609e313db68c47
+0x1381596e9711fa5bc5fb2144002f7dcdd96ca6f8
+0xd712014756d1939cc28d9dccaf69d809f46e9985
+0xe92b05b112a79f398a41d403945452f25415d099
+0xc50d0c8474862c5a0a8438057ccb98b2947eb40b
+0xf694bce69fc21eed7cf6f9f31866324b4162d540
+0x8d4318e216e0a310974be68438872bd35d7e888d
+0x2ae9d32b5c242ca88cd649c688d7648870b6ab3d
+0x618b5be4b2c9c913783336321409d6ba5392e056
+0x7729e207c1b6e59f339ee1eef4fc5200232c6e9d
+0x97aaeada4af107dd030ae84fc6be6b1db6bed10f
+0x48be6ae9cb888141fbd1dc7c6ef208109521b11f
+0x667958fefc62eca961dac1795577b54ec32d4337
+0xf136ef21bac2da012328ba79da8840683543d8a7
+0x1e2e671a87aad52cd889f7ac144ea20e2ed0c490
+0xdb2a14f3052ee802a2057f8c59e0e27624f61761
+0xcc992cc074a9bfea85f3eb02964ab49fcab317a1
+0x28341b10bfb264a3dea16f74d9fdecc5c12f3b3a
+0xca033d2fa80ff58d470582d4810e1620ab2475fd
+0x8f1cb6168112695041acbbdecbf0e91546a9c08c
+0xde54629b1d4ef12ae12f3bfa44b526c6a4a04f2b
+0x5e24798d05065ffc4ad1022726ca998f92b67135
+0x0780469ce3ae3ad82d689a0affa46da37a4eb4f3
+0xca4773c16885e6f2ea655afcb6b8d2be329b03b7
+0x710758e8058039bff15d97adcda9c15ec5ae20d2
+0x36dac34ea1c95c48f1f0f31bf745147b0023a42c
+```
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7163825d-6318-4fdb-afd7-76128e1ae5b2)
+
+
+https://platform.arkhamintelligence.com/visualizer/entity/0xCDcaCC1623428893b5E5460E3a1E2811A23ecbF2,0x5CcD93a30be7cbBBD32Fabfc7Bf8E0aD59239c4e,0xd2eB1Fc07318F07BFb109cd1cc62be12d74d30cE,0xff42AE25b73C245FD5deE535D098B65Ea7DC9d05,0x9759f8f96e54B8d166859E1fc4081819d4C3D0AD,0x35cF73070C709F4d0b45a1b2060Fd91e5F02c19d,0xc73b4f316E31569a28f3730fed8AF7b6623f1314,0x22E45db423c0974dE0F5f2dDE836519D1a173E5F,0x465FBecE3182eaC3F2D07916ba63a8Ad9ae4D049,0xd146c0c79BC5bbA7d624086eEEBAe19d01E7Bdd3,0xED834b19348f69CE3f5a32D9B6f485BF359242dC,0xC7CdA73dc62D249dDb02179A8b609e313Db68C47,0x1381596e9711fA5BC5Fb2144002F7DCdD96CA6f8,0xD712014756d1939Cc28D9dCCAf69d809f46e9985,0xe92B05B112A79f398A41d403945452f25415D099,0xC50D0c8474862c5a0A8438057CCB98B2947eB40B,0xf694BcE69Fc21eED7cf6F9F31866324B4162d540,0x8d4318e216E0a310974bE68438872bd35d7E888d,0x2aE9D32B5C242Ca88cD649C688D7648870B6AB3D,0x618B5Be4B2c9C913783336321409d6Ba5392e056,0x7729e207C1B6e59F339Ee1Eef4fc5200232C6E9d,0x97AAeaDA4af107dd030ae84Fc6bE6B1Db6BEd10f,0x48be6ae9cb888141FBd1Dc7C6eF208109521b11f,0x667958FeFC62ECa961DAC1795577b54ec32d4337,0xF136ef21bac2Da012328bA79Da8840683543D8a7,0x1e2E671A87AaD52CD889F7Ac144EA20e2ed0C490,0xDB2A14f3052eE802a2057F8c59e0e27624F61761,0xcC992Cc074a9BfEA85F3Eb02964aB49FCAb317A1,0x28341b10Bfb264A3DEa16F74d9fDecC5C12f3b3A,0xCA033D2Fa80Ff58d470582d4810E1620Ab2475fd,0x8f1cB6168112695041acbbdEcbf0e91546a9c08c,0xdE54629b1d4EF12Ae12F3BFA44b526c6a4A04f2B,0x5e24798d05065ffc4ad1022726CA998f92b67135,0x0780469CE3Ae3aD82D689A0affA46Da37A4eb4F3,0xcA4773C16885E6F2eA655aFCb6B8D2BE329B03B7?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+No doubt about it on Arkham, we are definitely dealing with a cluster; the addresses have interacted many times amongst themselves. Let's look more in detail on-chain.
+
+L0 days: 
+5 on day 344, 1 on day 345 thus groups of 6,
+10 on days 540/541,
+8 on days 546/547,
+8 between days 551 and 558,
+the rest are scattered.
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/34746a0d-b33f-4617-bd0a-bb88d4eb00ec)
+
+Looking at the first address in our cluster
+https://debank.com/profile/0xcdcacc1623428893b5e5460e3a1e2811a23ecbf2/history?chain=arb&token=0x6694340fc020c5e6b96567843da2df01b2ce1eb6_STG
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9ad5a9e6-3b66-4cf0-a503-fe55e5014e37)
+
+We look at where STG comes from
+- 0x2ae9d32b5c242ca88cd649c688d7648870b6ab3d (gen1):
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0f1f1f6c-9085-48ee-bc18-840eeb16eb0a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8d90de64-1358-4bd3-93b2-c1efe779493b)
+
+- 0x465fbece3182eac3f2d07916ba63a8ad9ae4d049 (gen 1 too)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c44e5905-7265-4174-a4f6-87c464e628a1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1e52637c-a6a0-4027-bc13-e2a3120fdcf5)
+
+0x710758e8058039bff15d97adcda9c15ec5ae20d2 (same behavior)
+0x36dac34ea1c95c48f1f0f31bf745147b0023a42c (same behavior)
+0xd712014756d1939cc28d9dccaf69d809f46e9985 (gen 1, same behavior)
+0xe92b05b112a79f398a41d403945452f25415d099 (gen1, non-whole USDC amount and some purchase via OpenOcean but deposit too on Stargate of the STG)
+​​0x35cf73070c709f4d0b45a1b2060fd91e5f02c19d (same CEX deposit, non-whole USDC amount and some purchase via ODOS but deposit too on Stargate of the STG)
+0x22e45db423c0974de0f5f2dde836519d1a173e5f (gen 1, no USDC purchase, direct lock)
+⇒ Same behavior, buying STG using a generally whole amount of USDC through Open Ocean and Slingshot then lock. (not the same date but same behavior)
+
+Initial wallet received 90 STG from 0x48be6ae9cb888141fbd1dc7c6ef208109521b11f (gen 2) which itself initiates similarly:
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a79b7aaf-7d60-4a1c-b38b-bc00be2b9096)
+
+Now, if we look at L0scan, we can see that all the wallets from gen0, except for one (0xcdcacc1623428893b5e5460e3a1e2811a23ecbf2), have a transaction on Abracadabra Money between Friday, June 16, 2023, and Saturday, June 17, 2023:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c45fd6cf-bead-4a9a-aa3c-ac84915c2fd5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/99a452b7-1dae-48bb-a728-39e481d2d885)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6d44a11d-f23c-4e0d-8e02-97e3d1481867)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9b0e94fe-8633-43b6-8e73-ebe4dfe660aa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a720c0f2-bc41-4c13-a598-339d28283bac)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9091c399-ef81-4ce9-985b-257b6df84e2b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/216653af-9102-464a-8b83-995adf9ce59c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fcfd0461-7480-4de8-accc-baa50ecc70b7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e6df17c2-526d-423e-9713-c32dc5cc8353)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e5668fc-c428-4067-af90-98a5dc497b9a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/97331aac-a3b2-4e73-8a03-763ca01a2c82)
+
+Additionally, they all made about twenty DeFi Kingdoms transactions on either Friday the 16th or Saturday the 17th (before or after the Abracadabra transaction, depending on the wallet):
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5396da4b-05b0-41bf-b8d2-cec3029c09d0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/87a2abc0-9aa2-44c1-a5ea-a47a094ef630)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/82006479-bf63-46d9-b6f2-dd6a8eb091ed)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3f657c10-ed5f-441b-94c3-3bcf3a5674d5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/20e98540-e33e-452a-b8b5-1dd51b0a6459)
+
+
 </details>
