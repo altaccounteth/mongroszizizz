@@ -1236,6 +1236,13 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x390ca2DF6A0B8607B81E
 
 ## Cluster 14 
 
+
+<details>
+
+CEX address 
+
+```
+
 0xff392e83a03f1870b67522b48bf515af9ec124e0
 0xba3a6834b0a63accaf549df47e103ad20bb24790
 0x7cd1c3c1df5c7823d535b05c1729d819f77708f9
@@ -1277,5 +1284,8 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x390ca2DF6A0B8607B81E
 0x08ccf6bb513d5cd16de3206a5e0f87725918fc49
 0xd2c3b7b0d791d638b22dca82da6ed68974635939
 
+```
+
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/db3f4804-6dec-4117-b577-f8daa834bbda)
 
+</details>
