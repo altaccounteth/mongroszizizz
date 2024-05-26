@@ -1289,3 +1289,85 @@ CEX address
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/db3f4804-6dec-4117-b577-f8daa834bbda)
 
 </details>
+
+## Cluster 15
+
+
+<details>
+
+The first 7 addresses are linked by the same Binance CEX deposit:
+0x09A11feBfF82042699CcFE93ae4AF4965198Bc27
+
+**TLDR**
+Same Layer Zero activity days.
+Same CEX deposit address.
+Same Stargate lockup amount, on the same date.
+
+```
+0x5eb1b7b2ef9ce6e523985375b910b879da321bc6
+0x8e3a87c8503faffc3845c0e958c590a30952a2b4
+0x1e4c701bd9734826f0ff206009e1e2b8284324fa
+0xa25aa0e97ba46d02cafc0c5750e726533a2e07f2
+0x71263dacc983cb4aaa57bb398e03d1ddd1d760a1
+0xef99e86121c4bb1ce0a02fb0207aa9219392088e
+0x2ba226018757c3e3cb531b0d85a63fa4dfce0856
+0x06c22c7768e6f4fdd11f2d74bb07f8279f7ac63e
+0xb065e3247afafba37b98209bc62195fb6e980c8f
+0x15af8d0d3df4c6b1c1d93f9119fbb94ea6973ba6
+0x39486e8b16424a3a8050ca710265620c3d2e17fd
+0x244cbcf5a7d9e3271422fc76d6ae7a3a2a0e9d09
+0x3fb92bd83a30681ef87d5cceabf3269d0655a9f1
+0x2ca8886c71cb5c0b0b01c6c8749497cf85b4b974
+0x2686da9a830f9fd1a4c6e840f3542de0b9d54002
+0x8c9df0438ff434fae90ee9ad6225c1538aa75311
+0xa390762d2ada9f850400dc627c3d5ce419aa2854
+0x5b3a5d5e25be3b2376c43e59663fda4503a17443
+0x7d5eef85e3147b99131d9b60d1f3ca8455cdb721
+0xaafbaec081ed11b692c4e993fe77e308b50c8cfc
+```
+
+Unquestionably, on Arkham, it is clear that we are dealing with a cluster of 20 addresses.
+
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6eb4b28a-9fb2-4224-83a2-577ada8371fd)
+https://platform.arkhamintelligence.com/visualizer/entity/0x5Eb1b7B2ef9CE6e523985375B910B879dA321bC6,0x8e3a87c8503FAFfc3845c0E958c590A30952A2b4,0x1E4C701bD9734826F0FF206009e1E2B8284324FA,0xA25Aa0E97ba46D02Cafc0C5750e726533A2E07f2,0x71263dACC983Cb4aAa57bB398E03D1ddd1D760a1,0xEF99E86121C4Bb1ce0A02fB0207aa9219392088e,0x2bA226018757C3E3cb531B0D85a63fA4dfCe0856,0x06c22c7768e6F4Fdd11F2d74bb07F8279F7AC63e,0xB065e3247afAfbA37b98209bC62195fB6e980C8F,0x15AF8D0d3df4C6B1C1d93f9119fbB94ea6973bA6,0x39486e8b16424a3A8050CA710265620c3d2e17FD,0x244CBCf5A7d9e3271422Fc76d6AE7a3a2a0E9D09,0x3FB92BD83a30681EF87d5cCeABF3269d0655a9F1,0x2CA8886C71cB5c0b0B01C6c8749497Cf85B4B974,0x2686dA9a830F9fD1a4C6e840F3542de0b9D54002,0x8c9df0438fF434fAe90EE9AD6225C1538AA75311,0xa390762d2adA9f850400Dc627C3D5ce419aa2854,0x5B3A5D5e25BE3b2376C43E59663FdA4503a17443,0x7D5eef85E3147b99131d9b60d1F3CA8455CDB721,0xaafbAec081eD11b692C4E993fE77e308b50c8CFC?flow=self&positions=%7B%22zuoan150%22%3A%7B%22fx%22%3A-83%2C%22fy%22%3A4%7D%2C%220x2686dA9a830F9fD1a4C6e840F3542de0b9D54002%22%3A%7B%22fx%22%3A-31%2C%22fy%22%3A-35%7D%2C%220x8c9df0438fF434fAe90EE9AD6225C1538AA75311%22%3A%7B%22fx%22%3A22%2C%22fy%22%3A29%7D%2C%220x5Eb1b7B2ef9CE6e523985375B910B879dA321bC6%22%3A%7B%22fx%22%3A-35%2C%22fy%22%3A-20%7D%2C%220x71263dACC983Cb4aAa57bB398E03D1ddd1D760a1%22%3A%7B%22fx%22%3A-48%2C%22fy%22%3A-8%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+On chain analysis:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f196a59c-2112-4a5e-941d-0e43d80da520)
+13 of these wallets started farming Layer Zero on the same day.
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce4ca751-ab26-4fec-8de2-685d4c0f1fb4)
+3 started farming within only a 10-minute difference!
+
+Regarding on-chain behaviors, we notice similarities. 
+Looking at when they made deposits, the date of 2023/07/05 is common for all from the gen 0. More specifically, the $STG are received and deposited between 1 AM and 5 AM, creating a chain:
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3c5a1bc9-8d3e-4ca8-b109-8d5af0aec0b1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/479ced2a-bc91-42f7-b5da-54f62622ab52)
+
+Looking at the originating address:
+https://bscscan.com/tx/0xcd8e88b27f1c59d05960589dbe33fd3c1fc372204103fe4119e5e97f96657cdf
+
+We find 0x71263dACC983Cb4aAa57bB398E03D1ddd1D760a1, and from this address:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d1873172-9573-4300-aa86-2af4637cbb60)
+
+We trace back to: 0x8e3a87c8503FAFfc3845c0E958c590A30952A2b4
+(https://bscscan.com/tx/0x91437ea4a643ee322e2dd572a4550b845f65027872465b449ead2eaa79fdf5cf):
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1a0e47d5-f14d-48eb-80c4-a4ca4de831c2)
+
+etc etc…
+
+All gen 1 and 2 wallets have the same amount of STG deposited and the same unlock time. Same deposit period…
+
+
+</details>
+
+## Cluster 16
+
+
+
+<details>
+
+
+  
+</details>
