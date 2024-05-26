@@ -862,9 +862,14 @@ ETC ETC
 
 </details>
 
-## cluster 5
+## Cluster 5
 
 <details>
+  
+The first 12  addresses are linked by the same CEX deposit on ByBit:
+0x5e8c3a2B1c88D61558DFd4B810150CAe188ec65D
+
+**TLDR**
 
 ```
 0x7abd480bdad5ccfe1acc840ce408b1336b747ad3
