@@ -815,16 +815,20 @@ All the wallets in this cluster that locked STG did so on the same day.
 31eme 2024-04-17   2024-03-19   2023-02-16   
 32eme 2024-04-17   2024-03-19   
 
-ZKSYNC BRIDGE 
-2eme 2024-04-17 
-3eme 2024-04-17 
-14eme 2024-04-17 
-28eme 2024-04-17 
-29eme 2024-04-17 
-30eme 2024-04-17 2024-04-17 
-31eme 2024-04-17 
 
-arbitrum bridge
+ZKSYNC BRIDGE 
+
+2eme 2024-04-17  
+3eme 2024-04-17   
+14eme 2024-04-17    
+28eme 2024-04-17   
+29eme 2024-04-17    
+30eme 2024-04-17 2024-04-17    
+31eme 2024-04-17    
+
+
+ARBITRUM BRIDGE
+
 1eme 2022-11-18 
 2eme 2023-02-17 2023-02-17 
 3eme 2023-02-17 
