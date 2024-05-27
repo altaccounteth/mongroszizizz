@@ -3646,7 +3646,42 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x324Ec2F26161303f5919
 LZ Day: 2 at 252, 5 at 253, 3 at 254, 2 at 255, 2 at 274, 2 at 292, 3 at 294, 2 at 307, 2 at 309, 2 at 326, 2 at 328, and 3 at 333 among others.
 
 Analyzing the holding of STG on BNB via Debank:
-  
+0xfc40c28541ee229cfd0a9435c38779673c6bd5fe
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/0a2b3a66-7d6b-4f2d-8dcf-f3641f42992c)
+Cette adresse est dans le cluster (0xa98082a2ff0fdcf719c9d1b885eab67a35f714c9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f0393555-a91a-4ef9-9312-6b7498c4ff17)
+déja dans le cluster (0x9d21fc5b5cfbf6510eb7e60dacf348208882f5b6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e89493c1-bc8f-4549-a459-dbf5fca6785a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/07790673-c770-4e65-878d-cbb741518418)
+Cette adresse est dans le cluster (0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/0fd46841-fb78-493a-9c8e-089c4b3c0c67)
+Cette adresse est dans le cluster (0x6130efe431dd939d8a6a62999663fda6ffe9cf78)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/6701d6ae-1817-42cc-b1fe-912f138030d6)
+Cette adresse est dans le cluster (0x8b455ae33f9d76346eefa2a51dca4085ff9850f5)
+0x9d21fc5b5cfbf6510eb7e60dacf348208882f5b
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/2ea94f66-d0cc-46d6-a881-753fb9992eb5)
+Cette adresse est dans le cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b9be9f58-da40-437d-9367-d4a85aa78dd2)
+Cette adresse est dans le cluster (0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4)
+0x7613c38eb6c1da437de23b28527a790910c1ba78
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/61c1bdb5-6c8d-43c4-9f50-c369fa3947be)
+0xb7723f91c69e09052553d4f971235b9d1cfae482 dasn le cluster
+[image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3d22fd36-1f9a-4e9b-8142-b59c1122e425)
+0x86bb7c64ff1a286cc97e3bc734e59cb8b8e1cf70 dans le cluster
+0xa98082a2ff0fdcf719c9d1b885eab67a35f714c9
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/84017064-5cd5-441a-83f3-cdf5be6a6af4)
+0x26f275d27c3a66ccc54e7cdaf484f48283ae0ec0 est dans le cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1308e2ba-8fee-4878-8fcd-b29aaf178d14)
+0x23b109ebfa0938a044f5bd00ae214d21009023e8 est dans le cluster
+0xa4068acc31fcff871966afe6290f54de681b3af0
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/072fb112-be75-4c98-a9c8-963db50352a6)
+0x914e0fdbb9a6b2d8f9d58b2302cec55b43e7fe13 est dans le cluster
+On a une qui n'échangent avec personne (0x4403901829bd5dbcc0dc0b8ef2aa8ef173efaa27) des STG mais elle a fait les mêmes tx le même jour qu’une autre:
+(0xa4068acc31fcff871966afe6290f54de681b3af0, 0x4403901829bd5dbcc0dc0b8ef2aa8ef173efaa27)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/cfa0d081-c230-405b-983a-10440b392d80)
+0x69e9e57a8934bad2dc1d9647da60fc891234c586
+0x18d850d35fcb63cdf95e317a747d515a4429f37b qui est dans le cluster
+
 </details>
 
 ## Cluster 29
