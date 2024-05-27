@@ -1,7 +1,7 @@
 This report consolidates 30 clusters of addresses into a single document for practicality. 
 
 Each cluster is independent, with detailed arguments provided as to why each qualifies as a Sybil cluster potentially detrimental to the Layer Zero project. 
-This report format is inspired by the one shared by Bryan on Twitter on May 24, though the **clusters are solely derived from my personal research**. 
+This report format is inspired by the one shared by Bryan on Twitter on May 24th, though the **clusters are solely derived from my personal research**. 
 
 As a French speaker not fully fluent in English, this report has been translated using ChatGPT-4; apologies for any syntactic imprecisions.
 
@@ -13,7 +13,7 @@ As a French speaker not fully fluent in English, this report has been translated
 
 To identify these clusters, I capitalized on a common mistake among Sybil schemes: using the same deposit address on a centralized exchange (CEX). 
 
-I employed SQL queries on Dune Analytics to create a custom dashboard, which helped me find multiple addresses interacting with the same CEX deposit address. I refined my searches to discover wallets interacting with the initially identified addresses, broadening my clusters to include at least 20 wallets for relevance. 
+I employed SQL queries on Dune Analytics to create a custom dashboard, which helped me find multiple addresses interacting with the same CEX deposit address. I refined my searches to discover wallets interacting with the initially identified addresses, broadening my clusters to include at least 20 wallets for relevance. This allowed us to detect the wallets that started farming at the same time.
 
 I also used a **graph algorithm** to find all these addresses, which is why I occasionally use terms like gen0, gen1, gen2. Gen0 refers to the addresses with the same CEX deposit, gen1 includes addresses that interacted with gen1, gen2, and so on.
 
