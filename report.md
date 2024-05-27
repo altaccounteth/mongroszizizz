@@ -3002,13 +3002,17 @@ zksync native bridge
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840359/uasd4a3b1jyu7m1eezqf.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0xFb62EF0D95956a9E8762957c9558F432B49E6947,0xd581f0b4493f6f5177165dca75b64f0fba02b61f,0xb8c9aed31f543d51f01b5f89ccdd2a28f0517e19,0xe064bd0dd80ed0b3135254b5c8d6782a04b029ab,0x44fa549d359e9c0bf9d5d4ef9c3c703869730f3f,0xe1399d2a7eb186247cc116239294a8e2327905ba,0x61e1e7ca42c702def5129cdd6300ecea9438df62,0x0e34e66c9a1cca50ef2cb4b08b13a907f7852af3,0x17807d5c8024aff6b1bd7516f230a77ecf63e89b,0x67e20712877b89f2984dcc3f62f5a80621238311,0x68ec70f9788f7eb1a3d77a530a2ed23ad5000d52,0x78e7bc2f2a5f9c6e4377ee53ef67377603e00874,0x4c565df6d8231108348f7d527a8aeacef984db60,0x5dc6c10cbe4dfbadb87f3df9468931573b9640a5,0x0ed4e17f1a26ef333b3e8cfca4026f4757d6c5f5,0x956f0917c6d85af6f5617ab5493a78fe312857ee,0x352fc52a31e7f2e049f0a86f998f19abcd938cb0,0x0304ce0021f218c599a71964ad0330b8eea6a54d,0x52a6b8803104ae64517ce77fb6b361c504dd1b80,0xf1baeee754ade85c39ce17ff9c7134c874f5cb1f,0x150c6bb40ff9f21fc619696e130564c6c69a8689,0x7a454e7fc2ef38fcf2e9ef543da6eabb6436d444,0x7be681f67f8cb515af1439ba8b02df1061fec7d0,0x80e7f5527ac143d9e6a0e3198dd95b749fc1755d,0xc4fb3efb72aea4aca97a68739044e546c02697a7,0xd7b24eb9cc30388afe22b8f46efebb42f208bc52,0x0a4ce45855136ea52aa207e817e67c3c5a899c5c,0x89d2030ebf0320491cb8230904ef3457f51f5e53,0x951fba59969c4a140a0bd410f27b54a0d636d11a,0x5bbf248fa2f08c14036681a7d2b797f64f575654,0x9eb00ad9a31c9d7fa26f54cd1b562c0567f2bbe7,0xb330ef053c8757af1dae7cfff1a099da729c7052,0x082347c166e2b8c5fa378adbc308214446f46fdd,0xdabe6d5f5e08407ba9ffbf8914e7ab039d2dafb3,0xcd24aa1d300d0213e4b142def75bc9603141b8fa,0xca0f86a9680d89efebc2f7d9c5fcc013a68fb985,0x520b9d1c114d09298b6325e59e3ae3a07c61b7c9,0x356d3bee3080b21ff0b91dff3d849eb2f24578f6,0x2b83a03db4fa319b609c08d894514cb10f10c8e5,0xbb3714ce155526fa2ac0c85a1affd6aea91813df,0xa58b2103479442a362a77d2c6fb3afa3531fc2f9,0x18f2fde723cd8b7c5f5c6efeb3172338bee2b027,0xe7effa42c95e52208eadf8bdb144baf08fc91508,0x8795ee72a276640d0bc2af1e5a4f5c59add94d4a,0xef5c5bf0738d2d9ccdf5e60974d4343aeebab52b,0x2088d86c38dfd48d5d879cd7f7bb885b3c45dd60,0xbfbc0e79c09ad1b05a5d3357a3ba147b3ec287a0,0x4dc83d1b3c56d9ac640efcdf6df26d05487ce2c4,0x8f4a0562d2ca4335cfbe854218d1ed1a8703e23e,0x99ed512659c874d9a0c8bf99af97f73cb947eb83,0x05cdc1970971ea66a43e6e86d9dd0e2fb5d52393,0x604bba1fb4574456df8c875fc878c4c377de3c8e,0xe73fe3e3e50db8c2950072705f1613f4a34f1cac?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
+Here are the details for the Layer Zero (LZ) days for various wallets:
 
-52 wallets de 130 k à 1.8M (sans compter le CEX)
-
-LZ day: 2 à 386, 10 à 406, 2 à 413, 3 à 500, 9 à 704, 19 à 705
+2 wallets have a Layer Zero day of 386.
+10 wallets have a Layer Zero day of 406.
+2 wallets have a Layer Zero day of 413.
+3 wallets have a Layer Zero day of 500.
+9 wallets have a Layer Zero day of 704.
+19 wallets have a Layer Zero day of 705.
 
   
-arbi stg lock
+Arbitrum STG  lock
 
 ```
 2 0xd581f0b4493f6f5177165dca75b64f0fba02b61f 2022-10-30   
@@ -3063,7 +3067,18 @@ arbi stg lock
 52 0x604bba1fb4574456df8c875fc878c4c377de3c8e 2022-10-30   
 53 0xe73fe3e3e50db8c2950072705f1613f4a34f1cac 2022-10-30   
 ```
-Regardons 0xd581f0b4493f6f5177165dca75b64f0fba02b61f et plus particulièrement ses STG sur Arbitrum:
+
+**TLDR**
+
+All the address of the cluster 
+STG => STG loop 
+TEV => Tx similarity Tevaera
+The crossed-out addresses are not in the cluster.
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840474/s8nsa4avzo9rkddnskep.png)
+
+
+
+Let's look at the wallet 0xd581f0b4493f6f5177165dca75b64f0fba02b61f and specifically its STG (Stargate) activity on Arbitrum:
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840360/glbmav5ns4sxwcxfwwcc.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840362/xinndxucggy1bgod0flw.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840364/qab0esavx3gjxd3mnwd9.png)
@@ -3131,8 +3146,6 @@ Common TX Tevaera:
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840469/bptfkeqhi6kqflgrwxne.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840471/lshcmjmi0rg9ssevl7rt.png)
 
-TLDR
-![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840474/s8nsa4avzo9rkddnskep.png)
 
 
 ```
@@ -3184,13 +3197,19 @@ base
  ``` 
 </details>
 
+
+
 ## Cluster 22
 
 ALL wallet linked to the same cex deposit address 
 (OKX)
 0xbF7e7150F31f25a857Df5C1aDe3C1FdA54311d00
 
+
 **TLDR**
+Same CEX deposit address
+OnlyX for every wallet (except 1)
+Stargate & Holograph 
 
 
 ```
@@ -3226,7 +3245,6 @@ ALL wallet linked to the same cex deposit address
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xbF7e7150F31f25a857Df5C1aDe3C1FdA54311d00,0xe9e6a0ec4f0b979a28cbe09c852c86b31769a88b,0xc2b877c9bf9ed8821b2adb0adab8d236e9462cd5,0xcf10556fc23d69789abbb4e0cc78ec09f91594ff,0xf12478f003c4cccfc31872b2853de0916129929b,0x648efe3dfe395843b9c8ae424929d5a9e83f9e92,0xc185b40545faf7fb21e69ce26b9282881db42fa7,0x73b22acb6ce9fbd26c3d9f275c5e756a2e312d0a,0xa52bfd65df1cb8b762d97bbb08b298b0bf42c6a7,0x50844f97ed5dd518a06509860cc56f8e269c8008,0x0f11535265a0f8c2389451c30d0d2f8f7b43c82c,0x61d5a6185bfa3890bf952d4fff6730d023395247,0xd9c43c9d1eb379f8707d4113cf2237d6aa48cfca,0x08a984f1856bdc4234d35af3780ee9a21949cf18,0x3a393d7f3c93566aefb8f4b4780e60778a1f41ab,0xfcbec207ad1d9bd652146eb5ce9b217efe8ab322,0x3defba427321071823d85afdbf5aba2982d5c628,0x5115c9953ec110f54ee71f0f4ea0a7ca60f998dc,0x03e907505bd499a04fafd06f36b99a6572b4d25a,0x2833879c4b1cdcac6c997876f073c923d7d284a8,0x37bd12023a5661c55495952fff2ab16a61a75e1d,0x73d733eefee4284f03eff748cc075d6e01345cd2,0x96c649c7de7610772d7b94d67e08c9da2a43a624,0x7d6d569a3e2eaaf67637e40fd8b88bf547832bd8,0x8b41829209922ef799a84be019a49d2e036fb3c0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-25 wallets ranked from 655k to 2M.
 All wallets have between 16 and 24 messages.
 Tx Omi X on all at two possible dates except for 0xa8deaa308935ccffa268614eab7fa3789085d443):
 
