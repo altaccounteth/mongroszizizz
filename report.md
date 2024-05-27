@@ -2415,7 +2415,7 @@ polygon stg lock
 same zksync bridge date
 STG lock on arbitrum 
 Layer Zero days very similar
-Maverick & Shimer bridge very similar tx 
+Maverick, USDV & Shimer bridge very similar tx 
 
 ```
 0x2f91922aa4caba7ae19c1223c0007a1a598dff51
@@ -2595,10 +2595,11 @@ Finally, USDV (10 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51
 7 first address are linked to CEX deposit address: (Binance)
 0x8a2BD650db0762bF53CaeCa1F9d86B7AdEd34EE7
 
-**TLDR**
+**TLDR**    
 STG lock on Arbitrum with similar amounts
 STG loop between all wallets, then locked
 ZKEVM / BASE / LINEA bridge on same date! 
+
 
 ```
 0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08
@@ -2630,13 +2631,10 @@ ZKEVM / BASE / LINEA bridge on same date!
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x8a2BD650db0762bF53CaeCa1F9d86B7AdEd34EE7,0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08,0x9f863dc1204c5e8fbe549ee4ae26a00980094fd6,0x3bf80e10d6b84ce68f95293d05847ff6b3110237,0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3f,0xd635a7555c23e7c6529f3d759afae86954bc1c0c,0xd43bef3ed093b0fc66dddf9b5effde13f0b1e7be,0xed99cd1539860f849a0e730434c25b6efb5e5791,0xc237e0560446124a6c838013c7d95757e2672604,0x8f753462180957fae5352bb68a7b52ab94186271,0x899367bdafd942b547b9e0572ace53ad4bdcf7c0,0xc66cef4b49642f99107ad58bcb01331d39539d27,0x8e2126b6a8988ca61fd01c1af66eea4798a08404,0x651527d697829c62f15a86cf993dd515d4ff6154,0x4f2c49987effb3185491435c6b6c299a10545176,0xe5515d72ec752441db928e82fb5b9adb07e9843a,0x84b6cb80d11e16ec9658f37b2099843ef065d272,0xc22177ee6a3cf69811a064672e78c4dca3322217,0x30e0a6ffb5a2030feb67b01529c8709265f474fd,0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6,0xaaad486f27b628dadca71a1a76d976f2c2f2291d?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-Layer Zero days
-20 Wallets ranked from 230k to 530k ranking 
 LZ day: 14 wallets at 581 days
 
 
-Tous les wallets on lock des STG sur Stagate Arbitrum
-
+All wallets locked STG on arbitrum stargate
 ```
 1 0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08 2022-10-21 
 2 0x9f863dc1204c5e8fbe549ee4ae26a00980094fd6 2022-10-21   
@@ -2821,11 +2819,11 @@ linea native bridge all wallets the same days
 
 ## Cluster 20
 
-7 first address linked to CEX deposit
+7 first address linked to CEX deposit (OKX)
 0xD732573c8892E0e00404822D3E078B86cfcBa468
 
-**TLDR**
-same layerzerotx on zksync within 2 hours
+**TLDR**   
+same layerzero tx (OpenName) on zksync within 2 hours
 similar zksync bridge date
 
 ```
@@ -2867,7 +2865,7 @@ similar zksync bridge date
 https://platform.arkhamintelligence.com/visualizer/entity/0xD732573c8892E0e00404822D3E078B86cfcBa468,0x666f5f8cb7870f33317db349799cbee427f9e72a,0x1e903fd5be070c1a8056fc525346afb00219a59f,0xca8cf17da5a91cce8ca898adc5428b436ddea1dc,0x67b1ee22e7493e94450a55cba50f6a6ca67f7a3e,0x22cb1d945d23fa08323e59fec9abbcd359e59095,0x5f8f9cb5a25450d1fe78a0ec06a087ca3b36a883,0xeafb1a7bb2da730911e246ba071a59551d581a40,0x97242b533bbbf6375d33c0d6a11cbdd55970ebad,0x53c7c04f1c24a31ba5da10cca82c1bf2139f43b4,0x16adbaabeec90a7e9ef839bf68d90df03668f6a1,0xe9fb4775cbedc7bb6bf36f397de5da1bf7e5b7cf,0x9ce2774ecced375abcdfd04152728caf486b5744,0x5ef55868c28777f00f8fc456f2f09cbf6f3964a8,0x06083744ed88399f6856a2d9b6c140816ade0708,0xe8f69e74a4d24172831ae48b026796f727e1eb4b,0x8f312aac0d57e6a7322dfaad4cc29f030a985f96,0xf00ded727cffdae8ad4981e212eeab2adb0e8da5,0x6bfb5845e869ec2d222bdf89b94c8e79ed5984e1,0x3ee6170ea6d16268e48d67362fa65fa82bb5a6be,0x3d503521439aa08dc8009427b7a48475bcb211f1,0x827eaee2b64ebc45f7fcfc2747d037e37b37b62d,0x8116c3bb43372179ccba51f4374bddbce5c15fbd,0xc2240ee369f82094a4036e0f6ae47cc7919fcaaf,0x7266021ad5e81e79b859b505d411afa99e3d935d,0x921e8b903cbaf28747fad40b3846420b41bcf970,0x2788c9a8a417c50654277189aabf098900ff55d5,0xeffdbc30574a4261713bbdb91a29732326b946bb,0xdc4d52e4bb24544ae55b358d3ee6c73db8a686b2,0xab1f5815ae3ddc8381896072759db5232127cec3?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Same layer zero tx on zksync, the same day, at very similar time, on all wallet! 
-open name()
+OpenName
 
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840306/dz4kdwhl38k30nj8gvzm.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840308/nqsyfwextkth8vlexnnh.png)
@@ -2939,8 +2937,10 @@ zksync native bridge
 
 ## Cluster 21 
 
-7 first address linked to cex deposit address:
+7 first address linked to cex deposit address (Kucoin)
 0xFb62EF0D95956a9E8762957c9558F432B49E6947
+
+**TLDR**
 
 
 ```
