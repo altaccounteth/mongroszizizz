@@ -1032,7 +1032,7 @@ https://arbiscan.io/tx/0xd104245414238ca2fce89fd8609750f0139a1b7d71398832f535d23
 **TLDR**
 Linea Renzo Deposit Scrpited 
 Same deposit & withdraw date, same amount
-2 batch of STG lock date
+2 batch of STG lock date on BSC
 
 ```
 0x078a0b6d78d6fa119655fe6a1b7c02fc9dc7ff73
@@ -1065,7 +1065,7 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x078A0B6D78D6Fa119655
 Similar layer zero Days over 2 batch 
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839879/xraap7agz9r3rbbgrg6f.png)
 
-Renzo Linea Scrpited 
+Renzo Linea Scripted 
 Deposit & withdraw date
 Same amount
 
@@ -1224,6 +1224,11 @@ ZKSYNC Bridge Date very smilar
 13 first addresses are linked by the same CEX deposit wallet. (OKX)
 0x0b9A7D9d5348143C6C8054Cf4ccc4061cEC6F29e
 
+**TLDR**    
+3 batch of lzd 
+BSC STG lock at similar date & amount
+Daily farmer pattern 
+
 ```
 0x8e00d744ffcb7f49f4bc735ceb805c441d7fe256
 0xe9042f1f7d1643e99c3a9d068ab27016dcfb1a5b
@@ -1341,7 +1346,9 @@ on va suivre la chaine:
 
 
 
-zksync
+zksync native bridge 
+daily farmer routine 
+
 ```
 1 0x8e00d744ffcb7f49f4bc735ceb805c441d7fe256 2024-02-25 2023-08-06 
 2 0xe9042f1f7d1643e99c3a9d068ab27016dcfb1a5b 2024-02-28 2023-07-21 
@@ -1380,9 +1387,9 @@ zksync
 
 **TLDR**
 SImilar layerzerodays
-Similar STG lock date
+Similar STG lock date on ETH & Arbitrum 
 Same MEXC/KUCOIN deposit Address
-BTC.B traderjoe farming same date 
+BTC.B traderjoe farming same date on all wallets
 
 ```
 0xf17bd2cb625342a85c5d1aeed348fda6e5fb29a3
@@ -1525,6 +1532,7 @@ All addresses are linked by the same CEX deposit wallet. (Binance)
 **TLDR**
 Stargate Wash trading thanks to Binance account
 Same CEX deposit address
+Layerzerodays very similar
 
 ```
 0x764d4d060b7fc5b3f3b62a77efaa9f61c1d7fed1
@@ -1593,6 +1601,8 @@ Stargate Wash trading thanks to Binance account:
 
 **TLDR**
 Linea Native bridge same date 
+Orderly tx similarity 
+Layer zero days similarity
 
 ```
 0x2600544f150db80438004be4bbc7114aa21615a9
@@ -1694,6 +1704,8 @@ Linea native bridge
 0x3f1E4f661F195d00bF2d8fFdCCf0B30CA01D1a4d
 11 first linked to CEX address (Binance)
 
+**TLDR**
+Interport & Superform similar transaction 
 
 ```
 0xff392e83a03f1870b67522b48bf515af9ec124e0
