@@ -117,7 +117,6 @@ https://platform.arkhamintelligence.com/visualizer/entity/0xc4D0EE5b642D3B429C58
 </details>
 
 ## CLUSTER 2
-<details>
 
 ALL address linked to Binance deposit 
 0x7032B3Da4ae9Affea76B2453d2420A93A6F29561
@@ -151,6 +150,8 @@ polygon STG lock date
 0x2e83c6833c171939d0bb3653defce00fc76c8ed2
 0xa04bf9cd9ef858f7c6d9c36539c3478634b27022
 ```
+
+<details>
   
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eb6751c3-36ec-4a76-b9d8-e681e22fa4ce)
 https://platform.arkhamintelligence.com/visualizer/entity/0x7032B3Da4ae9Affea76B2453d2420A93A6F29561,0x3019E7Df6CFc75cCB90452e90454712BA1659bF9,0xe1dF003d4a8b5059A64733e503258690E6cD3cAd,0xda550016C984001c8b0E1319140ebE520a1f9b5c,0x60DcF46d6aE3ac642D04D19F219A758C1CA44F66,0x9f030d219F24aCfeEa312AA87c79A2C02ea59065,0xE362fCff4d298D134F107dC65FEB61A197e24f5B,0x5C5A84f90B153c7cf95C1dcB695602Dd1A7713Fc,0x4A85E68ED0bD9316025Fa7b57057aE4f10F000a0,0x1e408f8cB597a2ab50FC1445E53f3fCf3A113D79,0xB50f657eE68dF2a4695d6f3C6Ae0077463b12eDc,0x389B5Ca886bb3f5db3B6907B7bb54e7eDb83c557,0x51263874865B2Aa327e5AfBbbc9619A3A1e21353,0xe15f9d9b3bA32758e28b2ab059Ce4a49a4B1C98a,0x0866413C57281268EdAf85a325Fa2Be9FB641B22,0x9970A2C648362f8f0469773ed58687090F95D646,0xbC87182eA77d7A4587Ad8ECAeF7301DD14916565,0xC593BcB105E9afb4C20Ba057fdFb95b58AFC8e3c,0xfC84100FAe97319A47519B221853E1B9Bc7EB634,0x2E83c6833c171939D0Bb3653dEfCe00FC76c8eD2,0xa04bF9CD9ef858F7C6d9C36539c3478634b27022?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
@@ -238,8 +239,6 @@ STARKNET NATIVE BRIDGE
 
 ## CLUSTER 3
 
-<details>
-  
 The first 10 addresses of the cluster share the same Binance deposit address 0x10167822FaaBE05D5506d60CE73C340adaC2d8e3. 
 The rest are linked to numerous addresses of the cluster, multiple times.
 
@@ -283,6 +282,9 @@ All the wallets in this cluster that locked STG did so on the same day.
 0x16589a27ed90d732d0cafae0ed71d404c06df4aa
 0x7e6fc028bf7c9ca7a2ebe72b40e43f1464aa5e66
 ```
+
+<details>
+  
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b7ead109-d976-407d-aa08-876023042190)
 
@@ -382,7 +384,6 @@ ARBITRUM BRIDGE
 
 ## Cluster 4
 
-<details>
 The first 12 addresses of the cluster share the same ByBit deposit address 0x5820CAf64483A7cB29Ba3Ef93f9AB34b6a54bFcD. 
 
 
@@ -419,6 +420,10 @@ Same goes for ZKSYNC native bridge
 0x9ae2fb2c0385a28959a2cd400be47d4337dff28c
 0x6f6f2b5afc9021a4baaab518f632a5f8438a9f49
 ```
+
+
+<details>
+
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/48d54bf0-9c00-4e7a-b96f-80479e79d19c)
 
