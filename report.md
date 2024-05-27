@@ -25,6 +25,8 @@ The main indicators for detecting these clusters were the identical CEX deposit 
 
 Every detail was manually verified to minimize false positives.
 
+The report is based on data prior to Ethereum block 19964263.
+
 I hope you find this analysis useful!
 
 # Reward Address (If Eligible)
@@ -87,6 +89,10 @@ This following section is an rotation of the list of the addresses of the cluste
 
 20 first address linked to CEX deposit (Binance)
 0x7843B8A057676ee7E57df1Fa8aABfabFa32F1d1A
+
+**TLDR**
+Same tx Holograph, same source chain, same date
+Polygon ZKEVM native bridge 
 
 ```
 0xc4d0ee5b642d3b429c58cc4d10bdcd92312ac180
@@ -225,7 +231,7 @@ Very similar layer zero days !
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839753/rwz6scjqlvqjhenr9ldf.png)
 
 
-ARBITRUM NOVE NATIVE BRIDGE 
+ARBITRUM NOVA NATIVE BRIDGE 
 ```
 1 0x3019e7df6cfc75ccb90452e90454712ba1659bf9 2023-03-25 
 2 0xe1df003d4a8b5059a64733e503258690e6cd3cad 2023-03-24 
@@ -310,7 +316,7 @@ The rest are linked to numerous addresses of the cluster, multiple times.
 
 **TLDR**
 
-Stagate bridge with same amount of STG, same day, same binance deposit address, same lzd
+Stargate bridge with same amount of STG, same day, same binance deposit address, same lzd
 All the wallets in this cluster that locked STG did so on the same day.
 
 ```
@@ -448,7 +454,8 @@ ARBITRUM BRIDGE
 The first 12 addresses of the cluster share the same ByBit deposit address 0x5820CAf64483A7cB29Ba3Ef93f9AB34b6a54bFcD. 
 
 
-**TLDR**
+**TLDR**    
+
 Same Bybit deposit address.
 Same strategy to rank higher on the Layer Zero Dune leaderboard (Stargate wash trading).
 STG was locked on the BSC on the same dates
@@ -595,7 +602,7 @@ The first 12  addresses are linked by the same CEX deposit on ByBit:
 0x5e8c3a2B1c88D61558DFd4B810150CAe188ec65D
 sybil cluster farming multiple airdrops across +20 wallets
 
-**TLDR**
+**TLDR**    
 Same date  & amount Linea Renzo Mint on ALL WALLETS
 Same ZKSYNC/ZKSYNCLITE/STARKNET native bridge date
 Same STG lock date on arbitrum 
@@ -805,7 +812,7 @@ starknet
 
 11 first address same CEX deposit 0xf9f24433BE35f0f14673eE30B079a0727d3278F5 (OKX)
 
-**TLDR**
+**TLDR**    
 STG stargate bridge wash trading with huge amount, then deposit to Binance
 Similar layer zero days
 
@@ -928,8 +935,8 @@ Wash trading exemples:
 21 first address same CEX deposit 0x54BA5493436cE5Cfdc83eE7c95D04c926716ae02 (Binance)
 
 **TLDR**
-Disperse de USDC pour farm le bridge Orderly (layerzero)
-Wallet avec des LZD tres proche
+Disperse of USDC to farm the Orderly bridge (LayerZero).
+Wallets with very close LayerZero days.
 
 ```
 0x31ce6f9e94c76522a22306f4ebde99d0337f25c4
