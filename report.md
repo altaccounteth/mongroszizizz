@@ -2642,6 +2642,11 @@ polygon stg lock
 7 first address linked to CEX deposit address (BINANCE)
 0x33e65f576DcA44D4042F386eF932efab4aAD1C9C
 
+**TLDR**
+same zksync bridge date
+STG lock on arbitrum 
+same layerzero on chain behavior 
+
 ```
 0x2f91922aa4caba7ae19c1223c0007a1a598dff51
 0xf366adde5b682a8e0d5e4f09663844ea95332f94
