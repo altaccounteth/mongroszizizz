@@ -1320,8 +1320,6 @@ zksync
 
 ## Cluster 11
 
-<details>
-  
 11 first addresses are linked by the same CEX deposit wallet. (Kucoin) 
 0x1A3Fd7f8CEa7AE69C82643979234a95C4Ff2E91e
 
@@ -1355,6 +1353,9 @@ BTC.B traderjoe farming same date
 0x50c33fd72718d3394a98268bf9753481ebbbe548
 0x6ed077d8d6255f2c383fe26bb108bb8fa4d81fa0
 ```
+
+<details>
+  
   
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/60cb74ac-9e06-40ca-907e-17b88cc5c50c)
 https://platform.arkhamintelligence.com/visualizer/entity/0x1A3Fd7f8CEa7AE69C82643979234a95C4Ff2E91e,0xF17bd2cb625342A85C5d1AEeD348FdA6e5fB29A3,0xB569F21Eb2450868B52710cfC7D9d8b3c28e591B,0x053E1fE30E5DBdb1592f6334EDC52D6Cad61e62C,0xe1A455F397c84728d215Db8E8d2206Bdc94F9E97,0x8aC4c075c852dA4b31b3502762B9A431142aE5c8,0x659F0e3886b1EA41D14b68857F12d4922B4A9f1C,0xC44b836d8bef83A0e1Db472ab5D5B5A2Abf35e05,0x0Bca47A0952Dc724bd58fF43895D909Fdaf059B5,0x26079110e26FEA2A0953e7059f65954D610A513c,0x632a25c80506dee22547908a51682aB3b5e1e022,0xb7C7394Feb40d2E8e51A36EB287EB655d7F71a6f,0x0904fBa1912D5FB284886fb82443516C1046c8e6,0x865E87a645FB537Da7a5e3fdB9E1DC6b60e273A0,0xc26a8444e853d8489E0BDAb04670cfFFAad116fd,0x8Ce9662E31FcDCE40D1226FFC05B33fc6824bb24,0x160d3a8CCb081C04497C8C5e2EB2d1EF572A0b56,0x39cB1Fe05C3346821e07dd30e6B5328414Cb7949,0xd547Bf20a617152f31A038f34e4183852a6D41b1,0x1ECdEE4265c1Bfa2d3F46C623df04F25E9603aa9,0x032CEDBCD22c2EB5Cb471936daa4DC867a23f041,0x50c33FD72718D3394A98268Bf9753481eBbBe548,0x6Ed077D8d6255F2c383FE26Bb108bB8FA4d81Fa0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
@@ -1463,8 +1464,6 @@ Traderjoe BTC.b farming on ALL WALLETS, same date !!!
 
 ## Cluster 12
 
-<details>
-
 All addresses are linked by the same CEX deposit wallet. (Binance) 
 0x1C7d67fe362956230ed18841537d3cEd9B4Cb230
 
@@ -1494,6 +1493,8 @@ Same CEX deposit address
 0x50e4d22eb78ff27da0252857043ac96bc2e51f03
 0x003042604c750a38a379a0823fa809e8bcc879c5
 ```
+
+<details>
 
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d6896ce-c130-48c4-99f1-9da7281e0cc4)
@@ -1532,8 +1533,6 @@ Stargate Wash trading thanks to Binance account:
 
 ## Cluster 13 
 
-<details>
-  
 15 fisrt addresses are linked by the same CEX deposit wallet. (OKX)
 0x390ca2DF6A0B8607B81EC07E420Dd730F39A9AA7
 
@@ -1565,6 +1564,9 @@ Linea Native bridge same date
 0x391ecebb351714ec949795f63d093b05a124c3a2
 0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b
 ```
+
+<details>
+  
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/568b918e-af94-4ed8-95a5-e45b10b8805e)
 
@@ -1607,9 +1609,6 @@ Same CEX deposit on ZK airdrop
 </details>
 
 ## Cluster 14 
-
-
-<details>
 
 CEX address 
 
@@ -1658,14 +1657,15 @@ CEX address
 
 ```
 
+<details>
+
+
+
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/db3f4804-6dec-4117-b577-f8daa834bbda)
 
 </details>
 
 ## Cluster 15
-
-
-<details>
 
 The first 7 addresses are linked by the same Binance CEX deposit:
 0x09A11feBfF82042699CcFE93ae4AF4965198Bc27
@@ -1697,6 +1697,11 @@ Same Stargate lockup amount, on the same date.
 0x7d5eef85e3147b99131d9b60d1f3ca8455cdb721
 0xaafbaec081ed11b692c4e993fe77e308b50c8cfc
 ```
+
+
+<details>
+
+
 
 Unquestionably, on Arkham, it is clear that we are dealing with a cluster of 20 addresses.
 
@@ -1736,10 +1741,6 @@ It cannot be a coincidence!
 
 ## Cluster 16
 
-
-
-<details>
-  
 The first 7 addresses are linked by the same Kucoin CEX deposit:
 0x13645493baDBEA2cC67e83f92eff7bBFc820124D
 
@@ -1782,6 +1783,10 @@ The first 7 addresses are linked by the same Kucoin CEX deposit:
 0x710758e8058039bff15d97adcda9c15ec5ae20d2
 0x36dac34ea1c95c48f1f0f31bf745147b0023a42c
 ```
+
+
+<details>
+  
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7163825d-6318-4fdb-afd7-76128e1ae5b2)
 
@@ -1850,8 +1855,6 @@ Additionally, they all made about twenty DeFi Kingdoms transactions on either Fr
 
 ## Cluster 17 
 
-<details>
-  
 14 first address linked to this wallet
 0x326C1475BCE07e9929797C35107baa3dabEA709B
 
@@ -1905,6 +1908,11 @@ Same Starknet native bridge
 0x49e4e78a657bc92566d9aab0b762ec62f25e6a09
 0x55ff014e09019a4e962b8dd1cf32d4a81f50ada9
 ```
+
+
+<details>
+  
+
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/96184cf4-94e0-43e4-8fd2-f6de54b82e06)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x326C1475BCE07e9929797C35107baa3dabEA709B,0xF833c34a795C0b5612AF027e23800E8090C64934,0x54CEE5080BFd348e2601A36c146A5DcFA7D8B106,0xE56426b87637B5F516C9a4B6b1CE1b914Ff197C7,0x1a7cb54e27dbBCBF5b3C24C91f36BA9d922f0b92,0x61FD3F38d60efFD953b31e531fB80EeAa37A285c,0x9a5350aaeB4f3A5D896783b4C122919A7d0f9F83,0x0c7F9dfe5F484dC75EEdbb76d1fcdFc8970d0cb7,0x64DE89A86ee0c666952319E162Cf3c5224d45566,0xE205473109564210b726D5227Ea56c92c4eb7ae7,0xf0579b201B2baeCdD6472EB044D9b96F6d314779,0x0FD32cfe822823b7C01ee22FFF31D27C6f6B1A8f,0x6C15B0b3eE98c39C390c1108fa3410F9dAcB0fFD,0xDAf393B0082922d75465C2A08Ba6F93F47c54918,0xccBf77fA01eA919A599EB8d0A68d12a3e277A5D2,0x09F31C0aEe729Ba208971f07BED903b0d0135e4f,0xff758cb857571Ba5FE7891cDeCE84346c698EC26,0xB9FbEbc86634184448742C918B127672071A6f19,0x834684DdB8C11EB58fDDf1159E9C74953B892CfE,0x9a9B64F79E9f2ff806DA3E912f826941b39404C2,0x8AbE5C1B066b30069838e8BA35F2E4B02db15d64,0x875484C305e532a485aE6f79bAb05e4677c15bE5,0xA5Bedade8C873B871d08f2d4b1684a9BD6945ba7,0x2f6c8ad9b90f03F1444F8512e30f48dd225F0Dbd,0xAcbD8887d3D14C90573453074e7098A909a3fA15,0xF793F9EBBFC6470835C7Cdaf83C9788A445Cea13,0x565A4eb5DA4621C0D6032e4bFB3A5068ECC9Ddb4,0xAedb26F3D279529c7670F2761FFeA889F4c1798b,0x8f55Cd4E6d20dB42dBd868865686027DD346B97c,0x8c6A9E2006BD71989967854cc5Fc9dafDEadf64c,0x6a21b81376ef4759f2635a8F6f3C9858ceA457A8,0x0cb470a536e6E48333F7182Cc7faBC945A2Cd93b,0xdcd993c9482fA22a873c85a7018044106E1D6FA2,0xEc753095B07F476A07846E14775025F3de52038B,0xB383c276D3Db85A58866f6Cd1Ea949DB9cEE2723,0xd0261878928AdA35A3FC58C9D34CAa753b9E6306,0x21a9e6f106f4D4247dB9462ebf2C9C4241578Da7,0x93da1d0d77E7483FB199ceCD0B2077a58aB9aBC1,0x300A1410c148458E50Fd1eAbAABD3cd94A576B20?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
@@ -2196,7 +2204,6 @@ polygon stg lock
 
 ## Cluster 18
 
-<details>
 
 7 first address linked to CEX deposit address (BINANCE)
 0x33e65f576DcA44D4042F386eF932efab4aAD1C9C
@@ -2229,6 +2236,10 @@ same layerzero on chain behavior
 0xbcb30d55d932a15f430a5b4553fca71e8aeee57a
 0x7132becef1e3d8d4d9061598c860cae2c86197e6
 ```
+
+<details>
+
+
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/332dd0b9-0e32-4feb-ac39-d3ba76fc69f6)
 
@@ -2378,8 +2389,6 @@ Finally, USDV (10 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51
 
 ## Cluster 30
 
-<details>
-
 First 7 address linked to OKX cex deposit:
 0x33eA3165630a600e5d9BA8b52A7f203D12dc6a8E
 
@@ -2513,6 +2522,11 @@ LINEA bridge scripted
 0x88c8af64e4198af892d0634415e48158585ca667
 0xebb8e715c4c4d338a3c08872c252db06ff6a59c5
 ```
+
+
+<details>
+
+
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6330236b-daea-4e84-952f-a2f7ade77b00)
 
