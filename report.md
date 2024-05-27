@@ -1906,6 +1906,14 @@ Traderjoe BTC.b farming on ALL WALLETS, same date !!!
 
 <details>
 
+All addresses are linked by the same CEX deposit wallet. (Binance) 
+0x1C7d67fe362956230ed18841537d3cEd9B4Cb230
+
+**TLDR**
+Stargate Wash trading thanks to Binance account
+Same CEX deposit address
+
+```
 0x764d4d060b7fc5b3f3b62a77efaa9f61c1d7fed1
 0x3b05fb7f3701352728e06c429d967d5b6f26c8ce
 0xce86fc84af756e20fb6c45456db97f58cd1e1c88
@@ -1926,12 +1934,41 @@ Traderjoe BTC.b farming on ALL WALLETS, same date !!!
 0xbad84d73a16199293f48b8e94217f0994c713de1
 0x50e4d22eb78ff27da0252857043ac96bc2e51f03
 0x003042604c750a38a379a0823fa809e8bcc879c5
+```
+
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d6896ce-c130-48c4-99f1-9da7281e0cc4)
 
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x1C7d67fe362956230ed18841537d3cEd9B4Cb230,0x764d4d060b7fc5b3f3b62a77efaa9f61c1d7fed1,0x3b05fb7f3701352728e06c429d967d5b6f26c8ce,0xce86fc84af756e20fb6c45456db97f58cd1e1c88,0xbc12414c014f251d9dd004b7be2fff19800e4993,0xc7a7a708214b7c40f83a025226478362dd3a7ad8,0x182a0683df58bc2763a5bb44c8c06c55d7187c9e,0xb69cdfd78aa7be8ecae982af92a4ac22dda60ad5,0x724ac2c3d7b4ab46d90a44a143a9a854253fa1c9,0x1da3b14cb6c27726e38adb3fafc91180371ad148,0x5c915e90f99f58f2953d25a88506f7e30af2565e,0xad12a6972ef411e97be99db18eeefe40a7ca1f4e,0xffd07610e17417302d457128620adb87a903e3d2,0x5c4d6b20b502fcf33b05f3ecc02e73811e4c7d19,0xfae43078538f40d44f201aaf0255f703e909e158,0xe38429b664de066f7ccca925c03382654810cfbd,0xc3b0917391c21b4babfda0580a09a3610d0efb09,0xe2b8735e12dce1f53096dfd3bea4ed2b18cc8a1d,0xbad84d73a16199293f48b8e94217f0994c713de1,0x50e4d22eb78ff27da0252857043ac96bc2e51f03,0x003042604c750a38a379a0823fa809e8bcc879c5?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
-  
+
+Layerzerodays
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5c0102ba-76bb-462e-8e0b-7993dd9e68c6)
+
+Stargate Wash trading thanks to Binance account:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6c078c1a-a385-4bdf-87dd-4ab07742624e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6f069e78-40df-4f81-a4bc-6c03f4009f7b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b70d4d0e-98c3-462f-80d0-f4a6acdf3576)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8996178f-e115-4812-a731-c87401520b48)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b3baf204-8e72-497b-8ef0-48f3728b3fe8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/79fd1687-9ec0-4d95-a646-4c421c3d3e74)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/349bcb92-dad7-4fc2-87f8-ba6e4f843693)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b7d2d5db-e272-4877-b786-0b19417eb011)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eda10961-a23f-42f6-897a-b792630dfe77)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3594616b-b34f-45a9-94c4-df7f0f108d2c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2acaca19-2daa-458c-b3b8-896f71ec3e83)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/98d42a09-9c50-4fac-bc66-44793cf4ec97)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ef9d2797-d7b1-4b1c-b845-f670b982d615)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/55abf3e0-bbe6-4bba-b4ca-7eec594b9006)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/43302cd2-068e-4776-9b98-183b413d30da)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9c31a685-354a-43c5-ae96-2ff5d407c2ac)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4113f07e-cddd-4fd6-812e-75ead72c723c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e211686a-0e7e-48ec-995a-c4bc1d42050e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/91c5b8ef-3eb0-4b96-b3b1-3cbfdaf1c554)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3e7c60b2-effd-47d7-96bc-036ea6e75f8b)
+
+
+
 </details>
 
 ## Cluster 13 
