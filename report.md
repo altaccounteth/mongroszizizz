@@ -1762,7 +1762,17 @@ zksync
 ## Cluster 11
 
 <details>
+  
+11 first addresses are linked by the same CEX deposit wallet. (Kucoin) 
+0x1A3Fd7f8CEa7AE69C82643979234a95C4Ff2E91e
 
+**TLDR**
+SImilar layerzerodays
+Similar STG lock date
+Same MEXC/KUCOIN deposit Address
+BTC.B traderjoe farming same date 
+
+```
 0xf17bd2cb625342a85c5d1aeed348fda6e5fb29a3
 0xb569f21eb2450868b52710cfc7d9d8b3c28e591b
 0x053e1fe30e5dbdb1592f6334edc52d6cad61e62c
@@ -1785,9 +1795,110 @@ zksync
 0x032cedbcd22c2eb5cb471936daa4dc867a23f041
 0x50c33fd72718d3394a98268bf9753481ebbbe548
 0x6ed077d8d6255f2c383fe26bb108bb8fa4d81fa0
-
+```
+  
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/60cb74ac-9e06-40ca-907e-17b88cc5c50c)
 https://platform.arkhamintelligence.com/visualizer/entity/0x1A3Fd7f8CEa7AE69C82643979234a95C4Ff2E91e,0xF17bd2cb625342A85C5d1AEeD348FdA6e5fB29A3,0xB569F21Eb2450868B52710cfC7D9d8b3c28e591B,0x053E1fE30E5DBdb1592f6334EDC52D6Cad61e62C,0xe1A455F397c84728d215Db8E8d2206Bdc94F9E97,0x8aC4c075c852dA4b31b3502762B9A431142aE5c8,0x659F0e3886b1EA41D14b68857F12d4922B4A9f1C,0xC44b836d8bef83A0e1Db472ab5D5B5A2Abf35e05,0x0Bca47A0952Dc724bd58fF43895D909Fdaf059B5,0x26079110e26FEA2A0953e7059f65954D610A513c,0x632a25c80506dee22547908a51682aB3b5e1e022,0xb7C7394Feb40d2E8e51A36EB287EB655d7F71a6f,0x0904fBa1912D5FB284886fb82443516C1046c8e6,0x865E87a645FB537Da7a5e3fdB9E1DC6b60e273A0,0xc26a8444e853d8489E0BDAb04670cfFFAad116fd,0x8Ce9662E31FcDCE40D1226FFC05B33fc6824bb24,0x160d3a8CCb081C04497C8C5e2EB2d1EF572A0b56,0x39cB1Fe05C3346821e07dd30e6B5328414Cb7949,0xd547Bf20a617152f31A038f34e4183852a6D41b1,0x1ECdEE4265c1Bfa2d3F46C623df04F25E9603aa9,0x032CEDBCD22c2EB5Cb471936daa4DC867a23f041,0x50c33FD72718D3394A98268Bf9753481eBbBe548,0x6Ed077D8d6255F2c383FE26Bb108bB8FA4d81Fa0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+Similar layerzerodays
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/574f7760-2434-452d-b79d-788923696363)
+
+Similar STG lock 
+
+eth stg lock
+
+```
+1 0xf17bd2cb625342a85c5d1aeed348fda6e5fb29a3 2022-11-30   
+3 0x053e1fe30e5dbdb1592f6334edc52d6cad61e62c 2022-11-26   
+4 0xe1a455f397c84728d215db8e8d2206bdc94f9e97 2022-11-26   
+5 0x8ac4c075c852da4b31b3502762b9a431142ae5c8 2022-11-26   
+6 0x659f0e3886b1ea41d14b68857f12d4922b4a9f1c 2022-11-26   
+7 0xc44b836d8bef83a0e1db472ab5d5b5a2abf35e05 2022-11-26   
+8 0x0bca47a0952dc724bd58ff43895d909fdaf059b5 2022-11-26   
+9 0x26079110e26fea2a0953e7059f65954d610a513c 2022-11-26   
+10 0x632a25c80506dee22547908a51682ab3b5e1e022 2022-11-26   
+11 0xb7c7394feb40d2e8e51a36eb287eb655d7f71a6f 2022-11-27   
+13 0x865e87a645fb537da7a5e3fdb9e1dc6b60e273a0 2022-11-26   
+14 0xc26a8444e853d8489e0bdab04670cfffaad116fd 2022-11-26   
+16 0x160d3a8ccb081c04497c8c5e2eb2d1ef572a0b56 2022-11-26   
+17 0x39cb1fe05c3346821e07dd30e6b5328414cb7949 2022-11-26   
+18 0xd547bf20a617152f31a038f34e4183852a6d41b1 2022-11-27   
+19 0x1ecdee4265c1bfa2d3f46c623df04f25e9603aa9 2022-11-27   
+20 0x032cedbcd22c2eb5cb471936daa4dc867a23f041 2022-11-27  
+```
+
+arbi stg lock
+
+```
+1 0xf17bd2cb625342a85c5d1aeed348fda6e5fb29a3 2022-11-17   
+2 0xb569f21eb2450868b52710cfc7d9d8b3c28e591b 2022-11-17   
+3 0x053e1fe30e5dbdb1592f6334edc52d6cad61e62c 2022-11-17   
+4 0xe1a455f397c84728d215db8e8d2206bdc94f9e97 2022-11-17   
+5 0x8ac4c075c852da4b31b3502762b9a431142ae5c8 2022-11-17   
+6 0x659f0e3886b1ea41d14b68857f12d4922b4a9f1c 2022-11-17   
+7 0xc44b836d8bef83a0e1db472ab5d5b5a2abf35e05 2022-11-17   
+8 0x0bca47a0952dc724bd58ff43895d909fdaf059b5 2022-11-17   
+9 0x26079110e26fea2a0953e7059f65954d610a513c 2022-11-17   
+10 0x632a25c80506dee22547908a51682ab3b5e1e022 2022-11-17   
+11 0xb7c7394feb40d2e8e51a36eb287eb655d7f71a6f 2023-07-12   2023-05-29   2022-11-20   
+12 0x0904fba1912d5fb284886fb82443516c1046c8e6 2022-11-21   
+13 0x865e87a645fb537da7a5e3fdb9e1dc6b60e273a0 2022-11-17   
+14 0xc26a8444e853d8489e0bdab04670cfffaad116fd 2022-11-17   
+15 0x8ce9662e31fcdce40d1226ffc05b33fc6824bb24 2023-08-12   2023-07-12   2023-06-03   2022-11-20   
+16 0x160d3a8ccb081c04497c8c5e2eb2d1ef572a0b56 2023-08-12   2023-07-12   2023-06-03   2022-11-20   
+17 0x39cb1fe05c3346821e07dd30e6b5328414cb7949 2023-08-12   2023-07-12   2023-06-03   2022-11-20   
+18 0xd547bf20a617152f31a038f34e4183852a6d41b1 2023-07-12   2023-05-30   2022-11-20   
+19 0x1ecdee4265c1bfa2d3f46c623df04f25e9603aa9 2022-11-21   
+20 0x032cedbcd22c2eb5cb471936daa4dc867a23f041 2023-07-12   2023-06-03   2022-11-21   
+21 0x50c33fd72718d3394a98268bf9753481ebbbe548 2023-06-18   2022-11-20   
+22 0x6ed077d8d6255f2c383fe26bb108bb8fa4d81fa0 2023-08-12   2023-06-03   2022-11-23   
+```
+
+Polyhedra (ZK) same cex deposit address
+MEXC   
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c08f8db9-fad0-4c5b-b185-92652ccdbfea)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9fcf971b-b18c-4843-a941-8d6cc32feb09)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/af7359cd-c687-4498-8423-2f532d640fde)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5e58d7ed-793d-4227-90c1-173bbb69d7e8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/94b7fde5-e135-473e-ad98-5337ba18fefd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e94afd7a-acd8-4ec2-8c90-5325f8d54ebc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9a09a988-192e-443b-8191-a09a6b7b30ec)
+
+KUCOIN   
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1025bf19-a6f8-4c2b-a5a8-6ff3c043ef67)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/65c57f6e-5a6a-4e12-87b6-44d9b5fb508f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/436f1e76-9d66-4f25-b826-1794345f4884)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e49b4e5c-feed-4146-8a4b-ddf24d22c5dd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/069350f4-8beb-4810-94f4-f23e4498b0a8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f1531e99-0fd3-45c1-895a-67b5504f7db0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bf458987-be2e-49d0-9060-436613be7650)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fe7a57f8-e1ad-4f48-a311-44eb4bf61f1b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9cdff39a-3a37-4d7d-b499-652308a3b615)
+
+Traderjoe BTC.b farming on ALL WALLETS, same date !!!
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a8ebc99-7eda-4bf1-a0e7-9b40116a3060)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/791b590c-7b1a-4841-bdca-977accf7d942)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eb6825bc-741c-466e-acec-24c45e3700c0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7230ff1-23b7-4a29-b42e-e61acfa41a84)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/903b844e-2071-477f-8aa7-2fa9141aa264)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/865aad23-3654-46c4-b887-f78c57db9f74)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fb0aeedd-b363-42a5-a4af-b4650291c2e9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e9e8ace2-f177-4704-8fc5-d545093dc76d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/34037663-a322-43ed-a173-899da46a2abc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/04552e04-1286-42f1-a9e8-4d0f692fd7a3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/59134505-149d-45c2-9230-acdf71564e62)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/63c14257-f25d-48f0-9ac0-09a5a1bcb2fd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/06523cf9-1d59-461d-843a-ffce372bc601)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/339c04b0-4c1b-4a1f-ba7f-a72df3fab0d0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/573455dd-b0ce-4e12-b912-cc6f398679dc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/21e2fc15-843a-4dc7-924e-3c1b5309f4a8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/96128677-04df-428b-8454-95e99efd3aaf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/95d705eb-a789-4314-8681-7ac7b8591537)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/47ed191a-05ce-4339-95bf-ffe930f8cab7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4351d209-d878-43f6-a8da-1e9a52ecbc68)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/18703474-8794-4caa-b519-2726bd12f98a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c14f30e0-b60e-429f-8ed2-90bbf44758cd)
+
 
 </details>
 
