@@ -3731,6 +3731,61 @@ Déja identifié
 0x3d03ce276e9da9bc027c4b1a3c272a02e3c5cfa6
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e90574c8-15d0-40e1-9b68-cbd1605d021d)
 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b783863a-ff7c-4abf-a2dd-238c3b12333c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/af458355-4f61-4725-973e-7b3c490becad)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dd84f3af-943a-47cd-9b00-d65fae8d178a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ace001e2-fb06-4d36-9074-47c25ac58a08)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/757ef947-13d4-4c79-b4d7-216ae9875fd7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/654c1590-7e51-4408-beee-6294e46ced01)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0475b8ff-7713-4036-9756-f6af535a9a78)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/91bc7574-ad75-4522-a7c7-2546615b92ee)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/702cdb73-b7f9-41db-901d-8e3f4adacdea)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/68431268-a9ca-4fe9-8ef7-51e95ed324c1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3deb2cfa-1e6e-4d75-b45b-663dad9a32f2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/46ac9d85-0e5b-41cd-af8c-61005b028fa0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1c0087b6-336b-4b03-8dfc-b62c1e8fc77f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/193dc3c8-2ed4-4dc6-beb1-39bd07fe8fe2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e6d20dde-93f6-446f-b28f-122eeba5e46f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8530e896-07c0-4542-8bdb-3b0f4e7ea668)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/849cb6f0-bee2-40d2-aadd-bbd89717e840)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d36f745-650a-4cb9-a386-16ded46be2be)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a4f4d2b9-c6b0-4e59-bacb-3f3820188f03)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cf366be4-a419-4dbc-9447-3ad20bcc937e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/59705ba2-54ca-49bd-a48e-5632960e4f8c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c16f2107-6b78-46f7-8c77-cee2e8eb41aa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9dce118c-ade1-432b-9413-15307c64ecc4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7be2c017-fc8a-4fac-bb0f-8a40b0516a91)
+
+
+```
+zksync
+1 0xfc40c28541ee229cfd0a9435c38779673c6bd5fe 2024-02-22 2023-07-21 
+2 0x9d21fc5b5cfbf6510eb7e60dacf348208882f5b6 2024-02-22 2023-07-21 
+3 0x7613c38eb6c1da437de23b28527a790910c1ba78 2024-02-24 2023-07-23 
+4 0xa98082a2ff0fdcf719c9d1b885eab67a35f714c9 2024-02-24 2023-08-07 
+5 0xa4068acc31fcff871966afe6290f54de681b3af0 2024-02-27 2023-09-30 
+6 0x69e9e57a8934bad2dc1d9647da60fc891234c586 2024-02-25 2023-08-17 
+7 0x26f275d27c3a66ccc54e7cdaf484f48283ae0ec0 2024-02-25 2023-08-07 
+8 0x86bb7c64ff1a286cc97e3bc734e59cb8b8e1cf70 2024-02-24 2023-07-22 
+9 0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4 2024-02-24 2023-07-22 
+10 0x3c9f0a4e5c7c987dde1f3ef8abf4a40dc8380377 2024-02-25 2023-08-19 
+11 0xba357f63056c63e71959babfa4f3f89ad85de886 2024-02-25 2023-08-19 
+12 0x4f772ebb54226a001486d92cba2bbdcb7f9b63e5 2024-02-24 2023-07-22 
+13 0xb281d4da1620bdce9b1236d8b693c238af150b2a 2024-02-25 2023-08-19 
+14 0x95503b5a3cdf8b5929108e4cbcf661f8abfc8095 2024-02-25 2023-08-19 
+15 0x97d9e85bbe539f49915490f8bcadb1dc8da80c6a 2024-02-25 2023-08-07 
+16 0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892 2024-02-25 2023-08-07 
+17 0x6130efe431dd939d8a6a62999663fda6ffe9cf78 2024-02-25 2023-07-29 
+18 0x4f9a84aea72d72886453c125f3a14e10f8f6e86b 2024-02-23 2023-07-22 
+19 0xb7723f91c69e09052553d4f971235b9d1cfae482 2024-02-24 2023-07-23 
+20 0xc8ae75132dea617de0e96c29be4f161be7f27dcc 2024-02-23 2023-07-22 
+21 0x6d7d0c9207bb2ea136c95ce153abe35e51caad37 2024-02-23 2023-07-22 
+22 0x914e0fdbb9a6b2d8f9d58b2302cec55b43e7fe13 2024-02-29 2023-09-30 
+23 0xff89ea6275406ae7d3ea2ae87f1db3476a5e57c8 2024-02-28 2023-09-30 
+24 0x5d364d28c42ea5feabab39165356e5802ff07015 2024-02-27 2023-09-30
+```
+
+
 
 </details>
 
