@@ -1977,7 +1977,10 @@ Stargate Wash trading thanks to Binance account:
   
 15 fisrt addresses are linked by the same CEX deposit wallet. (OKX)
 0x390ca2DF6A0B8607B81EC07E420Dd730F39A9AA7
-  
+
+**TLDR**
+Linea Native bridge same date 
+
 ```
 0x2600544f150db80438004be4bbc7114aa21615a9
 0x3ae8e01536785f47eaa87ff1542ee509671ec8df
@@ -2002,7 +2005,6 @@ Stargate Wash trading thanks to Binance account:
 0x0aacf7dd8fbd05aab11e3c6f170f9213b701baef
 0x391ecebb351714ec949795f63d093b05a124c3a2
 0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b
-0x9075e2b4f1778bf527ca6605a98f720f3954dd5f
 ```
 
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/568b918e-af94-4ed8-95a5-e45b10b8805e)
@@ -2011,6 +2013,36 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x390ca2DF6A0B8607B81E
 
 Layerzerodays
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3c90ba61-69a8-444e-ac34-6f52115151c2)
+
+Linea native bridge
+
+```
+1 0x2600544f150db80438004be4bbc7114aa21615a9 2023-07-26 
+2 0x3ae8e01536785f47eaa87ff1542ee509671ec8df 2023-07-22 
+3 0xde765b9d2a5b5b8e9e952da5ac3e43b011cdb289 2023-07-22 
+4 0x90d4aa3bf552999e7ca9ce89cf8e6fada4c69aab 2023-07-22 
+6 0x22338f6036bd28d10e4180735fae96346283c886 2023-07-22 
+7 0x11a9ad3e94ce7a21f5bf14174e328bc7c5eeb6fa 2023-07-22 
+8 0x782f17e27322fb4d8a331f58f5d0e25dd0484a23 2023-07-22 
+9 0x0611133571496e814294cd17067f4c14eee7d04f 2023-07-22 
+10 0xeb3843caa198420fbbe5a023541a43bc9e8ec01c 2023-07-22 
+11 0x6762391958d87d5fa4d1252997615412a6a70651 2023-07-22 
+12 0x3fa4a5319fe925770965f5a4d12361cceb39311e 2023-07-22 
+14 0x4ca644b441749ac1b29a26f2189ad7c29435c20a 2023-07-22 
+15 0xf72390c118188d6706bb303606c06457f198bf79 2023-07-22 
+16 0xfcace87fb6e1dfeeda16533cd41ee2852a0f14b2 2023-07-22 
+17 0x058b9c1ba7cded2150335464ca1951cf1ce38fde 2023-07-23 
+18 0x3b5c6db44c2e63309e3c570b0f7c3569d2371ffa 2023-07-22 
+19 0xcf30a573e3ac5e855fe23bf85ff78ef62db9e52b 2023-07-23 
+20 0x10bea37df7bd76a48ca5fef2f124fb177cc8683d 2023-07-22 
+21 0x0aacf7dd8fbd05aab11e3c6f170f9213b701baef 2023-07-23 
+22 0x391ecebb351714ec949795f63d093b05a124c3a2 2023-07-23 
+23 0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b 2023-07-23 
+```
+
+Same CEX deposit on ZK airdrop 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/82324a33-b6d1-461e-9467-98be03d2a968)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9cec7dee-5452-42fa-9559-133cd2aa608c)
 
 
 </details>
