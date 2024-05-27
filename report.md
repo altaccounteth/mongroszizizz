@@ -347,10 +347,6 @@ All the wallets in this cluster that locked STG did so on the same day.
 0x5c357023e4b0afb0224ac6159e4df0eb672ec355
 0x9434cf7b244958dc6cbaf9fb46173caba8d2595f
 0xde52e9ab7282c060e763db278fcc0a3ff839cfdb
-0x404844c9af8617760227a311617ebf79203523af
-0x2b98345ac86b4f6fe57956f2d69e83b6f7c063cd
-0x16589a27ed90d732d0cafae0ed71d404c06df4aa
-0x7e6fc028bf7c9ca7a2ebe72b40e43f1464aa5e66
 ```
 
 <details>
