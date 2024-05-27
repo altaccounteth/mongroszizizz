@@ -7,7 +7,7 @@ As a French speaker not fully fluent in English, this report has been translated
 
 # Detailed Methodology
 
-!!!  **All my clusters are independent**   !!!  
+!!! ### **All my clusters are independent**   !!!  
 (because the argumentation is done manually and independently).
 
 
