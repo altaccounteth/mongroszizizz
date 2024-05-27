@@ -3369,6 +3369,8 @@ bsc stg lock
 
 ## Cluster 25
 
+
+17 wallets linked to cex deposit (binance)
 0x2acDe5683b7157D9646Ed9C2f6f2363BC590dc01
 
 ```
@@ -3395,10 +3397,38 @@ bsc stg lock
 0xb9544ccb2121a63b2c5e8c17443b47fd4a07b0ea
 ```
 
-
-
 <details>
-  
+
+21 wallets ranked between 500k and 1.8M.
+
+Layer Zero Days: 3 at 283, 2 at 286, 3 at 300, 2 at 409, 2 at 413, and 2 at 429 among others.
+
+Swap via MetaMask and then lock STG Stargate on Polygon for 7 addresses (0x929bd1f03942125e1dccf0cfeb012e9c165351dc, 0x523356181f718b6b830fddfcd00b54f497afceb2, 0x15b786cbd9247ed31618aaf4a80420ef0098a270, 0x741f536fe8f32e612dcb3f1d4a7996474060bf8c, 0x33dd3e3962d7e526478831b90e0006f9db7b9ee3, 0xb623bfd0e079f1fcb62f42ab570532778bacc267, 0x7263267aca13ef96ed425c957760b6f20edee9bb).
+
+There is a Stargate transaction from 2 months ago between two Merkly transactions (there are many Merkly transactions, so it already suggests a sybil) for all the wallets except one (0x7263267aca13ef96ed425c957760b6f20edee9bb) from OP to ARBI with similar amounts on April 10th.
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/67cf16b1-f7ab-4227-9231-b207b2cbf91a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/66a4a4f8-711f-461e-b6b6-ed9d5743b29b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/6686e645-cef8-4a8f-8426-2cb67040e5b2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/116becca-835a-4676-8732-75c56b96daf1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/d70fa36b-5a6e-4da8-91be-ae864ca315dd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/256a3f1b-bdfe-44df-8a75-dc0413cc6c4e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5cbf4f43-3e4a-49de-a5d0-53421a9c8525)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/12066853-17ee-4124-8159-6de1d265aeea)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/a51c665b-a0f2-4ec1-925c-3e81a62ac0d2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/22fab057-552c-4567-b21a-802580683e6e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/09f5b53d-cad5-46a3-9746-962913097398)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/d161a2a3-538c-4b95-8d41-648f9ac900a6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/40503f7d-41a5-4bc0-b464-80266d21c3fc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/dd15fc0d-1458-4abf-a271-4b0a51007cd7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/56d8bd42-1ccd-4827-bf2a-4647b803c18d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/a15df161-9338-4713-ab3f-29984f858b33)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/45e4900f-275d-4025-9463-c6445f3272db)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f416f2c1-ab02-40dc-9f4f-c351d60f08aa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/d593d607-d3df-4732-bd2d-7182f4800e90)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/dc4a38f5-5ab0-4795-bc66-e0ec854b3e3b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/299fc4f1-9901-453f-b059-2c035bb3b548)
+
+
 </details>
 
 ## Cluster 26
