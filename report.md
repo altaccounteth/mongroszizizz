@@ -2616,9 +2616,13 @@ linea native bridge all wallets the same days
 
 
 ## Cluster 20
+
+7 first address linked to CEX deposit
 0xD732573c8892E0e00404822D3E078B86cfcBa468
 
 **TLDR**
+same layerzerotx on zksync within 2 hours
+similar zksync bridge date
 
 ```
 0x666f5f8cb7870f33317db349799cbee427f9e72a
@@ -2658,7 +2662,42 @@ linea native bridge all wallets the same days
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xD732573c8892E0e00404822D3E078B86cfcBa468,0x666f5f8cb7870f33317db349799cbee427f9e72a,0x1e903fd5be070c1a8056fc525346afb00219a59f,0xca8cf17da5a91cce8ca898adc5428b436ddea1dc,0x67b1ee22e7493e94450a55cba50f6a6ca67f7a3e,0x22cb1d945d23fa08323e59fec9abbcd359e59095,0x5f8f9cb5a25450d1fe78a0ec06a087ca3b36a883,0xeafb1a7bb2da730911e246ba071a59551d581a40,0x97242b533bbbf6375d33c0d6a11cbdd55970ebad,0x53c7c04f1c24a31ba5da10cca82c1bf2139f43b4,0x16adbaabeec90a7e9ef839bf68d90df03668f6a1,0xe9fb4775cbedc7bb6bf36f397de5da1bf7e5b7cf,0x9ce2774ecced375abcdfd04152728caf486b5744,0x5ef55868c28777f00f8fc456f2f09cbf6f3964a8,0x06083744ed88399f6856a2d9b6c140816ade0708,0xe8f69e74a4d24172831ae48b026796f727e1eb4b,0x8f312aac0d57e6a7322dfaad4cc29f030a985f96,0xf00ded727cffdae8ad4981e212eeab2adb0e8da5,0x6bfb5845e869ec2d222bdf89b94c8e79ed5984e1,0x3ee6170ea6d16268e48d67362fa65fa82bb5a6be,0x3d503521439aa08dc8009427b7a48475bcb211f1,0x827eaee2b64ebc45f7fcfc2747d037e37b37b62d,0x8116c3bb43372179ccba51f4374bddbce5c15fbd,0xc2240ee369f82094a4036e0f6ae47cc7919fcaaf,0x7266021ad5e81e79b859b505d411afa99e3d935d,0x921e8b903cbaf28747fad40b3846420b41bcf970,0x2788c9a8a417c50654277189aabf098900ff55d5,0xeffdbc30574a4261713bbdb91a29732326b946bb,0xdc4d52e4bb24544ae55b358d3ee6c73db8a686b2,0xab1f5815ae3ddc8381896072759db5232127cec3?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-zksync
+Same layer zero tx on zksync, the same day, at very similar time, on all wallet! 
+open name()
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/432637bd-073b-43e4-b773-be64af3f46ca)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/83f2f0b5-2de0-4b64-832b-e2595be80e12)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f70b94d1-3ecf-4c92-b8fe-7bf962fcb770)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e98d996c-701e-4574-b985-381b0e6e2e77)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a28e7c79-356f-4c13-bcc3-94a032d3891b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4309d6ac-3c9f-4958-9b6f-d84123d2a0b3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/040db7a3-e1f7-48dc-a29c-4773e3b08d5e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f5ff2c0d-0e97-4db3-9018-bffddaacd01f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c0ba903c-029f-4252-aa81-bfbaa6f70628)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f57b10bb-5f56-4a5c-a1b5-ec3a45a9b200)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cecde65e-956a-4e1e-bdfc-41f415ea020c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/22776d0f-3105-4870-92a2-aa6362ed9aa8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e8339833-91ce-4dc4-aec2-05df0c3a889a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2730cf0f-48cd-44db-b018-c2496a57f4d6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c3a64459-99d2-4e20-917f-14f4d352ef55)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a1a9568e-8497-4d71-8ff9-ada8b3b347b1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2551269f-8a0b-435e-88f7-4c410a5c262b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4f186a2c-c00e-4728-aed2-445dfd58ce56)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c06380b9-8d67-48c2-bb53-c1f5bcdeda93)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9952ab71-b5ee-45a8-a71b-805084a07276)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e87d0f6-c26c-4738-bfcc-63f693a2b8f4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/18a9e691-677c-4812-bb3b-05b94dc123d0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/76163ec9-4f5a-46ab-b407-51e510729768)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7273fdd-5dc7-41e0-8e4b-f929d18bbd36)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c55ed7f4-383b-4d57-bd14-a8bcb0a98f8c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d74f2a6-5433-4e59-ace2-d725e4edf910)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4b357a30-d347-4fd5-ae4e-6fdc6f9536ff)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eeae107e-91c6-46ab-8516-ec44e88b3b56)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/99fca00d-64df-4c74-8233-8fc35b2de944)
+
+
+zksync native bridge
+
 ```
 1 0x666f5f8cb7870f33317db349799cbee427f9e72a 2023-10-30 2023-06-08 2023-03-28 
 2 0x1e903fd5be070c1a8056fc525346afb00219a59f 2023-10-29 2023-06-09 2023-03-25 
