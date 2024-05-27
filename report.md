@@ -2806,6 +2806,7 @@ LZ day: 2 à 386, 10 à 406, 2 à 413, 3 à 500, 9 à 704, 19 à 705
   
 arbi stg lock
 
+```
 2 0xd581f0b4493f6f5177165dca75b64f0fba02b61f 2022-10-30   
 3 0xb8c9aed31f543d51f01b5f89ccdd2a28f0517e19 2022-10-30   
 4 0xe064bd0dd80ed0b3135254b5c8d6782a04b029ab 2022-10-30   
@@ -2857,13 +2858,83 @@ arbi stg lock
 51 0x05cdc1970971ea66a43e6e86d9dd0e2fb5d52393 2022-10-30   
 52 0x604bba1fb4574456df8c875fc878c4c377de3c8e 2022-10-30   
 53 0xe73fe3e3e50db8c2950072705f1613f4a34f1cac 2022-10-30   
-
+```
 Regardons 0xd581f0b4493f6f5177165dca75b64f0fba02b61f et plus particulièrement ses STG sur Arbitrum:
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4f47a323-aee1-4b77-b5a6-f3363a907dc0)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8886fe4b-089b-4fbf-bfb6-ff251851961a)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/46c4f424-52ca-47c0-a127-fbd55ed2c9ef)
 
+Now we will look at L0 scan to link all wallets:
+Common TX Tevaera:
 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1345b99d-9ecd-47ed-92ea-7bd32bfea2ce)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/93c35b9f-fc09-41fe-a35a-3072acad6f7d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3baddff2-0185-48b4-941f-ef5792cf2afb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d3b40be-99ec-485b-a363-a9b3f54b2be0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/32410f2c-08c8-42a1-8f61-ab6ebd8571ad)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c7e473ab-9223-43d4-9a1a-0c955388aa40)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cc7896d6-0517-472d-87cf-7cdd583c10b5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6460b06a-be53-47bb-bec9-28c40472d939)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c449ee64-d484-43d5-903a-69b0fb00d997)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/01b447fc-6bc4-4b0e-828f-b5ac2bb0b9ce)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/adbbc0fe-8c63-4f8e-ba45-2b82bc333771)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f6da1e7f-0ae8-44fa-af14-b0d4622fa78a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/faf144ee-d094-48be-8cf5-f9390197169c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1e8a9243-7d57-4f1f-b033-94a9c232ab63)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8f7bd96d-f11e-4463-a5db-ea9ac157df57)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ed9d0e17-9901-4d10-bdaf-5fa93f2bc538)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7953b42-174d-4329-a78e-ef7f4cefe3e8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/30d90ebe-41d9-44e7-97cf-18dbaa3627fb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/084a1b14-1730-4f1d-b072-27b0dd938582)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/31e8464b-045d-4ae6-8b2f-027c4fb11775)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0dfc90d9-120a-4555-9263-63deb61909bb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8e21b520-fd67-4578-9383-a326516044e3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0e054a9b-d4e8-446b-ae77-a11f4c1e16bb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b3d9647d-3785-4e9f-816c-62c3fe1fc8bd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2c1077e0-4690-401d-864b-7f0f497a4dcf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/74c5132b-68a9-4b6d-a66b-2c12984abfac)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b39b8279-7e36-42b0-8ad8-ff96ed44b637)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/592ed04a-ad74-475e-a5aa-e927990f42e8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9f89c7b2-da20-4e01-add1-3f43d8b93199)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/633c7488-323f-4b3f-8b1c-063473c655e1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6d497dc2-9d14-40d2-97f3-77fbdc729fd5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0b529543-8435-4eb6-a72a-9513bfca4abf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/75c54aa4-ce8a-4def-82e1-1419605ac461)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/54a99a21-fca4-4cb2-8d3b-3d8b2c1ed1ce)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/66e012b9-c8b9-4aaf-8d53-de43e90f5b94)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d51552a-4d78-4c68-8ec6-146ce701d4c8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/103b8561-b919-4717-8a93-65ffe3625317)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/15ff5eef-687d-4618-8cfd-dbd89ee6cc35)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/acafc6ab-2480-4cce-9549-7c6cfde49e07)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2c82b9e8-0754-425f-be25-93ef2c3698a7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3352b417-9cc2-47db-937d-8733435e3b96)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eb947585-6ffd-4e88-ada1-f29c49d33719)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ff0d1dbb-0a28-4195-96f5-7d768e3a12f9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5f667ce0-b146-4a64-8058-955397dfe7ab)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/edeb08b3-933d-4687-8d89-39e98f222ecd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d7e08ff0-b016-4689-8177-8ac5cc2d8b0b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a854bfa6-8641-40ba-9cf8-1883a7675cae)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d1fe9a4-a4ee-49d6-b91d-ca387efe049b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dfdbe374-3ed4-4deb-87f3-d954951d395e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/552e17cd-9325-467e-ae07-971eeee71f52)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/535896e3-115c-408e-bc90-af5a78c1107c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b056182b-005f-410f-9f0c-a08d5db842f9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/114a013e-c970-4440-a0b8-ce768714c14b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d03e8b05-b7bb-4ead-9c65-5000b66636d1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/037e5bb9-dfd0-428a-9c49-776a7c5560ca)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4b3454fd-55bf-4955-9a8e-e99ea64f102c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dc2ef494-89d7-4bd2-aa1c-b4d630e2ec68)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/507ad3b5-b026-42ce-8e96-fc0e7a9f176c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/118a4e20-3f5e-43cb-b4ff-ddc684b3d906)
+
+TLDR
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/20c9fe70-144b-458a-a462-c33cdfe7183b)
+
+
+
+
+
+```
 base
 2 0xd581f0b4493f6f5177165dca75b64f0fba02b61f 2023-08-08 2023-08-08 2023-07-15 
 3 0xb8c9aed31f543d51f01b5f89ccdd2a28f0517e19 2023-08-09 2023-07-16 
@@ -2909,7 +2980,7 @@ base
 51 0x05cdc1970971ea66a43e6e86d9dd0e2fb5d52393 2023-08-09 2023-07-15 
 52 0x604bba1fb4574456df8c875fc878c4c377de3c8e 2023-08-10 2023-08-09 2023-07-16 
 53 0xe73fe3e3e50db8c2950072705f1613f4a34f1cac 2023-08-09 2023-07-15 
-  
+ ``` 
 </details>
 
 ## Cluster 22
