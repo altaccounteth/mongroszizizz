@@ -1875,7 +1875,7 @@ The following wallets have participated in transactions on Superform in the last
 The first 7 addresses are linked by the same Binance CEX deposit:
 0x09A11feBfF82042699CcFE93ae4AF4965198Bc27
 
-**TLDR**
+**TLDR**      
 Same Layer Zero activity days.
 Same CEX deposit address.
 Same Stargate lockup amount, on the same date.
@@ -1948,6 +1948,10 @@ It cannot be a coincidence!
 
 The first 7 addresses are linked by the same Kucoin CEX deposit:
 0x13645493baDBEA2cC67e83f92eff7bBFc820124D
+
+**TLDR**      
+STG Farming Loop between all wallets
+Abracadabra & DFK farming transaction 
 
 ```
 0xcdcacc1623428893b5e5460e3a1e2811a23ecbf2
@@ -2063,7 +2067,7 @@ Additionally, they all made about twenty DeFi Kingdoms transactions on either Fr
 14 first address linked to this wallet
 0x326C1475BCE07e9929797C35107baa3dabEA709B
 
-**TLDR**
+**TLDR**   
 STG stacking loop on polygon 
 same STG lock date 
 Same Starknet native bridge 
@@ -2122,7 +2126,6 @@ Same Starknet native bridge
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x326C1475BCE07e9929797C35107baa3dabEA709B,0xF833c34a795C0b5612AF027e23800E8090C64934,0x54CEE5080BFd348e2601A36c146A5DcFA7D8B106,0xE56426b87637B5F516C9a4B6b1CE1b914Ff197C7,0x1a7cb54e27dbBCBF5b3C24C91f36BA9d922f0b92,0x61FD3F38d60efFD953b31e531fB80EeAa37A285c,0x9a5350aaeB4f3A5D896783b4C122919A7d0f9F83,0x0c7F9dfe5F484dC75EEdbb76d1fcdFc8970d0cb7,0x64DE89A86ee0c666952319E162Cf3c5224d45566,0xE205473109564210b726D5227Ea56c92c4eb7ae7,0xf0579b201B2baeCdD6472EB044D9b96F6d314779,0x0FD32cfe822823b7C01ee22FFF31D27C6f6B1A8f,0x6C15B0b3eE98c39C390c1108fa3410F9dAcB0fFD,0xDAf393B0082922d75465C2A08Ba6F93F47c54918,0xccBf77fA01eA919A599EB8d0A68d12a3e277A5D2,0x09F31C0aEe729Ba208971f07BED903b0d0135e4f,0xff758cb857571Ba5FE7891cDeCE84346c698EC26,0xB9FbEbc86634184448742C918B127672071A6f19,0x834684DdB8C11EB58fDDf1159E9C74953B892CfE,0x9a9B64F79E9f2ff806DA3E912f826941b39404C2,0x8AbE5C1B066b30069838e8BA35F2E4B02db15d64,0x875484C305e532a485aE6f79bAb05e4677c15bE5,0xA5Bedade8C873B871d08f2d4b1684a9BD6945ba7,0x2f6c8ad9b90f03F1444F8512e30f48dd225F0Dbd,0xAcbD8887d3D14C90573453074e7098A909a3fA15,0xF793F9EBBFC6470835C7Cdaf83C9788A445Cea13,0x565A4eb5DA4621C0D6032e4bFB3A5068ECC9Ddb4,0xAedb26F3D279529c7670F2761FFeA889F4c1798b,0x8f55Cd4E6d20dB42dBd868865686027DD346B97c,0x8c6A9E2006BD71989967854cc5Fc9dafDEadf64c,0x6a21b81376ef4759f2635a8F6f3C9858ceA457A8,0x0cb470a536e6E48333F7182Cc7faBC945A2Cd93b,0xdcd993c9482fA22a873c85a7018044106E1D6FA2,0xEc753095B07F476A07846E14775025F3de52038B,0xB383c276D3Db85A58866f6Cd1Ea949DB9cEE2723,0xd0261878928AdA35A3FC58C9D34CAa753b9E6306,0x21a9e6f106f4D4247dB9462ebf2C9C4241578Da7,0x93da1d0d77E7483FB199ceCD0B2077a58aB9aBC1,0x300A1410c148458E50Fd1eAbAABD3cd94A576B20?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-39 wallets ranked between 90k and 280k.
 
 L0 DAY: all wallets are between 507 and 530: 4 at 507/508, 7 at 516/517, 3 at 524, 4 at 529...
 
@@ -2168,7 +2171,7 @@ We focus on the address that sent the 567 STG (it's in the cluster):
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840149/xfyjmswpt03feypc697y.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840151/ebhri26nzsvgxju0pvbu.png)
 
-We end up back at a CEX.
+We end up back at a CEX address Deposit.
 
 We revisit the one we left on standby, 0x8f55cd4e6d20db42dbd868865686027dd346b97c:
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840152/b9jq2r5idh7oscdliazd.png)
@@ -2413,10 +2416,11 @@ polygon stg lock
 7 first address linked to CEX deposit address (BINANCE)
 0x33e65f576DcA44D4042F386eF932efab4aAD1C9C
 
-**TLDR**
+**TLDR**   
 same zksync bridge date
 STG lock on arbitrum 
-same layerzero on chain behavior 
+Layer Zero days very similar
+Maverick & Shimer bridge very similar tx 
 
 ```
 0x2f91922aa4caba7ae19c1223c0007a1a598dff51
