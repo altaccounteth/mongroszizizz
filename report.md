@@ -1634,6 +1634,26 @@ Layerzerodays
 
 Same transaction on Orderly with the same source chain, same possible start date suitable for 18 out of 20 wallets, and the other date suitable for the remaining two wallets (but linked to cex deposit address):
 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e0804d71-6fb0-45ba-aa91-aa360e39d823)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6f0ec529-2f3a-4a34-8055-fe6256b6ef9a)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2d3b3308-6df8-4306-bf11-26fe086bc500)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce9ee81c-9174-45fe-95b6-43356397237c)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5cfc5a51-6f72-4982-9224-cf51ad52452c)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e9451d3e-52f2-4cca-88ed-d05f4168fec9)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eef2f2d9-79eb-4e94-879b-606284df3fbb)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e54abb38-0b9b-42ec-bf73-8e05e89a8829)
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d4ee34ed-f401-4c3d-89ef-4a996215d951)
+
+
+
 
 
 
