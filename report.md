@@ -118,7 +118,7 @@ This following section is an rotation of the list of the addresses of the cluste
 0xb0240794108fd89c99bb828c9ebc0e7d9703c2f8
 ```
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0b2efbfe-c4e7-4882-9bd2-46870eb134d1)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839750/bnsmi4chqgdgpgq2upqb.png)
 
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xc4D0EE5b642D3B429C58CC4D10BDCd92312ac180,0x882668c887286d3dD0EB894A78Eb92798484978d,0xEeD8403B6513c80Bfcedeb8b616796e4b91D1a0b,0xFFEd310bE751FC94780f12884a641a507122cF0E,0x04c17D923Fd9f18f2399E9589aB80Ab62f85B407,0x81077DEA57DecabFBbEB8648aDca22d42D106C8c,0x3B0F2700B69a59DC6D1a9Eb0C0Cf86C5530a0D62,0xB2DdB1F4c1404B9e35ba5c3012119bC0AA4D687E,0x41953a807a5a1dcd1f171f443aF72381fBcC89EB,0xdeF2262AA7c28DEa9aeaF43603Ac2b6913e19deE,0x87a670EA67703D1268d93634EAc67cb8549627a6,0x1bFd59FbC137D6D98416679d0D59eD9f0c2438d6,0x60948B99D47B5d6ae1201252ccf5208990bB55a5,0xc7358117CAf4D922b05bD9892999DA40b1db0356,0x5631326134b98EAc44613Eb469E94d27Bad0FCd5,0x2EeAb694B866120FEe008620D92e4474de17d418,0x3f3cd2A6086c033aa5E39B12243D21C8C210BD72,0x65d07D0F836A976aCfD7847235AEf3259255EB1c,0x388b1782C280b4055318608E1333c5608f382C93,0x4998B45F0cEEbe955dDcE8afdab9233894569559,0xe0D43ED0EA6e8EDD4aeB500Aa922Ab2E11C82807,0x259152761Eafd5c2521FEb3c605105548C2088c0,0x4ddd8828f1C801BBc87061Ba9A5cdd5B94C88938,0x7851D53222a1E85791fDffc96988177Cb5108a30,0xDAFB27190fEC1F2e11B28c7B7239CeF2a580e24B,0xe4447EAd4001adDd3E7E4C27E70a936B7dF68BC1,0xb0240794108Fd89C99BB828C9eBc0e7d9703C2f8?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
@@ -166,11 +166,11 @@ polygon STG lock date
 
 <details>
   
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eb6751c3-36ec-4a76-b9d8-e681e22fa4ce)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839751/xjfuu1q3ypb5k3vtiups.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0x7032B3Da4ae9Affea76B2453d2420A93A6F29561,0x3019E7Df6CFc75cCB90452e90454712BA1659bF9,0xe1dF003d4a8b5059A64733e503258690E6cD3cAd,0xda550016C984001c8b0E1319140ebE520a1f9b5c,0x60DcF46d6aE3ac642D04D19F219A758C1CA44F66,0x9f030d219F24aCfeEa312AA87c79A2C02ea59065,0xE362fCff4d298D134F107dC65FEB61A197e24f5B,0x5C5A84f90B153c7cf95C1dcB695602Dd1A7713Fc,0x4A85E68ED0bD9316025Fa7b57057aE4f10F000a0,0x1e408f8cB597a2ab50FC1445E53f3fCf3A113D79,0xB50f657eE68dF2a4695d6f3C6Ae0077463b12eDc,0x389B5Ca886bb3f5db3B6907B7bb54e7eDb83c557,0x51263874865B2Aa327e5AfBbbc9619A3A1e21353,0xe15f9d9b3bA32758e28b2ab059Ce4a49a4B1C98a,0x0866413C57281268EdAf85a325Fa2Be9FB641B22,0x9970A2C648362f8f0469773ed58687090F95D646,0xbC87182eA77d7A4587Ad8ECAeF7301DD14916565,0xC593BcB105E9afb4C20Ba057fdFb95b58AFC8e3c,0xfC84100FAe97319A47519B221853E1B9Bc7EB634,0x2E83c6833c171939D0Bb3653dEfCe00FC76c8eD2,0xa04bF9CD9ef858F7C6d9C36539c3478634b27022?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Very similar layer zero days !
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9930bdf8-8439-43ab-941d-39b4d6c5fdce)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839753/rwz6scjqlvqjhenr9ldf.png)
 
 
 ARBITRUM NOVE NATIVE BRIDGE 
@@ -299,43 +299,43 @@ All the wallets in this cluster that locked STG did so on the same day.
 <details>
   
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b7ead109-d976-407d-aa08-876023042190)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839755/tepieusxfeuxnfkuqgtt.png)
 
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x29e6c5D260e4b800e5A2226aFbFca66568310dA7,0x80019ceB167ef8e1d3d991FC42739E4c06E587d6,0x08C144C7dA146189A4097e771E54512C5FF9d145,0xb43E0b414D156570d9123bF5286D15eD2E22FA72,0x392cB58Fb7D6C27943d16ddD68d943DFB2695dA9,0x92C814b4BBA46aF24D887AA0E34e63B7B381ba03,0xcDAA39e7bcc311De7970E6Fc8BBA92CeF0b8c4e1,0x5acE6F229552901C69C914529f0d99ec757C265D,0x604040c5a2B04008d97739482906D40214F7Ca3b,0xCddD83a4cE477bC8d81aEED33539b0338273a4fC,0x4d60C23D86dc8DA36C8D739e0db921f15553b6F7,0x71954E31c0A79aAaC6C9cDE641691EE6A5c3D936,0xa1da0e1100E88AA6c4f5555CFa5aC24d5FF4088d,0xAf08d3360369Ca473d2DBD1E2dc4F69296bb0E5B,0x0aCa8C735159FEA6705080d80A1959622F647A59,0x30c795f8AB70FbeB2B1e79aC88Cccaf2966CD058,0xE4125A0EdFb48070B60D33368fAe03B40aC4f0Ea,0xdc7A3734D9CF7efEcC0d53A4854be2A4e00Cf81F,0xb22223f2f433700D095797facD6A7212D6779675,0xBEB616971159c12971Df15Cfc195B11A0cca30D7,0xC2e5b466e3a0b116ad1F8F62cd3903D5cb314C78,0xcfd426dEb6F9F1e4e959AA7C28B42D546CdeD891,0x41261fb9E642318994528e8a902C3582b50D9034,0x1e0740315D6014C9bBc4423b09C8fB5aaC39d8d7,0x0Aada189CBb5743F9E6123464EE7C1553818796e,0x5C357023e4B0AFb0224aC6159e4Df0Eb672EC355,0x9434Cf7b244958dC6Cbaf9fB46173CAbA8d2595f,0xDE52e9Ab7282c060E763Db278fCc0a3Ff839CfdB,0x404844C9af8617760227A311617ebF79203523aF,0x2B98345Ac86b4F6fe57956F2D69e83B6F7C063cd,0x16589a27Ed90d732d0CaFAE0eD71D404c06DF4AA,0x7e6fC028Bf7c9Ca7a2eBe72b40e43f1464Aa5E66?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Regarding on-chain:
 - same layerzero days
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8e024320-1a7e-4aa6-8104-4da97fadc1b8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/447c855c-9cb2-444f-b334-fb5da2a13426)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839757/w2terko4lhmsmdzeypym.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839758/ulaxqb00nbo0ebdzpdk9.png)
 
 
 - Sending USDT to several wallets from our list.
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e2259894-8cf2-4a8b-ae29-a77156b1775d)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839760/zytbqxaynmdvvwq9prqt.png)
 
 Same pattern on Stargate with STG tokens, all on October 4th 2023, about 5000 STG each time, then deposited to Binance. A few DeBank images to illustrate my point. The execution date does not leave room for coincidence, especially since the Binance deposit addresses are similar.
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2eae7603-ae9d-4abd-a1b7-32028051392c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4a24dab6-5542-437d-b9dd-46b827846d51)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ed98a622-8e9b-4475-80c7-6f83c3d7b9d5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/15b5c421-38c9-4c66-a8b9-fcdca4383363)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ba7266f9-1424-4607-bbca-3271544b3a88)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/980cf53a-53a9-49d8-ab60-a5a101a90c97)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b47c54e6-d22f-45d3-b00f-561ad73a7111)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4745a8a1-5e86-4a32-b590-5d692463fd38)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b6bf3f9d-b784-473f-aec7-47d602cfc598)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0e1837aa-c576-4c95-9df0-28d7097234cc)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/45f58b0e-7de6-45c1-a2c0-2498701e6dd8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/95d45284-4e02-4a43-8592-bc59f8de69f2)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839762/qj7ytxlr1fstij0w2btu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839764/lh5puq6ukmwixikhxbsd.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839766/l9rmcofzv7vjuuawwdzm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839768/tblswio7xgciulzhdnbr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839770/dhp1cftynlf1hgcxa2pp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839772/jfobdl3e8lkqppodurm3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839773/fumohdhtjywfamxqfwcr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839775/lykdmrgeqshnz95hrfyk.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839777/azig9y6cj458a88md6p8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839779/ecrlofnynbjwu75im6yc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839780/e4qrmqiqsgpybdd0nvbp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839782/kcb9zwckpyeb9lkmebiq.png)
 
 ETC ETC
 
 Similar pattern observed on the transactions seen on LayerZeroScan.
 Testnet bridge same days.
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5106638f-98ba-4c06-8270-371f5a1bd7f9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d767fcf-01f1-447a-80e4-113a836ef608)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0d9228fd-e2fd-4b1a-9bd0-4baf13242ff1)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839784/zf7gucjtsjbr9i0klnao.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839785/riqza7etkmxawlg1pwyj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839787/owk0a5ysxuvxsq9hgcrs.png)
 
 LOCK STG DATE: 
 All the wallets in this cluster that locked STG did so on the same day.
@@ -438,7 +438,7 @@ Same goes for ZKSYNC native bridge
 <details>
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/48d54bf0-9c00-4e7a-b96f-80479e79d19c)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839789/tmd7ai5vknof64za1tqx.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x5820CAf64483A7cB29Ba3Ef93f9AB34b6a54bFcD,0x420c769Af76AE6A065808F1a67c9F53BbD98A455,0x4f020Ec2b43BDaD10e30e885C99c0CdEA134aF77,0xaF591924Ba8261AAcF87DC444806177f99Ab0D8B,0x7f1Ea099d396D76F41C22a4159A0D4931F1afC4C,0x9adb99789a7D2Fd9c6506d12e92A7A3f715DeE07,0x9eF07CAa3517273AE4bded736d3678a447EB7F3e,0x7303C823d2c992302C8cC7596900d8f80879aACb,0xEB04D45667F9F555bb868FE83759C2B57E4c7716,0xe7BD4088B944b644fCA7AFe7C84A1ED71f3f3109,0x0c6feD6b745727C906D4B50a906dceD536dF9f64,0x94a76e7B7A503E0342755b223b6321bb03FEd1C1,0x29faf75Ad1Bfe4fF545B64a57a76881F0fF42ccb,0x8Ec9E390C846ca749535F9fBd4Bbd67C39957F04,0xc8729f0853E25bC694e1F55901Ee620058191fD0,0xAd14f125F22fFAc70432f28587AAfDb8D83E34a7,0xB061032dfc753Bf123B8bB2C3A48CF2a39bd9Bb9,0x3432FA91B8C8D7D5a627fAD339F4f174B83192b6,0x726B8631e87459e6aB53a4102eeC714cebE24eE9,0xA337198F4EEdE41257980d8f2e3eD3d5C7084306,0x618e4f464B143Bcc3B10f252D02bBA0411D34D76,0x9981316e8FcD782F7D956b5b1BeD861Ec2F9e477,0x77D47537212dfc5b920F784FD2dbA5978C1f2565,0x9AE2Fb2c0385A28959A2Cd400bE47d4337dff28C,0x6F6F2b5aFc9021A4baaab518f632a5f8438a9F49?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
@@ -449,31 +449,31 @@ On-chain analysis:
 Firstly, we see that many wallets have a similar start of on-chain activity for Layer Zero, as shown on Dune:
 addresses with activity starting on the same day within a very short time interval.
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3882843b-d29e-4770-8d73-bf4149a64d81)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f435b702-af70-438f-bd0c-36ba321609a9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4d564e0e-4a51-428e-b9a8-65dc0a6b689d)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839791/utqdco51uzbmtuj9ysja.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839792/kr0y0wt0cr3ayepyrwxv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839794/ny9q3dhfvhoeywul45yu.png)
 
 Next, we'll delve deeper by examining the pattern of Layer Zero messages across the different addresses in the cluster:
 We notice that our prospect primarily used Stargate in their Layer Zero farming, engaging in volume farming across all their wallets, which is commonly used to gain numerous rankings in the Layer Zero dune ranking.
 Here are a few examples:
 
 0x9adb99789a7d2fd9c6506d12e92a7a3f715dee07
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/202a42a2-79a4-4f1c-af70-e06b5f085adb)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839795/rm5lmjwcpkxcvenm7u7y.png)
 
 0x7f1ea099d396d76f41c22a4159a0d4931f1afc4c
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1c8f8f1a-6322-40e6-983b-5a4ca8d0c23a)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839797/kzofhmqqxglby0hxkutj.png)
 
 0xaf591924ba8261aacf87dc444806177f99ab0d8b
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a79e9a76-6c26-40b5-aa62-f5a7d5705054)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839798/jqtxvgu2rlb9hrvenuqv.png)
 
 0x4f020ec2b43bdad10e30e885c99c0cdea134af77
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7ddb5772-bf01-4b9f-b4b4-84f8d6bbfb3a)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839800/vypzfd8lfwiq8ajjbpcb.png)
 
 0x420c769af76ae6a065808f1a67c9f53bbd98a455
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a39b904f-e38c-4f81-b3e4-9c2815016ee5)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839802/m6y09g7qiwcy9k5lbgiu.png)
 
 0x9ef07caa3517273ae4bded736d3678a447eb7f3e
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/51c19d57-5b21-47dc-9cd0-5bfac68f5e79)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839803/mqlyozvsdp0wlbej85qz.png)
 
 This is the case for all the addresses in this cluster.
 
@@ -585,16 +585,16 @@ Same STG lock date on arbitrum
 <details>
   
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/01bb6f1b-f81e-4802-8f40-ebc15ce43df8)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839805/xrvetosqzuqeg3fphtsp.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x7ABd480bDad5CCFe1AcC840cE408B1336b747ad3,0xBe6513762d4b65d74322FeCbe3aeCd0e944A5C1d,0x0316b816eD6aDDcCEC0963f730375E6B4991A5D3,0xa93e7678F0B90c0Dc454E9A3EF5260E6eD7C12F3,0xA2aA23E428ba5b8aBC52C733A1a9635841E737a1,0x7069e41d9E7099fDc4a4270E14aCC29003d9Df51,0x9547b0C194707EC1Ee64eA08975f1201802e9453,0x460314a8d83dc7ce9fA4a61F330D0Bb452e1793a,0xfCf5DB30D7403a90aB625FA850A5577E944117EA,0x29D5FAd4C0F8ECc705cA2AD4BF47610aE88291F1,0x7fF48F78cA1855bAd9a3Daee8d2c3B29269eBd52,0x10b0D3B4293ab1112ed0c96f37Ed9B1D22c1DD53,0x04A0476DaedaFfC743A8c2d29e5562064b744E7c,0x44b34F5A043357F62f2061f4A4FD6f21dD7bC51f,0xdEB73dE3C89189122fE621e8171b65DA7fAB0613,0x5998dE36DBf222A0735a8e3004fD90CDCfD7A4ab,0xA0080a7bc272624355d3104E60c0354502624B38,0x2b699BFa91bD12954f8E1Fb5E891c4cdcC3B4071,0xC429Db30e778d44143688BEd7aA223540aAB3429,0x6Cb35c0427E0C44B10Da4687D5E0a96380a2Ca0F,0x019cc201dfd4CE85f83e84A2c6a1294F1E66FA86,0x3a179Bf9B4F581696B1EEFE6F2bB4AD82ba8A690,0xBc593Ec4039E1281449F17da98D0d4E46116eCac,0x48b889640B16d8ee8b575249d99669D5094C3B0e,0x3601362b8DF6D2F87C4f0FE329BdEd64589e467a,0xdeb862a3b982F9278B258c72375EA2DB9aD21D5F?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Layerzeroday verysimilar
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ac503934-f392-4454-a1df-9d0934e9aac6)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839806/f767shfaxypwbcuxnisv.png)
 
 RENZO    
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5497783a-6384-4416-b9ec-e4f6b8e5e224)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839808/tlmnpc6iwijxjjogn9vw.png)
 
 
 
@@ -806,13 +806,13 @@ Similar layer zero days
 
 <details>
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2050bbe7-11b2-4837-87eb-8c16674c0dfb)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839810/bo86cwlr6x9vrnrgfhyw.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0xb9E5817f583e523bB93915152C9bF59a86B3BB1A,0x63500Fae0E488188d48fb4706E4D2837947e7E1D,0x298d0E720af139793a406A52e5CD1031FE203892,0xFA0a1f52fa4CB247D5e7c594aB86cb79F317cC32,0x7BEd252b6140CFa8d138742c7252cBE38Cb22408,0x42aF53e406FfC8A5a697e361A849530E483D36Ef,0x513175A72D357f3C8A3ED297d70C1a9B214b582F,0x02218B484d5783Eec60A3eac0593EfA69602eCaa,0xa459a1F385DB5829388573ca75F0417550e765dB,0x676F5a22Bdd5FE1f1d8780C3E4e1Eca2185f7a09,0x139e72D1eb1C3639372Df153F946A7dAd3cB5b97,0x901Fd2bfFF72851F450AF7e5782AC4e7c256DD7D,0x60f89804f77aBb1918C2b9281f75dd4D7C7e3583,0xb75691a28d322F5193Af9cd1e6417127D24110FB,0x407FE4CbC8A2529aEc8502602d998c91552c476F,0x89Db0C9a875A87D89D2d8EBB254CEc257f561850,0x73591b5643bD7A4827dE0b0a97E0E0414453115d,0xFd7791947f29a5CeE9351426e7323F3fB250B782,0xb8a7622DAf4549FBc774BD3e1d4903079386Af1F,0xbB94514A1b3A3212308F0aDf6383bAAe1F5921f5,0xB86c20Fd1265D26Da93D1DE0991DFbBe98D1efA4,0x26B7E8faaead192aCC4e197a72ba99721EB84ACC,0xEc3B8726c53C2bceDDd720293725ad34abf9f8b7,0x943e3B444029Fd55a53e85afF203C3DD19881E87,0x429d9E1CF998abd7288FD0ab535b55F24aE57CA6,0xd54238C508268694e5aa0129eCf9D08cF7f433DE,0x3e608ddC9a4832F1cF8fB7BEf8cF0aaaC2c2e2a7,0x248CD65F6D6179B1501aFAC5c41a8540446a35E1,0x20e4Fd1d84eab14EFFCE8E3DCc1C9eCc1F63BD28,0xC9D88b20eF4099D0C0acd797B2C9916D137658DC,0x4A043886F563221bc2db9ABB775105a1d837DAA0,0xB26d7e82E3D29c0519d3ee96b99D6C3a686D903D,0x131AAaFde6AB1598ac391E34DB0A7999A34f1963,0x1790d77c7Fb3b08bF05a650337a5D27a0d977D71,0x025cFB057b1Ac30Fe9EcF0087c6Bc5a305679252,0x5406E303C82e86fA837816bA36cf2E6DBEB8d79E,0x95a37ac97050aDd5AFb1419895691278a848e402,0xf7aE08aE54E010bE11B8b1bc6ad8D1D93AF05236?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Layerzerodays:
 for exemple, 11 address with 315 layerzerodays, created within less than 2 hours!
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/72c621fe-9fb7-45dd-b621-a67bc3d69ef9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5578c746-fada-499f-a917-29c5887dd2ad)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839812/wmtolziruzfbfumd9b6o.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839813/rm8qekkqw2jskc3s6jrv.png)
 
 On-chain analysis:
 - Similar number of LayerZero messages across all wallets (approximately 100).
@@ -822,41 +822,41 @@ STG Bridge with a huge amount, on very close dates. Bridge with a large amount t
 
 Binance withdraw and deposit chain: 
 2023/12/20 -> 2023/12/27 wash trading with Binance
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/57220392-177d-44a9-980a-65743dad61e4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/909e3c0a-8583-4cf5-9fd5-56e5ac6169ee)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6fdb910a-349e-4bbc-acad-5464283c58f9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5f334d7e-237c-4730-8167-bab6f73e0977)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7c6742c1-1113-40e3-8cd3-d2870a3763f3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce329d49-5a19-4f62-bdc6-51420efb03c8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/22a465a0-4391-43df-afe1-5a07be2ac7bf)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/120fbabe-62e6-4f50-9e99-cd1056cd07d8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e85ad69-fec9-4674-be4b-90b5019f6f7c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/253e195d-879f-41bc-9856-a0763d2af8bf)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8f9ea175-7014-465c-8437-734b01dcbcc2)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3dc220d9-d70c-485d-935c-e95d76426302)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/839f8311-f99a-43c1-b1a5-d8643ddc9c5f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6124e02b-8481-4c45-9ce1-80bd83b70182)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3ab46241-607a-47e0-bdd3-79ab44d99735)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/feeed3a0-be36-4942-ad0d-95a6e4b7056f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e106dd60-ff3f-443f-9902-0b14ed2999ed)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c3f248ac-b379-480d-871a-9b597633be2a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/899f10a0-44ce-4fc7-a54e-665e5eeb961f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9dfe1328-cd5a-465a-98e1-fe575eb10fd1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8bc94439-0d39-49d7-9d7f-b62bc4ac92d6)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d570b7aa-943f-4666-8e5f-33976a6dce32)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8293527a-71e2-4fa2-af51-865f67fcff69)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dceb18b9-c702-497f-b873-d5fb585037dc)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/76876455-89a3-4610-b418-6b5ae1994b0f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0d2df3fb-d97f-4b28-bce4-26bf3fd0954b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d426e768-b3f1-4e62-80cd-b82636557b23)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/367bfad3-71c4-472d-be11-e440d521aa51)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ec3e4818-9d45-4625-9a91-c7a172d17856)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a34f18b1-0ef3-48bf-9e12-f0f78e8cf799)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/79524660-7e6c-4c34-b5a3-1dfa65413997)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5fa0880-0d37-4658-bf49-09ad83581dc4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0ca1ba29-a07f-453a-8665-8473d8c2a055)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4c27ac7f-f2ee-42de-8728-6c02809c6791)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2a143470-b0e3-4096-a10a-aae760389744)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839814/toiwgre8g497xoiif203.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839816/gurvfbywwgec6vvbqwjo.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839817/umhcei8q5vzxgbsgimaz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839819/jjcaxqelbk75cpkcdyeu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839820/ofcdlk0myrw6splqthei.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839822/ui8xyfxaedzvqmhrbttc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839823/dyh9qoiuprbzzakibl0c.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839825/t3qwavjuzrpo5jq6xgdg.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839826/tmgklevyhimvgtfc7ux5.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839828/lmgbb2uolk7wwpr3ogzu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839830/qua85l1lukkxqt2xf7eq.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839831/rhhk8nk85oo4pthwcv0v.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839833/zv4izdjfqzf8ovpiywsj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839834/vgcn8zctl9b459jkjwqi.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839835/b9d6rstymt09x2dzfocf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839837/mrqpnm47g7dg5uuljqjs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839839/g33onmhotbevocjwbkwc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839841/gnkjd5kfnsktdvkifi9a.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839842/nwcaljozx8f0et4hn2wq.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839844/siu4nqkbxrhkxlpnurge.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839845/ojlk5luehrjqihrewx6h.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839846/dsnmbuu5vvo0yfa2qkhs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839848/jnegtxgkdqrbkvt02bix.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839850/rf7gfhe5a9py6kttpjt4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839851/j7ks14d4kr7epjz9povx.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839852/nt9mbx6am2bp8nxj1qd4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839854/razhggckqyry5j0viruf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839855/ostkq5apx2a40xi7kgwy.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839857/jouqomhm9qqvik1tmgu4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839858/wqkgx5uay5ps500mtsla.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839860/halsjuoppk3psylpxsdq.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839861/sec1vrsby69ppfstwbyu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839863/qrcnszbst6n0zwk0bwkm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839864/mhveoq9fe6gpxmo3mesr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839866/nty3fevoerivrrtdgjgl.png)
 
 
 
@@ -865,9 +865,9 @@ Binance withdraw and deposit chain:
 
 
 Wash trading exemples: 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c546bb00-770c-45fd-b754-c504a1bb3377)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0922c841-729e-47e1-9d4b-f2fc7b2e72e4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f7aca0be-9b41-49b7-b428-1dc3ec067476)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839867/pynnxmuiqwwmturn20nv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839868/wfbfhidcoa0hmbndlkab.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839870/yuerawn1odcnah0l4w8y.png)
 
 
 
@@ -952,13 +952,13 @@ Wallet avec des LZD tres proche
 <details>
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3b4c959a-8412-4640-8973-a8bea8f390f7)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839872/gnwazutcvzopb57sxfwo.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x31Ce6f9e94C76522A22306f4Ebde99d0337F25c4,0x120b3bD4c51cD9aFB054991DeADd8f3921f72FD9,0xF9e298c3f0e9531C0f2A87E8d5647B2aB59d2171,0xf706eb749EB8E94742ed9AD5234882Fd1d74F7B4,0x335f9602DAdbD97c956A628514e1C06660304F17,0x8Ae99e4e53BFE644F5FCBf70860C9476f531e54a,0xd18a806Ec1198A960f858Cd6a16da6a7630D06c8,0x71d361dBfc1b44Adc35168a4eDba882CB9BFC1Df,0xA28468cD24BEF4A11E0f56F640520b4E99f6C36f,0x2313E8D99612a06000FcE8A22151127D14b15BDC,0xa05995F580c024f216c0d8B69fb819f2C6F22B67,0x9605ceCd3105653C9877876dc2C18773415ED49a,0xc361d995D14bBBF144e19b29F301a79681aa6f26,0x8C6CA92eD894ae08B862797A9D3074999fe56F74,0xd5798089637D49e99deCc9918FD1210d0D853716,0x4D426d51d79fBf5c3F0941c547e71bf5b990d28d,0x58E522a90453a846595272D261Fc1343648c5cf2,0xa38125d2CCC23299b2eA3957CB778694318b317B,0x1565488daE872828D1361B28a2e5C177881Cd61f,0x0d87D7A49344754DEf8aE853aCb4A20907D0E464,0x3F15900A92345782C73c46658118F8C5F63Db92a,0x82aA02620393fcf6Ae31F14276c054Bf15a4D885,0xce8500Cf7edD55e900e9CA6f374ECDb19428C96A,0xB7829Fd2Ea87Bb03200838480F451fF2521A7F4F,0x02eb4eA27D0476C96536D45594885349BD597071,0x87a7054A5Ae3dE3214c46d0cFC6f9bff13a9d853,0xEBed5D8C2228d6037b2D8cf5a4112969c2177E17,0xfFb7DCa21C077427336b8C0b09867c43445294b2,0x3115F63b988bEdbc6364ce74b02c31593c9685e0,0x97792FCc8Fb31EbA6737c785607d641D3bDcDe4e,0x0cA2DBcBBfd0F0b11efE697cB80Ad08096B132e9,0x75521D0fa2A13afcb22934b6EC9DC6F94363BDEC,0x58eD441FaD1761192E02d8625F6F011570E9cFd6,0xB7FC07CDD7b559395Ac358c1Cd174D2897356D08,0xDd5868A795e540F125FA017A6E51f9375fB10421,0xF87ADa8a6559057eb17194A152CC0B7b954100B1,0xb974e3933218b63D8641c5D20db411B2713b1405,0x3266e91cFeF333e4F21bAaFB2C7AC12AaB2EeB4a,0x630CBa1BD582BE03bbc383306E8F7766F94b8c1C,0xd68d861110a0C564bD6DA1dBDB7670ABE319164f,0xa967a5D9F782d1e23267026c5A59314e5102205d,0x565EC4BaAb11c4775458F27213C1B43BB3d01106,0x0e58D4C338d02312bD926C3784C74233Ad29B6Eb,0xF7b42b8eA9Ccca777f5cDECAAFD6fB52Ded22933,0x7CCEd1135A99E196835Ba9564B2886513eE28738,0x461562556a0E91b6C703Fbaf7650E334CdCda492,0x119468039ff58EAD48924484F45C0bF487610596,0x6a5F6A37Bdaf0d391952809e497C88cCF033Edf7,0x1be5629269bc588a14b3318AfBcfC75D5BCD3A4D,0x163B466E164e5f50168D9E08906B1ECc17053F30,0xfb429D6CbC8Ca02eaEC147d26Ed4fb42D9d82A2B,0x02377F6f16724f0d601e84b0D7DDbda25B8b98Df,0x85dE98a32dC868c89EdbFc0A302286B8B58A91bc,0x3306dc0f9Dd3807e41c397d8BbdF2DDbDDd19D7d,0x530C1d096848A2542bb6f97d740B4b29B976C96f,0xa0c3a793D47fD29c76392603058753C3fD923246,0xe8d101BaFC74b086FE92A12d39DC190b9bd4f278,0x4Aa30280846C70f4bd89453593796B8f5a9D12E9,0xB896bd73Bf58B97978b41cc7bDDC534209660296,0x93470c662Fbdf23F72217A62268dA356e8E46B56,0x71323939a751E2c0312C73390F83505fbADdCF56,0x0E949fD1FE58257c15C9f7bb18Bb894E09F74c79,0xC877bd8aD20D744815282695C0b3E9e5D59f449c?flow=self&positions=%7B%220x120b3bD4c51cD9aFB054991DeADd8f3921f72FD9%22%3A%7B%22fx%22%3A142%2C%22fy%22%3A-61%7D%2C%220x2313E8D99612a06000FcE8A22151127D14b15BDC%22%3A%7B%22fx%22%3A48%2C%22fy%22%3A-97%7D%2C%220x71d361dBfc1b44Adc35168a4eDba882CB9BFC1Df%22%3A%7B%22fx%22%3A15%2C%22fy%22%3A-79%7D%2C%220xA28468cD24BEF4A11E0f56F640520b4E99f6C36f%22%3A%7B%22fx%22%3A9%2C%22fy%22%3A-70%7D%2C%22basutano6015%22%3A%7B%22fx%22%3A79%2C%22fy%22%3A30%7D%2C%22kwbrars30%22%3A%7B%22fx%22%3A-6%2C%22fy%22%3A-61%7D%2C%22mamun-mulyadi%22%3A%7B%22fx%22%3A-5%2C%22fy%22%3A-31%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Same layer zero days
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fd4c96d0-2c02-48c4-8ff9-15b12143046c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/070d30bc-ca01-448e-8565-2bb31507fb7d)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839873/ugcrngzgqdxmmevsm6jn.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839875/qjkilbbzvat4g3167he6.png)
 
 
 On chain analysis
@@ -1004,11 +1004,11 @@ Same deposit & withdraw date, same amount
 
 <details>
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4af4e65c-00a6-4305-bf90-bdfc3fa4c8ed)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839877/cxspkzncxchicg6cmc6j.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0x078A0B6D78D6Fa119655Fe6a1b7c02Fc9dC7FF73,0x228b1E6E41189F3a66A8E4e088D3bbA9AB5de5fA,0xAcd54246EDa0c5638a247C4717a8782c21497eb6,0xaE21A3B475a5E6Cdccf389ed81530e1ee3DA6464,0xAE80fDcc486e493eF3D5bE81Ec1BDc6C492C25e3,0x2E424C44266713c829b76f34171660B98E8f74ed,0x1fD9053c40351E83AEd0D7B1FD7ef3d5CCF13A39,0x1841Aa56dEBA1e83425791FbE827B0d6ffb03E10,0x442f7980DbF32CaE7C8E5bF11Af0F252F5bBee5b,0x272034Ff890C1cdD59606aFC50798459694e1968,0x7DA04356B9536F4a949Bfc17114e242e84AFCdF4,0xb3902eb498681193C6fd65C653A8970C2A1b8044,0x4182035e9ad2546D1F5960AEC93C2c852227E6B4,0x7D740a3B8221aD036987D7653bEE8Fd32a14a7bC,0xE0AAb54593d19336D77f460F055211892D5f8876,0x8B5d6DD501d5899DE869eB875b04DC76e7FD5f08,0xF380a00A96c85BA7d509Fda02B583824f9342495,0x8C118d7aD7A62Ef0Ecc6a88c3116bd8050c6195A,0x0e1ad80810F133B6608dF93De34060044cE88e9c,0x616f3B0259564367b66F4d5A2d8525B4f7737D72,0xC436489b54bdce304D0b1802cA7Cf72a82f50446?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Similar layer zero Days over 2 batch 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/643a2f5d-478b-4d23-982e-6a28daee006e)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839879/xraap7agz9r3rbbgrg6f.png)
 
 Renzo Linea Scrpited 
 Deposit & withdraw date
@@ -1108,7 +1108,7 @@ ZKSYNC washtrading thanks to Binance deposit address
 <details>
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/545196bc-608b-4800-a79b-40b5b05afe69)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839881/w3v48dmmfwq17ojrhph6.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0xd59Fe06386D34ADb4E54F11945Cf72EaB9C60404,0x76F58De66F282b098e92D2e263878C25d711798d,0x75e840Bf2a6a385741c69f239BF5605e5659968c,0x15130D3cA687e16aaB26DBe64d00110482b3Ac64,0x9b00Ce25837d4E1B1F0Ee8e6fa5029697d7AAe68,0xdFCf5CF0C2d4214Ac92CEb2783303DbC8C3Af687,0x48db6B16dBeA2578696f5ACeB80B0358E3B0D5Af,0x2EdC3e996fA79d5Bd9f4879eF533F09b9f28E4Be,0xF85B691CA9c63CFD72E04d7A4fCEa8c30d15D015,0x27482bB566eC0bB8ceb60efb620EEc54e324D3A0,0x21B429819625Ee1B2963f54CE31bBdBB851E2b62,0xBA7BB922140E3D364CEd86DAF39B58Ca1a4b4B44,0x017A7d6d1dd982Be91a5cB5ec3f39b0525376875,0x78c0A5CA2149f6d8f800Fbe33030867e5962F268,0xB54a60Bc745be730130CA0d232280aec19424966,0x546bdA9fC7013120b6BCF88D87f9C61F289735a9,0xF28D95389E8dCb5a8ef726b2bC1B68505AC15A21,0xE2BAe51D63549a577729C4f6b94C2C0Cf82cB799,0xE170f6Fa50034FCA2b8e245fd7EBD55B95f90D5B,0x519Bab280D2255bbc1A9f53Bc6807F49CB7AEeec,0x77321ba9ea9e588453AB006af4092Dc603eDEc23,0x92E50034439dB73Aab36634CacE1dA45d213C77a,0x842ca458C1E0Ca6F0EB24f87530Be788E18ADc33,0x664Ee8Bdb83358df5bBB5194Ea6b1B4a9104B0e9,0x57dF552d9A9447ef954A305453BcC22Ec4aD5753,0x13C3AD942A09321d033a174453F79F2db47Af874,0x85fC976af1091E95d34538E7250e74d5b20a26Ac,0x6b73CAf86603Ba01f422A5b65ce025417f1876Cd,0x2c1909B9B4Fc32F0c4929558Cc2517d84D429d95?flow=self&positions=%7B%22its-me-emma-dee%22%3A%7B%22fx%22%3A-53%2C%22fy%22%3A-5%7D%2C%220x9b00Ce25837d4E1B1F0Ee8e6fa5029697d7AAe68%22%3A%7B%22fx%22%3A-36%2C%22fy%22%3A6%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 On chain analysis
@@ -1116,19 +1116,19 @@ Similar amount on same Binance Cex deposit on same day
 Wash trading volume on ZKSYNC 
 
 For example:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ff1d0696-3c13-43f0-88d8-0188c3795292)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/26760393-d157-462e-9ed8-ac801601d37b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/02e8ccaf-389d-41cf-8db0-729734fb637b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/27223c19-537f-4bc3-9d2a-122c3e1e1d78)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/80000afc-7e78-48c9-8a28-c13480c7d34f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/79913c0f-cc17-4b6d-a0bf-22d6b025d7d4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e731d9dd-81b0-4e60-a4cc-09a8d61dbd5c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/24be2cc7-f442-4cd8-b4ff-9ba4b94f5b1c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/82df2cd2-acb3-4f54-893a-2e64d3cd1fbd)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839882/u4xxl41chljg5xys03ky.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839884/ydal7k0uzxhqzhwebqvc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839885/w8qvizgjflsrx6adigy1.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839887/znxfrzu2cobygha71tw7.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839888/mu3grsdxqt0hm9auyb5s.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839890/gvjoxwfjttbvvv3lcz5z.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839891/trcxena7ptbsa1lic1la.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839893/uxb18n0pmgns8i6kxjcp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839894/cayttkspg8pwp7ymhvsf.png)
 
 
 Similare layer zero days
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c7cd97fc-f419-4f6a-993e-8e76cbff7fa4)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839896/a0j7eainm6lcorcd5dbh.png)
 
 ZKSYNC Bridge Date very smilar 
 
@@ -1206,14 +1206,14 @@ ZKSYNC Bridge Date very smilar
 <details>
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e1a97eb8-1b22-493f-9557-5767fc32b68e)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839897/yjf90kmjxxoyfpngcmav.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0x0b9A7D9d5348143C6C8054Cf4ccc4061cEC6F29e,0x8e00d744FFCb7f49F4bc735Ceb805C441D7FE256,0xe9042f1f7d1643E99C3a9d068AB27016DCfB1A5B,0xb6E9179e84aFAD68b94Af65CD3B41fd158B53474,0xe5885FFF1f2455CE2fF84B74bac51184E1E6BE55,0x57c17A6703855C1d64424D40d014967F623aF6ab,0xb93aD6d8F6c49a06B25532378e3c77EbFa8f209f,0x58665af74632F3411cB7d93Aff9Df6718584E9a1,0xF1fe705FC4E8Ed4E64e4E0A8a0a0e2C8aD03C73f,0x24869F992e320ff31068e114745b249f5FdA3223,0x6b90277dB05b6D81536e85408595414Ce0C24ADb,0xbcBE8E5C223D5849B809689fb4174cEADEb2d6E6,0x38035b7B33921A58CB5154D7F87503cB2A81A03c,0xaD4934e4926CBFDcfDA310e141D5c106727aA4fA,0xf684608d99872b9E7112F03DdbC605Cd68429154,0x130eD5007192ba6DA2E394dC317d0d15235a2BE6,0xAb5A7bA3d59F1Ce9c91FFB196406d49Fa6Fad3d8,0xFB9aAc7d07f148f14E2F814F217c819c28d2e33e,0xba3d0c6a4DAcde85a812cFD18e7111B6069d1f34,0x80D2dBf74453F71adeB22A99cb996F7AF1Afa262,0xB8B95005Bd5C73B0DA5F373d7a3208E0C1BA4B63,0xFe6e4B07C3fEd0A9C9a22c40625768e3d5d6371d,0x39cE2440E86CAeF8793bcAc10c02Aa3e06569921,0x85B6388d5dbBD989B0dFB42aE2fF038dd2E8B65C,0x7163c17Fb672A232F58df25a37de02A518b35471,0x1B3358A70A4E3b7481b1BB4B38a7798E708A3aF5,0x8ACA18D346EaF98fF1fC609b6043A60677f2cb14,0x9B4B186b07a6997747B95F40Cc30BF941f47e5C1,0x446F0Dab5f326624978C86cbC3D7A7D504D87e43,0xcec15153527b682Cd6Afdc2bA8785999eB44c92C,0xCE58de72c8CB712be36718eF08E097e0F2845046?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Layer Zero Days
 We observe 3 main batches of wallets that will give us directions on where to look
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ac1b01fd-ca40-4e5b-93ab-00461fa27783)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/81573f76-8ff4-43c2-ab1c-4d25f1755698)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b69187fd-21c8-4913-b23f-587884737ef1)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839899/xoqve1dgqmkwzu7f3ed4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839900/hdujzxaapxkzqcmdxt9p.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839902/t6ygoy456t1yi1r6laug.png)
 
 Lot of Similar on chain behavior
 bsc stg lock
@@ -1245,44 +1245,44 @@ bsc stg lock
 ```
 
 On many wallets, only 2 STG have been locked. 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0747cb35-85f4-44b3-88d5-a6eb258da780)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839903/znof2kr3l9ddkd86bqk2.png)
 
 We will analyze more deeply to find common patterns, it seems to be a daily routine farmer on many wallets.
 for exemple this pattern 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c97a7795-a70a-4579-9a43-737f6feba65e)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839905/ytaisqccjfo414cqythq.png)
 
 on va suivre la chaine: 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7b994de6-8003-422b-bf7c-d635770acd12)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fb0ce5f3-b662-4a1d-909f-96b0b1ee3fa4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cfbf9585-be13-4212-a30b-9d8498755c6d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dcc7dd1c-30c4-4b7a-af54-1bbb1c5c3d4e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/19a97f2c-af49-4e64-98c2-25c98d13c778)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c722393f-1af8-4973-be83-d6e951e23984)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b5101609-cb8b-48d5-88c2-b5fa382b4b4b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/85222a28-d413-4cc9-99c4-8698e38ae728)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0cc85a0a-902f-4052-a753-6de8b59f6745)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/955ce8d4-0255-40d5-969b-bbda36b5dde5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4492f58f-faaf-4028-a5e6-ffd9a495d9b4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3eb43cb6-36c7-4850-ad8e-9c172ad67767)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cc0bae66-1e0c-4ea5-ba65-7c1698886795)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4ce3e47a-50ca-45f3-9de2-c66b629b63c6)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2bd88b58-c6d6-4a0c-9f84-2134a76ec4de)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0c50ecc7-0fc2-4e9c-9ca8-39e6f7c020bd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/803b4efe-db00-4030-af98-62eca7fe40f8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/90cc29f1-59a6-49f1-a165-cdf83ceea812)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/44128730-387c-4c84-ae3e-9966995276e8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9ebc38ed-690e-4ff5-9a86-2ed4f655537d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/120a1584-95c8-45b5-a1f8-efebe4410081)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7d19806-1d6c-4d4a-b77e-13740f5db949)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/aeb9cdeb-688d-4a71-974c-130208f0d211)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0ae140c3-349a-4cd2-ab4f-957ae796e65e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ac1da58c-ae85-4950-ac61-f491fe7108ae)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/004e1cc1-5643-4a40-bb82-dc1e114b8a37)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/632fd500-2d81-417c-990f-2cec6c29917d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/32bcd34e-8437-4488-9564-3cb2b7be9b7d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/495b8c92-be3a-4c3c-b2b6-f5226d56d6bb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/65695659-d63b-4aef-9ee6-66824e5d242d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7bc18ee6-876e-48d6-835f-c2a71ec1e35d)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839906/p3vexy23zukclbeqkak8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839908/knladgxee0iwmltzh34u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839909/irnzegi2yxlhlmylr2lz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839911/dvtscytpu86cynfqnm1w.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839912/qwbyv3ssvu4zdikko0w5.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839914/g2lz3h4iwkyqd31ujwr4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839915/wkzhraw8vrizlsvm6kf8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839916/ozf1kbjd8by28uhzriab.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839918/skqvqlyrtzkkz73iqjll.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839919/azi8kzo84wbz93gyncou.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839921/gzz0hw4rkka8hnkaavy2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839922/hujdwn80bjc64f6cukaj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839924/fnykixwfj2b0jjxlcug2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839926/gwcwe4kak6zmdi2dj6c3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839927/u0ofiay3gtnoc4dc41av.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839929/mjx8femug2hny03gznx3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839931/s1tsym1pq2fayamov50l.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839932/fyqpomrjdlctwjsxtcfs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839934/touqitqathoixpdcukzu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839935/mgglqi4bj0ibhxkhuqty.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839937/wkkmagfpi0mtdjwyrsxf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839938/ni7gtq4tj3rpsqjhwrxf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839940/c0s6udgxbxpyfduah5zs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839941/egygg0fyazqyncaitcrk.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839943/q2nnfisvo368bekwdxza.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839945/wnoyfraxvw3qnqvtdk7f.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839946/betgfxdclerks0uqpidu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839948/oiqa1jwxilqn4b16mg7c.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839949/wfixsik8syjrxwft3f9v.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839950/zaum5d8ozblv3tq0ujrr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839952/dwhsuuhaxsyfawvratva.png)
 
 
 
@@ -1357,11 +1357,11 @@ BTC.B traderjoe farming same date
 <details>
   
   
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/60cb74ac-9e06-40ca-907e-17b88cc5c50c)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839954/ihjzpe8vaqcx4abhpmyc.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0x1A3Fd7f8CEa7AE69C82643979234a95C4Ff2E91e,0xF17bd2cb625342A85C5d1AEeD348FdA6e5fB29A3,0xB569F21Eb2450868B52710cfC7D9d8b3c28e591B,0x053E1fE30E5DBdb1592f6334EDC52D6Cad61e62C,0xe1A455F397c84728d215Db8E8d2206Bdc94F9E97,0x8aC4c075c852dA4b31b3502762B9A431142aE5c8,0x659F0e3886b1EA41D14b68857F12d4922B4A9f1C,0xC44b836d8bef83A0e1Db472ab5D5B5A2Abf35e05,0x0Bca47A0952Dc724bd58fF43895D909Fdaf059B5,0x26079110e26FEA2A0953e7059f65954D610A513c,0x632a25c80506dee22547908a51682aB3b5e1e022,0xb7C7394Feb40d2E8e51A36EB287EB655d7F71a6f,0x0904fBa1912D5FB284886fb82443516C1046c8e6,0x865E87a645FB537Da7a5e3fdB9E1DC6b60e273A0,0xc26a8444e853d8489E0BDAb04670cfFFAad116fd,0x8Ce9662E31FcDCE40D1226FFC05B33fc6824bb24,0x160d3a8CCb081C04497C8C5e2EB2d1EF572A0b56,0x39cB1Fe05C3346821e07dd30e6B5328414Cb7949,0xd547Bf20a617152f31A038f34e4183852a6D41b1,0x1ECdEE4265c1Bfa2d3F46C623df04F25E9603aa9,0x032CEDBCD22c2EB5Cb471936daa4DC867a23f041,0x50c33FD72718D3394A98268Bf9753481eBbBe548,0x6Ed077D8d6255F2c383FE26Bb108bB8FA4d81Fa0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Similar layerzerodays
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/574f7760-2434-452d-b79d-788923696363)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839956/mb6bswcmkkuharlipg4v.png)
 
 Similar STG lock 
 
@@ -1416,48 +1416,48 @@ arbi stg lock
 
 Polyhedra (ZK) same cex deposit address
 MEXC   
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c08f8db9-fad0-4c5b-b185-92652ccdbfea)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9fcf971b-b18c-4843-a941-8d6cc32feb09)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/af7359cd-c687-4498-8423-2f532d640fde)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5e58d7ed-793d-4227-90c1-173bbb69d7e8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/94b7fde5-e135-473e-ad98-5337ba18fefd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e94afd7a-acd8-4ec2-8c90-5325f8d54ebc)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9a09a988-192e-443b-8191-a09a6b7b30ec)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839957/lspd4qzwiaxjsrgy8nlk.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839959/ntzrmfzhswr6fqchbmad.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839961/i30ir1hi9rzkq27afo9x.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839962/kui7lzci8lhvob0pzfn7.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839964/hczbcfwjraqtwla23moi.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839965/bbknvp3fvkz5wtonpyp7.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839966/rbud9ppfa4emnoqxc99l.png)
 
 KUCOIN   
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1025bf19-a6f8-4c2b-a5a8-6ff3c043ef67)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/65c57f6e-5a6a-4e12-87b6-44d9b5fb508f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/436f1e76-9d66-4f25-b826-1794345f4884)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e49b4e5c-feed-4146-8a4b-ddf24d22c5dd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/069350f4-8beb-4810-94f4-f23e4498b0a8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f1531e99-0fd3-45c1-895a-67b5504f7db0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bf458987-be2e-49d0-9060-436613be7650)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fe7a57f8-e1ad-4f48-a311-44eb4bf61f1b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9cdff39a-3a37-4d7d-b499-652308a3b615)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839968/uotkp1jzf6zu8o2dylbs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839969/i32iwretke6pdwjvlfym.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839970/qohuo039egxaxmge3gui.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839972/mxzzyfaa21sg5lq6onkp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839973/f9ehkrnyuafnn3cpb4nx.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839975/z9qucnduffxtip31yxdu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839976/azolch20yzytowhql9qs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839977/gwbe5c5haxau8eyhkj8w.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839979/wnvkcapdzsjdfnnqvx73.png)
 
 Traderjoe BTC.b farming on ALL WALLETS, same date !!!
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a8ebc99-7eda-4bf1-a0e7-9b40116a3060)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/791b590c-7b1a-4841-bdca-977accf7d942)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eb6825bc-741c-466e-acec-24c45e3700c0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7230ff1-23b7-4a29-b42e-e61acfa41a84)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/903b844e-2071-477f-8aa7-2fa9141aa264)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/865aad23-3654-46c4-b887-f78c57db9f74)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fb0aeedd-b363-42a5-a4af-b4650291c2e9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e9e8ace2-f177-4704-8fc5-d545093dc76d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/34037663-a322-43ed-a173-899da46a2abc)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/04552e04-1286-42f1-a9e8-4d0f692fd7a3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/59134505-149d-45c2-9230-acdf71564e62)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/63c14257-f25d-48f0-9ac0-09a5a1bcb2fd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/06523cf9-1d59-461d-843a-ffce372bc601)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/339c04b0-4c1b-4a1f-ba7f-a72df3fab0d0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/573455dd-b0ce-4e12-b912-cc6f398679dc)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/21e2fc15-843a-4dc7-924e-3c1b5309f4a8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/96128677-04df-428b-8454-95e99efd3aaf)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/95d705eb-a789-4314-8681-7ac7b8591537)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/47ed191a-05ce-4339-95bf-ffe930f8cab7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4351d209-d878-43f6-a8da-1e9a52ecbc68)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/18703474-8794-4caa-b519-2726bd12f98a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c14f30e0-b60e-429f-8ed2-90bbf44758cd)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839980/zfyxvjzbkhrjj1g0ahk9.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839982/kipziieyejrwaoyp1m2z.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839983/eqc3tu8bgz24ojqvrpso.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839985/tgd9zqanytd9e2ujmpal.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839986/wpqjaozz0yvuscf8aqut.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839988/snt4hmdlbdtbxnijzllo.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839989/nhgq71yuxatruzytlafz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839990/bgqlqkim4awcxd2kndir.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839992/mgkjl4fmiudg8qlhybs6.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839993/zheh3big7wnobp9euued.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839995/pcvzc67ex4llds9a1zzr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839996/laxhfpmoufmvvcaomlge.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839998/n1ls6zru4hyregdezt1u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716839999/bynlrxirsyr222cgejp3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840001/lsd77drg8zwtcphpurio.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840002/h9lkqt0gwfulqwm12ybz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840004/pfnjanpaxoxnfldr0s9e.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840006/faycfqna7o0p0undiqkr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840007/ui026ae7xokjfuwih79a.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840009/bdszqvcx51zsntwd2zjn.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840010/gfgn3i19pvwrlu5vklwt.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840012/deqbpgnadzd2bfsumql0.png)
 
 
 </details>
@@ -1497,35 +1497,35 @@ Same CEX deposit address
 <details>
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d6896ce-c130-48c4-99f1-9da7281e0cc4)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840013/csusco1daihvxtfixvgz.png)
 
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x1C7d67fe362956230ed18841537d3cEd9B4Cb230,0x764d4d060b7fc5b3f3b62a77efaa9f61c1d7fed1,0x3b05fb7f3701352728e06c429d967d5b6f26c8ce,0xce86fc84af756e20fb6c45456db97f58cd1e1c88,0xbc12414c014f251d9dd004b7be2fff19800e4993,0xc7a7a708214b7c40f83a025226478362dd3a7ad8,0x182a0683df58bc2763a5bb44c8c06c55d7187c9e,0xb69cdfd78aa7be8ecae982af92a4ac22dda60ad5,0x724ac2c3d7b4ab46d90a44a143a9a854253fa1c9,0x1da3b14cb6c27726e38adb3fafc91180371ad148,0x5c915e90f99f58f2953d25a88506f7e30af2565e,0xad12a6972ef411e97be99db18eeefe40a7ca1f4e,0xffd07610e17417302d457128620adb87a903e3d2,0x5c4d6b20b502fcf33b05f3ecc02e73811e4c7d19,0xfae43078538f40d44f201aaf0255f703e909e158,0xe38429b664de066f7ccca925c03382654810cfbd,0xc3b0917391c21b4babfda0580a09a3610d0efb09,0xe2b8735e12dce1f53096dfd3bea4ed2b18cc8a1d,0xbad84d73a16199293f48b8e94217f0994c713de1,0x50e4d22eb78ff27da0252857043ac96bc2e51f03,0x003042604c750a38a379a0823fa809e8bcc879c5?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Layerzerodays
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5c0102ba-76bb-462e-8e0b-7993dd9e68c6)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840015/bhsrjv2xoosn8bjzzmod.png)
 
 Stargate Wash trading thanks to Binance account:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6c078c1a-a385-4bdf-87dd-4ab07742624e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6f069e78-40df-4f81-a4bc-6c03f4009f7b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b70d4d0e-98c3-462f-80d0-f4a6acdf3576)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8996178f-e115-4812-a731-c87401520b48)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b3baf204-8e72-497b-8ef0-48f3728b3fe8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/79fd1687-9ec0-4d95-a646-4c421c3d3e74)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/349bcb92-dad7-4fc2-87f8-ba6e4f843693)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b7d2d5db-e272-4877-b786-0b19417eb011)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eda10961-a23f-42f6-897a-b792630dfe77)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3594616b-b34f-45a9-94c4-df7f0f108d2c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2acaca19-2daa-458c-b3b8-896f71ec3e83)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/98d42a09-9c50-4fac-bc66-44793cf4ec97)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ef9d2797-d7b1-4b1c-b845-f670b982d615)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/55abf3e0-bbe6-4bba-b4ca-7eec594b9006)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/43302cd2-068e-4776-9b98-183b413d30da)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9c31a685-354a-43c5-ae96-2ff5d407c2ac)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4113f07e-cddd-4fd6-812e-75ead72c723c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e211686a-0e7e-48ec-995a-c4bc1d42050e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/91c5b8ef-3eb0-4b96-b3b1-3cbfdaf1c554)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3e7c60b2-effd-47d7-96bc-036ea6e75f8b)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840017/gj09kfy6mmxrftmuiqna.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840018/q2xxquxyvv1xzfxehnaq.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840020/wzn5ksndst5zo5vxwrle.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840022/dzbvqivdkzvee6wbassp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840023/pvc4yxhhekn9ca0kears.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840025/zcobqrgvq8kl34tkhuht.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840027/nphena7amt8e64duxgbc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840029/yyg4pgsiinyibyuhaimm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840030/lwjyqyxgkz03seitlptc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840032/klgjxyprxfqxwb6eanyz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840034/zgo0wnbb5dzxbhss6snb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840036/e28av2h1kan4np6es8nb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840037/wlidd0hunhvs9ybze559.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840039/zgbwefiiyorskyabldgp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840041/wheiw33afgw1fut2kysm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840043/mcquy624sqp3priug10h.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840044/phhixvutahypgu0qhh6x.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840046/cclxympdrnczv654z1ns.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840048/f7uofhjbrmpwgjrvwbqu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840050/wowilwhvlv6t8u2vhpj9.png)
 
 
 
@@ -1568,12 +1568,12 @@ Linea Native bridge same date
 <details>
   
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/568b918e-af94-4ed8-95a5-e45b10b8805e)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840052/kpttwjtqpwmf8shpmact.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x390ca2DF6A0B8607B81EC07E420Dd730F39A9AA7,0x2600544f150db80438004be4bbc7114aa21615a9,0x3ae8e01536785f47eaa87ff1542ee509671ec8df,0xde765b9d2a5b5b8e9e952da5ac3e43b011cdb289,0x90d4aa3bf552999e7ca9ce89cf8e6fada4c69aab,0x2bba0ec0af14a633693ed73d36b5ab2eea4ea888,0x22338f6036bd28d10e4180735fae96346283c886,0x11a9ad3e94ce7a21f5bf14174e328bc7c5eeb6fa,0x782f17e27322fb4d8a331f58f5d0e25dd0484a23,0x0611133571496e814294cd17067f4c14eee7d04f,0xeb3843caa198420fbbe5a023541a43bc9e8ec01c,0x6762391958d87d5fa4d1252997615412a6a70651,0x3fa4a5319fe925770965f5a4d12361cceb39311e,0x805a58e0d9b797249dee2e19f6d5e7e6fffda769,0x4ca644b441749ac1b29a26f2189ad7c29435c20a,0xf72390c118188d6706bb303606c06457f198bf79,0xfcace87fb6e1dfeeda16533cd41ee2852a0f14b2,0x058b9c1ba7cded2150335464ca1951cf1ce38fde,0x3b5c6db44c2e63309e3c570b0f7c3569d2371ffa,0xcf30a573e3ac5e855fe23bf85ff78ef62db9e52b,0x10bea37df7bd76a48ca5fef2f124fb177cc8683d,0x0aacf7dd8fbd05aab11e3c6f170f9213b701baef,0x391ecebb351714ec949795f63d093b05a124c3a2,0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b,0x9075e2b4f1778bf527ca6605a98f720f3954dd5f?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Layerzerodays
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3c90ba61-69a8-444e-ac34-6f52115151c2)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840053/kfwoeaiqp4hg1iyapsis.png)
 
 Linea native bridge
 
@@ -1602,8 +1602,8 @@ Linea native bridge
 ```
 
 Same CEX deposit on ZK airdrop 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/82324a33-b6d1-461e-9467-98be03d2a968)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9cec7dee-5452-42fa-9559-133cd2aa608c)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840055/vsj7ym284tm0poomfokc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840056/lfyhgjsvpehcnkgly0rp.png)
 
 
 </details>
@@ -1661,7 +1661,7 @@ CEX address
 
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/db3f4804-6dec-4117-b577-f8daa834bbda)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840058/rtfm7uzgt3aiq96letcw.png)
 
 </details>
 
@@ -1706,31 +1706,31 @@ Same Stargate lockup amount, on the same date.
 Unquestionably, on Arkham, it is clear that we are dealing with a cluster of 20 addresses.
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6eb4b28a-9fb2-4224-83a2-577ada8371fd)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840060/synzuk53swgemmedezxe.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0x5Eb1b7B2ef9CE6e523985375B910B879dA321bC6,0x8e3a87c8503FAFfc3845c0E958c590A30952A2b4,0x1E4C701bD9734826F0FF206009e1E2B8284324FA,0xA25Aa0E97ba46D02Cafc0C5750e726533A2E07f2,0x71263dACC983Cb4aAa57bB398E03D1ddd1D760a1,0xEF99E86121C4Bb1ce0A02fB0207aa9219392088e,0x2bA226018757C3E3cb531B0D85a63fA4dfCe0856,0x06c22c7768e6F4Fdd11F2d74bb07F8279F7AC63e,0xB065e3247afAfbA37b98209bC62195fB6e980C8F,0x15AF8D0d3df4C6B1C1d93f9119fbB94ea6973bA6,0x39486e8b16424a3A8050CA710265620c3d2e17FD,0x244CBCf5A7d9e3271422Fc76d6AE7a3a2a0E9D09,0x3FB92BD83a30681EF87d5cCeABF3269d0655a9F1,0x2CA8886C71cB5c0b0B01C6c8749497Cf85B4B974,0x2686dA9a830F9fD1a4C6e840F3542de0b9D54002,0x8c9df0438fF434fAe90EE9AD6225C1538AA75311,0xa390762d2adA9f850400Dc627C3D5ce419aa2854,0x5B3A5D5e25BE3b2376C43E59663FdA4503a17443,0x7D5eef85E3147b99131d9b60d1F3CA8455CDB721,0xaafbAec081eD11b692C4E993fE77e308b50c8CFC?flow=self&positions=%7B%22zuoan150%22%3A%7B%22fx%22%3A-83%2C%22fy%22%3A4%7D%2C%220x2686dA9a830F9fD1a4C6e840F3542de0b9D54002%22%3A%7B%22fx%22%3A-31%2C%22fy%22%3A-35%7D%2C%220x8c9df0438fF434fAe90EE9AD6225C1538AA75311%22%3A%7B%22fx%22%3A22%2C%22fy%22%3A29%7D%2C%220x5Eb1b7B2ef9CE6e523985375B910B879dA321bC6%22%3A%7B%22fx%22%3A-35%2C%22fy%22%3A-20%7D%2C%220x71263dACC983Cb4aAa57bB398E03D1ddd1D760a1%22%3A%7B%22fx%22%3A-48%2C%22fy%22%3A-8%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 On chain analysis:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f196a59c-2112-4a5e-941d-0e43d80da520)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840061/onmrwsndopnp93hmjbnm.png)
 13 of these wallets started farming Layer Zero on the same day.
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce4ca751-ab26-4fec-8de2-685d4c0f1fb4)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840063/sxbtg186hyiepikmirqb.png)
 3 started farming within only a 10-minute difference!
 
 Regarding on-chain behaviors, we notice similarities. 
 Looking at when they made deposits, the date of 2023/07/05 is common for all from the gen 0. More specifically, the $STG are received and deposited between 1 AM and 5 AM, creating a chain:
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3c5a1bc9-8d3e-4ca8-b109-8d5af0aec0b1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/479ced2a-bc91-42f7-b5da-54f62622ab52)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840064/hcu1hvhhugsjzi9sbgob.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840066/tjzfpi6xr9erfancrghx.png)
 
 Looking at the originating address:
 https://bscscan.com/tx/0xcd8e88b27f1c59d05960589dbe33fd3c1fc372204103fe4119e5e97f96657cdf
 
 We find 0x71263dACC983Cb4aAa57bB398E03D1ddd1D760a1, and from this address:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d1873172-9573-4300-aa86-2af4637cbb60)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840067/ffuxlhxnz55krtvnyoyr.png)
 
 We trace back to: 0x8e3a87c8503FAFfc3845c0E958c590A30952A2b4
 (https://bscscan.com/tx/0x91437ea4a643ee322e2dd572a4550b845f65027872465b449ead2eaa79fdf5cf):
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1a0e47d5-f14d-48eb-80c4-a4ca4de831c2)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840069/iofratzx9mv9gwkqjfik.png)
 
 etc etc…
 
@@ -1788,7 +1788,7 @@ The first 7 addresses are linked by the same Kucoin CEX deposit:
 <details>
   
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7163825d-6318-4fdb-afd7-76128e1ae5b2)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840071/yp6iatpwxqslwr8e8ohk.png)
 
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xCDcaCC1623428893b5E5460E3a1E2811A23ecbF2,0x5CcD93a30be7cbBBD32Fabfc7Bf8E0aD59239c4e,0xd2eB1Fc07318F07BFb109cd1cc62be12d74d30cE,0xff42AE25b73C245FD5deE535D098B65Ea7DC9d05,0x9759f8f96e54B8d166859E1fc4081819d4C3D0AD,0x35cF73070C709F4d0b45a1b2060Fd91e5F02c19d,0xc73b4f316E31569a28f3730fed8AF7b6623f1314,0x22E45db423c0974dE0F5f2dDE836519D1a173E5F,0x465FBecE3182eaC3F2D07916ba63a8Ad9ae4D049,0xd146c0c79BC5bbA7d624086eEEBAe19d01E7Bdd3,0xED834b19348f69CE3f5a32D9B6f485BF359242dC,0xC7CdA73dc62D249dDb02179A8b609e313Db68C47,0x1381596e9711fA5BC5Fb2144002F7DCdD96CA6f8,0xD712014756d1939Cc28D9dCCAf69d809f46e9985,0xe92B05B112A79f398A41d403945452f25415D099,0xC50D0c8474862c5a0A8438057CCB98B2947eB40B,0xf694BcE69Fc21eED7cf6F9F31866324B4162d540,0x8d4318e216E0a310974bE68438872bd35d7E888d,0x2aE9D32B5C242Ca88cD649C688D7648870B6AB3D,0x618B5Be4B2c9C913783336321409d6Ba5392e056,0x7729e207C1B6e59F339Ee1Eef4fc5200232C6E9d,0x97AAeaDA4af107dd030ae84Fc6bE6B1Db6BEd10f,0x48be6ae9cb888141FBd1Dc7C6eF208109521b11f,0x667958FeFC62ECa961DAC1795577b54ec32d4337,0xF136ef21bac2Da012328bA79Da8840683543D8a7,0x1e2E671A87AaD52CD889F7Ac144EA20e2ed0C490,0xDB2A14f3052eE802a2057F8c59e0e27624F61761,0xcC992Cc074a9BfEA85F3Eb02964aB49FCAb317A1,0x28341b10Bfb264A3DEa16F74d9fDecC5C12f3b3A,0xCA033D2Fa80Ff58d470582d4810E1620Ab2475fd,0x8f1cB6168112695041acbbdEcbf0e91546a9c08c,0xdE54629b1d4EF12Ae12F3BFA44b526c6a4A04f2B,0x5e24798d05065ffc4ad1022726CA998f92b67135,0x0780469CE3Ae3aD82D689A0affA46Da37A4eb4F3,0xcA4773C16885E6F2eA655aFCb6B8D2BE329B03B7?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
@@ -1801,21 +1801,21 @@ L0 days:
 8 on days 546/547,
 8 between days 551 and 558,
 the rest are scattered.
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/34746a0d-b33f-4617-bd0a-bb88d4eb00ec)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840073/sng9enwvq6spbfx8agzh.png)
 
 Looking at the first address in our cluster
 https://debank.com/profile/0xcdcacc1623428893b5e5460e3a1e2811a23ecbf2/history?chain=arb&token=0x6694340fc020c5e6b96567843da2df01b2ce1eb6_STG
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9ad5a9e6-3b66-4cf0-a503-fe55e5014e37)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840075/gjgikilkwsmqtax5fusn.png)
 
 We look at where STG comes from
 - 0x2ae9d32b5c242ca88cd649c688d7648870b6ab3d (gen1):
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0f1f1f6c-9085-48ee-bc18-840eeb16eb0a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8d90de64-1358-4bd3-93b2-c1efe779493b)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840077/arycf6yis9jvmjvkmbdy.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840078/j0ypcxvmi7jhvaq4dbwc.png)
 
 - 0x465fbece3182eac3f2d07916ba63a8ad9ae4d049 (gen 1 too)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c44e5905-7265-4174-a4f6-87c464e628a1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1e52637c-a6a0-4027-bc13-e2a3120fdcf5)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840080/mceazbt5dkb4o4zkk0qu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840081/yfnx7dgro4wg2kupsr9h.png)
 
 0x710758e8058039bff15d97adcda9c15ec5ae20d2 (same behavior)
 0x36dac34ea1c95c48f1f0f31bf745147b0023a42c (same behavior)
@@ -1827,28 +1827,28 @@ We look at where STG comes from
 
 Initial wallet received 90 STG from 0x48be6ae9cb888141fbd1dc7c6ef208109521b11f (gen 2) which itself initiates similarly:
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a79b7aaf-7d60-4a1c-b38b-bc00be2b9096)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840083/exrqudffjkxh7clllj9u.png)
 
 Now, if we look at L0scan, we can see that all the wallets from gen0, except for one (0xcdcacc1623428893b5e5460e3a1e2811a23ecbf2), have a transaction on Abracadabra Money between Friday, June 16, 2023, and Saturday, June 17, 2023:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c45fd6cf-bead-4a9a-aa3c-ac84915c2fd5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/99a452b7-1dae-48bb-a728-39e481d2d885)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6d44a11d-f23c-4e0d-8e02-97e3d1481867)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9b0e94fe-8633-43b6-8e73-ebe4dfe660aa)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a720c0f2-bc41-4c13-a598-339d28283bac)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9091c399-ef81-4ce9-985b-257b6df84e2b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/216653af-9102-464a-8b83-995adf9ce59c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fcfd0461-7480-4de8-accc-baa50ecc70b7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e6df17c2-526d-423e-9713-c32dc5cc8353)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e5668fc-c428-4067-af90-98a5dc497b9a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/97331aac-a3b2-4e73-8a03-763ca01a2c82)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840084/z7zejcalckl416fdsja2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840086/dwriczqddoyrbwg9kmff.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840087/oiwgxq3rxxowc50axeqc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840089/ahu1jk33hwyqwzc8mmyl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840091/rkk1mwjbxpohtndrxycr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840092/v4janqrabsdkp05tfhby.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840094/rjtvikiqjcsho17ufiiv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840096/ktgtyvkdf2jv79ttb2ik.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840097/mumrmx8f5gy7essnvev6.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840099/ajwfppncbn6rttqyeiui.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840101/ejwf2pc8v4vvx14pngws.png)
 
 Additionally, they all made about twenty DeFi Kingdoms transactions on either Friday the 16th or Saturday the 17th (before or after the Abracadabra transaction, depending on the wallet):
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5396da4b-05b0-41bf-b8d2-cec3029c09d0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/87a2abc0-9aa2-44c1-a5ea-a47a094ef630)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/82006479-bf63-46d9-b6f2-dd6a8eb091ed)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3f657c10-ed5f-441b-94c3-3bcf3a5674d5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/20e98540-e33e-452a-b8b5-1dd51b0a6459)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840102/jz5qqt7tnurr2y1wqpb0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840104/k7og27keuldd6vzjbz61.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840106/himpo3p4fafzvqzgdlxm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840108/qv4vilnnuuemnarc16v7.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840110/cc2wuwssaqrx3qe8fqwy.png)
 
 
 </details>
@@ -1913,7 +1913,7 @@ Same Starknet native bridge
 <details>
   
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/96184cf4-94e0-43e4-8fd2-f6de54b82e06)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840113/lvsvpisur916czf3xbpb.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x326C1475BCE07e9929797C35107baa3dabEA709B,0xF833c34a795C0b5612AF027e23800E8090C64934,0x54CEE5080BFd348e2601A36c146A5DcFA7D8B106,0xE56426b87637B5F516C9a4B6b1CE1b914Ff197C7,0x1a7cb54e27dbBCBF5b3C24C91f36BA9d922f0b92,0x61FD3F38d60efFD953b31e531fB80EeAa37A285c,0x9a5350aaeB4f3A5D896783b4C122919A7d0f9F83,0x0c7F9dfe5F484dC75EEdbb76d1fcdFc8970d0cb7,0x64DE89A86ee0c666952319E162Cf3c5224d45566,0xE205473109564210b726D5227Ea56c92c4eb7ae7,0xf0579b201B2baeCdD6472EB044D9b96F6d314779,0x0FD32cfe822823b7C01ee22FFF31D27C6f6B1A8f,0x6C15B0b3eE98c39C390c1108fa3410F9dAcB0fFD,0xDAf393B0082922d75465C2A08Ba6F93F47c54918,0xccBf77fA01eA919A599EB8d0A68d12a3e277A5D2,0x09F31C0aEe729Ba208971f07BED903b0d0135e4f,0xff758cb857571Ba5FE7891cDeCE84346c698EC26,0xB9FbEbc86634184448742C918B127672071A6f19,0x834684DdB8C11EB58fDDf1159E9C74953B892CfE,0x9a9B64F79E9f2ff806DA3E912f826941b39404C2,0x8AbE5C1B066b30069838e8BA35F2E4B02db15d64,0x875484C305e532a485aE6f79bAb05e4677c15bE5,0xA5Bedade8C873B871d08f2d4b1684a9BD6945ba7,0x2f6c8ad9b90f03F1444F8512e30f48dd225F0Dbd,0xAcbD8887d3D14C90573453074e7098A909a3fA15,0xF793F9EBBFC6470835C7Cdaf83C9788A445Cea13,0x565A4eb5DA4621C0D6032e4bFB3A5068ECC9Ddb4,0xAedb26F3D279529c7670F2761FFeA889F4c1798b,0x8f55Cd4E6d20dB42dBd868865686027DD346B97c,0x8c6A9E2006BD71989967854cc5Fc9dafDEadf64c,0x6a21b81376ef4759f2635a8F6f3C9858ceA457A8,0x0cb470a536e6E48333F7182Cc7faBC945A2Cd93b,0xdcd993c9482fA22a873c85a7018044106E1D6FA2,0xEc753095B07F476A07846E14775025F3de52038B,0xB383c276D3Db85A58866f6Cd1Ea949DB9cEE2723,0xd0261878928AdA35A3FC58C9D34CAa753b9E6306,0x21a9e6f106f4D4247dB9462ebf2C9C4241578Da7,0x93da1d0d77E7483FB199ceCD0B2077a58aB9aBC1,0x300A1410c148458E50Fd1eAbAABD3cd94A576B20?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
@@ -1922,66 +1922,66 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x326C1475BCE07e992979
 L0 DAY: all wallets are between 507 and 530: 4 at 507/508, 7 at 516/517, 3 at 524, 4 at 529...
 
 The first five have 20 STG locked on Polygon (same unlock time ending) (the sixth one a slightly different number of STG but same characteristics):
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b421ac1a-2359-43ed-a188-e07d229c9a75)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f79e5ee5-0332-43e4-811b-6b0bde25ae79)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5f5d9b9-2eac-436c-81ff-7c759b74293d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9a3fa0ac-959e-4143-9df0-806c2d576706)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9448c8b5-6382-49c6-800c-f1038bd3cefc)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840114/pq2ehrgnyf23ccvrwemc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840116/pul4j255dplgerjasjht.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840117/ptxxslsxxptx5zfhy6td.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840119/iptddrxbaerf9koaozof.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840120/mqo08rhfdv6zxpq881if.png)
 
 They all have the Stargate allocation on Polygon, only the amount changes. Let’s look at the transactions, starting from the first address (0x326c1475bce07e9929797c35107baa3dabea709b):
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/194cbf99-d205-485d-8e84-fd97d674b1a3)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840121/d748eivzzumqgikglkrx.png)
 
 We look at where the STG originates from (0x326c1475bce07e9929797c35107baa3dabea709b), another wallet from the cluster:
 [image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2bd6ae95-d64f-4395-a186-4cdb0078491b)
 
 same
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b500878a-29b0-4c02-a734-75fb21235fd8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bca11c1a-a61a-4b1c-becd-515c3bd8ba93)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f1f97cd0-0e74-457c-bceb-73b057497b11)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f55998fe-2b5b-4530-93c1-989d22c7cf01)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840123/eca05asihhgfx3sqovr8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840124/zxzikpfpt8tvb1kva4yf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840126/phhhlfuoegwsx04t1kwv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840127/year3bdbb0wqammvftp3.png)
 
 => 0x1a76d23b5051d6489ffde65b7722ecc40eddd4f7, so let's dig!
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4a6d615f-71a7-49f0-8d80-25101079e328)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840129/zzdehyuu2xakyc4aeeia.png)
 in the cluster 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a4126f1b-8942-402c-9dd7-b0c2764b6ec9)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840131/tn62wrxq5gqcabevjlwl.png)
 same
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9bb948d0-89dd-4d29-984b-960f022ce9d4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2d2afb52-9aef-4aa9-9403-b3a04650e684)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/49c9b529-59d0-471c-bb4f-1fb45834f3a1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b3ec13a1-40e3-4999-b5f2-1f1c802ef031)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/097eee99-11f6-4e55-be2d-4153923a5f49)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840132/aqh8jz9iyqcm5rmpvxxd.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840134/y6p0vm6uxwbhsrpobn0l.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840136/iyacbrrjrh0ueaxixbos.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840137/yzczqcj3ucvjdebi3pih.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840139/bczemqh4cryxk5vww5eg.png)
 
 Well, the outgoing transaction is split into two parts, so 0x8f55cd4e6d20db42dbd868865686027dd346b97c remains to be addressed later (it's in the cluster).
 We focus on the address that sent the 567 STG (it's in the cluster):
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c80e9154-526b-440c-b50f-91419e3be68f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f92cb5fd-a723-4e1a-bf01-590cf7e2607d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/06a3cab6-24b8-4e4c-b4ff-db9cc1496dd3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ca0c70e2-55d0-4ebc-9282-55cac3817ce1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8dfe2352-55f7-41fe-a6dc-72bb63d1cf72)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2f14c600-fd76-4473-a528-58a585449d29)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e354cd90-5256-4b6f-b3a1-c3a1200ecf6d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fedb93f6-332b-4f22-a400-b93d2a3f189f)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840140/ep6wwdeavnlwpdtfmkhy.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840142/eitt5a3cujetrbdt9vdf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840143/ulomdw6alltyng83aicn.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840145/qov09ul9onaxsbnpsnn4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840146/qwulrzfijq71jgnagklj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840148/h90fh8ohqxgykb8symbc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840149/xfyjmswpt03feypc697y.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840151/ebhri26nzsvgxju0pvbu.png)
 
 We end up back at a CEX.
 
 We revisit the one we left on standby, 0x8f55cd4e6d20db42dbd868865686027dd346b97c:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7c670d5d-5c73-47b5-be51-7f0caebe90bd)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840152/b9jq2r5idh7oscdliazd.png)
 
 This time we go in the other direction (we look at where the transaction is going), the destination address is in the cluster:
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4d1ca92d-e8ae-4f82-b4c4-7c3bcce69fad)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b728f04a-e5cc-44a3-a423-6db97777f3df)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3e43f950-0869-4963-980b-b3f8d2b69c0a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c53eadf0-d9ed-49e1-8474-9d6968f898f4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2f147140-2dc7-48da-a757-f691daaa30dd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ffecd977-ba9b-4db1-b684-2c9bb7ee6e51)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/677e8ff2-dffe-44be-89b3-5aca59d72838)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a753f3e-2cf3-49f7-921d-138babfeff82)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5ea8edf3-23ce-4be5-8289-88476c74c1c7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8c746a0a-9706-41a3-9f6c-aa47d26a3ed0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9f47d1ce-72b1-431c-9e07-3ac4b7df2b8f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/190964e1-0f3c-4e26-afbf-fa7eded75efe)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840154/ir5yugdllcjwjsk9rqc0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840155/fkoxl68akckthtzxekgi.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840157/wzbhfbvt0m7dgpkvhhpv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840158/f1owtoxwvuasnuzmqyp4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840160/imzavbrobcyryphkk0hh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840161/dnde74htetxnqx0n1x2u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840163/wwxz1fujigogfgkywd3z.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840164/fjnulej9noqf5wuwlycd.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840166/vqods4ps5jbwi3ez1nsb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840167/auc8kiugunfwa1bofhgo.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840169/ltu1g1t3lmnhimf2bbzc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840170/rdfrjzfpf6mkp4l6onlz.png)
 
 
 STARKNET NATIVE BRIDGE
@@ -2241,7 +2241,7 @@ same layerzero on chain behavior
 
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/332dd0b9-0e32-4feb-ac39-d3ba76fc69f6)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840172/vzq7av5qtplvrfzfubln.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x33e65f576DcA44D4042F386eF932efab4aAD1C9C,0x2f91922aa4caba7ae19c1223c0007a1a598dff51,0xf366adde5b682a8e0d5e4f09663844ea95332f94,0xe59e6365e879aebf001de470e3281a4c0d6fb0c8,0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c,0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02,0xbae2a1899e06cab91fb9251db3b2e7d31acdca44,0x19d995a031576e10e3138b92a8523b7b9fb6f6bc,0x767b97aabeb5d46a0b33e862374f24b87a7679a9,0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d,0xcf41fa770b2529d26bdb604cb16d61a65e74ae7a,0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c,0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f,0x7a0604aa59f054f0d25d859c21222afa0086a959,0x445259622cd7453dd92d3c23ec7af004947c73ea,0x3e897e924842dab543f30352afad81e5e4886ef7,0x8f7a5c571816ed31182108a7c3046e75033f4fe0,0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0,0xde1569da8f95de2ccccbfbda7d05ae5bd788a99f,0x8052e45555e66f0de48d195a4aab947578134b4a,0xbcb30d55d932a15f430a5b4553fca71e8aeee57a,0x7132becef1e3d8d4d9061598c860cae2c86197e6?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
@@ -2249,12 +2249,12 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x33e65f576DcA44D4042F
 
 Layer0 day: 5 wallets on day 151, 4 on days 251 or 252, 7 on days 504/505.
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d42742e3-1c45-45ec-a2b0-15bfe147ca96)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a16f035e-9c94-46d5-ac28-6348537d0896)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/45749631-47b2-4c0c-80c4-acd5a01f74c6)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6ac95307-dc3d-4dcf-af00-a590a1e7fbbb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/429a5175-0a71-4b18-8f3a-d12123c3b1c3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7aa4d786-ee39-4e3a-98df-f9a4e207ea97)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840173/pauzdka6uyg9zyvkysp0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840175/ezlngcozpb6npldif6j3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840176/gz4kfuuj94lrqhswj12t.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840178/mx3mvt9yque0xeu32d2m.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840179/d4xgzrzkpcvhxvk6hddx.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840180/h37vhmavyjwjmjdhvkgb.png)
 
 all addrees : arbi stg lock
 
@@ -2309,12 +2309,12 @@ zksync native bridge same date !
 ```
 
 For (0xf366adde5b682a8e0d5e4f09663844ea95332f94, 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8, 0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02, 0x19d995a031576e10e3138b92a8523b7b9fb6f6bc, 0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c, 0x7132becef1e3d8d4d9061598c860cae2c86197e6) that is 6 out of 20 addresses, same date, same amount, same protocol:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/de07f210-f342-4f98-a4f6-8b9436acd7a1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/84734335-28e0-4526-9311-5952701ddc12)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d8d63be0-41f1-4077-bcbc-9706030a4e2f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5abe023a-4cb5-4822-a977-aa32fb7de1cb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dce7ad28-04ee-425a-bd25-85ff0fe8fe70)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/893d8eef-8450-4cc5-98c1-dca11d3c6df1)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840182/vun9prdfhycomiiruywl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840183/a8tnz6ozym9ddfl50wmh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840184/zarykdsykujvdvhwg2bp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840186/p7lkclsn2xxeqmlp2dqb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840187/yjsxnyjbhxq8o12tzp85.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840189/pxp8mzyqz6lkk9e3s7ff.png)
 
 For (0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c,
 0x2f91922aa4caba7ae19c1223c0007a1a598dff51,
@@ -2326,62 +2326,62 @@ For (0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c,
 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0,
 0x8052e45555e66f0de48d195a4aab947578134b4a), which is 9 out of 20 addresses, same amount, same date:
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ac0bada6-b3fa-4bbc-9127-de303c24eb41)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/217030a0-f5c8-483c-87f8-f51ad56697bc)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c6d38176-1b16-4b42-bd68-d79b2dc200aa)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d472199-0920-49bc-9514-fc2abaabc8e6)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/91a3fdbe-9736-4127-8920-fe2edf34b331)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/88a1f3e2-12a2-4caa-9f48-a3fb15801db1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4c00fbed-8b5b-4943-b676-da0bbb45e15c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/66a05c66-7e79-434b-8da4-c26d5188b94b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f56e1a80-d047-45e5-a15b-f8c92ee8c21e)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840190/avv9kqhmdl0x8bea1spr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840192/uahjug4vtttlt8dkweyb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840193/gswyifnasshasbjqcm9u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840195/im0jgaqoyvnpgpvug19l.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840196/epi3saoi5ckmmjqck7oo.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840197/glx4pitnfuljfkrvsr1o.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840199/uw1adbgd99gfz89okqkk.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840200/idturwplmisbs5uu99hr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840202/cmsxsmjgsfmprsi3gv8l.png)
 
 If we look at L0 scan, we find common transactions on certain protocols:
 
 Shimmer Bridge (9 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51, 0xf366adde5b682a8e0d5e4f09663844ea95332f94, 0xbae2a1899e06cab91fb9251db3b2e7d31acdca44, 0x767b97aabeb5d46a0b33e862374f24b87a7679a9, 0xcf41fa770b2529d26bdb604cb16d61a65e74ae7a, 0x3e897e924842dab543f30352afad81e5e4886ef7, 0x8f7a5c571816ed31182108a7c3046e75033f4fe0, 0xde1569da8f95de2ccccbfbda7d05ae5bd788a99f, 0xbcb30d55d932a15f430a5b4553fca71e8aeee57a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b2478b1d-2abf-4090-8781-e5a1a86921f3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8e2ee05d-634b-460a-adc3-7bb6a87c0866)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d621fd4a-a676-4d77-8055-7daed3cb05b5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9dd47443-7fd5-4883-a3fa-0530f19f142d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b034adf1-9bed-40a6-acee-ce30ba6ca893)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fd7818f5-43a3-4406-a6d6-abf8ebc72212)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b8b13b64-5b99-456a-a1a0-62beef55825b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c875e74c-69eb-4fd0-8861-7fbc1f75b6c7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d1645def-5bfe-4c64-b384-5559f340e5c2)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840203/v19drznvmodgmpg59u6o.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840205/y7onzd5li58azxuepjcb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840207/uivshdakhsd0vjj9g5d6.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840208/dv6vnloacgrotv7nmfkh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840209/gy7ygkqxkotvdd9obv8f.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840211/zzcpnsvkmntscm1r0nrw.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840212/xtyp2yxkbxtqnsglwyhf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840214/j8z6xvsatymmfmbiubzl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840215/e8inuz5rnyn0v0w9hrmf.png)
 
 Maverick (16 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51, 0xf366adde5b682a8e0d5e4f09663844ea95332f94, 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8, 0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c, 0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02, 0x19d995a031576e10e3138b92a8523b7b9fb6f6bc, 0x767b97aabeb5d46a0b33e862374f24b87a7679a9, 0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d, 0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c, 0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f, 0x7a0604aa59f054f0d25d859c21222afa0086a959, 0x445259622cd7453dd92d3c23ec7af004947c73ea, 0x3e897e924842dab543f30352afad81e5e4886ef7, 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0, 0x8052e45555e66f0de48d195a4aab947578134b4a, 0x7132becef1e3d8d4d9061598c860cae2c86197e6)
 on same date 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/84e9f815-49a0-4031-8745-97fed3897eba)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9aeb22db-adc7-4467-9c4f-201bcc06b799)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e6f315c2-9875-462b-be4b-1e39927cbe74)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b8c3e58b-6126-497b-8a2b-5fd9d279fc68)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a5968d29-9de1-4d9d-8b13-a46be4b08e5d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5a8af52b-c804-4601-b406-5b04d8e9cf23)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a8fe55d0-aaf7-40d6-9db7-af573c13cfb8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a8eb00a6-7081-45e7-a040-da2f653a2774)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9c14055d-090e-489b-9bec-261e3f4fe1e8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/44a67654-9c57-4fba-9dea-c675619f083c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a5eb462-0547-450c-9c6c-619162858437)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2373cb2d-19b9-419c-9f40-9de8fa8ca57a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5ecd0774-9655-4aa4-80d5-98437392f416)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d6e3e0c7-04e8-48d0-82f3-d63b696bb928)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/50029a8b-472f-4a2d-b3fb-6c30d4ae2712)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ff03032f-7f32-4e2a-8068-5a5969258cd1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bd040a16-2553-45d8-b4f7-8fe33c7c753d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/50934074-70de-40c7-9b91-4a7ffb035856)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840217/myj8au6uqasa9gntjafx.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840219/mo7ijz2jenfuhhbfqhux.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840221/ylqh8xgnee5bql1yf3ki.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840223/huyjtdnjq4uikwctzaqv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840225/swldxh7vbsxtssrmsvqv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840227/hw2ilm4dtqxqcby4yu79.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840228/vwthwyh1ksmcl2vrte7b.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840230/ogrfgnbylhhdm2d57txq.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840232/mwacsdmknshicakginz5.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840234/tlw5carc534h7w5bpjvy.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840236/xxfu8goicnrv5nxwio09.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840238/bwxthzgivn34vqhhwmrd.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840239/i58xds7rnsparhpwxcp8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840241/kjaxs3wmfofcua7qh6rj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840243/ydabqdgut7prpva4xoqh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840245/migcufypsswnxl9oxkzm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840246/gsb3suia2kzfiesyej4m.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840248/wkapwzhjg4ool60bbacq.png)
 
 Finally, USDV (10 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51, 0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c, 0x767b97aabeb5d46a0b33e862374f24b87a7679a9, 0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d, 0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f, 0x7a0604aa59f054f0d25d859c21222afa0086a959, 0x445259622cd7453dd92d3c23ec7af004947c73ea, 0x3e897e924842dab543f30352afad81e5e4886ef7, 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0, 0x8052e45555e66f0de48d195a4aab947578134b4a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/70f76b24-1b4a-4921-855e-d3dc5c677853)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/477ce827-b37a-41df-831a-c19e57e066eb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1aa284d8-73c3-4abe-bd13-9f8541a1916c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/88a0c3ec-80dc-49e6-88db-3c364311a7a9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/587992c9-a00b-4d84-84b4-bc3204b77fc2)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f2a9981c-084e-4612-9ad1-a896957b46cf)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce6cac11-ec54-48b2-abea-f65a5d30a4bd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/72dd396d-4af6-4fbc-b687-62dc1d31aee5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dccb383a-e38b-4675-82c0-c3f8a409df06)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1525a308-6a21-4f2a-a61d-ca79e16d10c6)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840250/b3zdw4uxemhuz6konomo.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840252/jno6dvfddorjwjxuuq8g.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840253/bcxbmdaleqauplklrjmn.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840255/qtcocap7qkzwevegv0xz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840256/k8htno7ootk2r1txdpvl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840258/kmemgwyk6cewuso2oqub.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840259/obvllvr3yjsqjyff2c1u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840261/tc14xamzhyxsfqekfwuz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840262/h0ww0v1u5sypu0sf1a5l.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840264/legc3gng47gwepacty1u.png)
 
 
 </details>
@@ -2422,7 +2422,7 @@ ZKEVM / BASE / LINEA bridge on same date!
 
 <details>
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/107e9b30-4149-4496-bc59-c3e80e577200)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840266/ga3ichiqfnxxm9hsikzc.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x8a2BD650db0762bF53CaeCa1F9d86B7AdEd34EE7,0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08,0x9f863dc1204c5e8fbe549ee4ae26a00980094fd6,0x3bf80e10d6b84ce68f95293d05847ff6b3110237,0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3f,0xd635a7555c23e7c6529f3d759afae86954bc1c0c,0xd43bef3ed093b0fc66dddf9b5effde13f0b1e7be,0xed99cd1539860f849a0e730434c25b6efb5e5791,0xc237e0560446124a6c838013c7d95757e2672604,0x8f753462180957fae5352bb68a7b52ab94186271,0x899367bdafd942b547b9e0572ace53ad4bdcf7c0,0xc66cef4b49642f99107ad58bcb01331d39539d27,0x8e2126b6a8988ca61fd01c1af66eea4798a08404,0x651527d697829c62f15a86cf993dd515d4ff6154,0x4f2c49987effb3185491435c6b6c299a10545176,0xe5515d72ec752441db928e82fb5b9adb07e9843a,0x84b6cb80d11e16ec9658f37b2099843ef065d272,0xc22177ee6a3cf69811a064672e78c4dca3322217,0x30e0a6ffb5a2030feb67b01529c8709265f474fd,0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6,0xaaad486f27b628dadca71a1a76d976f2c2f2291d?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
@@ -2458,80 +2458,80 @@ Tous les wallets on lock des STG sur Stagate Arbitrum
  let's dig on this argument:
  
  0xed99cd1539860f849a0e730434c25b6efb5e5791 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4598fc54-158a-4044-8411-f6109836cf5b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bc5a72f3-63e6-4fa0-91c8-df095037fdb1)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840267/xpz2emls6atsxkftlkx2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840269/ztxespzksfhdd0evs3oo.png)
 
 0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ffb16790-89e7-41ea-9530-a18d9afb140f)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840270/ubhzmzz6vrung1qcnn0s.png)
 
 0x8f753462180957fae5352bb68a7b52ab94186271 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eeac7c56-b671-4347-a736-005b6b32e1c1)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840272/ru2y0rrtleg5etwrk844.png)
 
 0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b1afe811-ff60-4ea4-8fb8-cfee3bfd1a45)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a3c63938-6a36-4b10-9ba0-4956876af794)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840274/sks3yo8otqpr3klm5puu.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840275/nzbyp4ciwln0uk87tmp7.png)
 
 0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3f in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/17de9d97-36cd-4d38-8af7-32ab8ef38393)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840277/nvas3q7wlnnpkn1hgtcf.png)
 
 0x8e2126b6a8988ca61fd01c1af66eea4798a08404 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f69dca3a-beb1-488b-aa42-fb39016694a3)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840278/gvnpilnnbwseffg2shkg.png)
 
 0xc66cef4b49642f99107ad58bcb01331d39539d27 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ba9b7f1e-d4be-4402-9f71-19f7a7e505b0)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840280/syxssn0qhzspasasm8rq.png)
 
 0xc237e0560446124a6c838013c7d95757e2672604 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/486d2bfc-9f5d-455b-bba9-2ad898ca3a1c)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840281/od2bpopk63n5iqqhpdkm.png)
 
 0x899367bdafd942b547b9e0572ace53ad4bdcf7c0 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/947c21d3-4a61-4367-a7da-a356b2f5b991)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840282/ugyjwmsudorstgppxbg7.png)
 
 0x9f863dc1204c5e8fbe549ee4ae26a00980094fd6 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a50d918-c292-4b05-b38b-4e8a0f8a9120)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840284/gd5cexqwdpo2eom1uo1h.png)
 
 0x84b6cb80d11e16ec9658f37b2099843ef065d272 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d10c995-e011-4645-89e8-beaeccea4b9f)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840285/toixnf6se97uztgatvcd.png)
 
 0x30e0a6ffb5a2030feb67b01529c8709265f474fd in the cluster!
 [image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d14daac-7381-4fd0-964e-db2a23d8a0b9)
 
 0xd43bef3ed093b0fc66dddf9b5effde13f0b1e7be in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/152034b3-a216-4f34-96f4-b99650a22f3b)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840287/ggsinke7btwmhm6svitg.png)
 
 0xaaad486f27b628dadca71a1a76d976f2c2f2291d in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1229d6c8-1de4-4380-80e7-ad506656fc6a)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840288/uk86qci87uwkhypuk9gd.png)
 
 0xc22177ee6a3cf69811a064672e78c4dca3322217 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/08ea96ec-1058-4553-a518-f594c5ebeaca)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840289/q3nx740mlkblr6pmdbz7.png)
 
 0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3b4a1081-0108-46bb-83b5-bbb2de8068b8)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840291/g9urlc52aimsmqzvz2dz.png)
 
 We still have 4 addresses from the cluster that have not been reached.
 We will now dig into each one individually:
 
 in the cluster
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/75f5a153-d161-4506-9a35-1ce3990c1b77)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840292/onz2z0pq6yywjebyzzbo.png)
 
 0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6 sent to 0xc22177ee6a3cf69811a064672e78c4dca3322217 (already review)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/54c0400f-ca0b-4ec5-a84e-ca0fb96ab2f0)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840294/woitazxnefcw8kmmadpy.png)
 
 0x8f753462180957fae5352bb68a7b52ab94186271 in the cluster sent to 0x4f2c49987effb3185491435c6b6c299a10545176 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/90a41f7c-dc32-4687-83f5-0d21660b5879)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840295/e9dluj4o2jtnomaqbrfl.png)
 
 0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08  in the cluster sent to 0x651527d697829c62f15a86cf993dd515d4ff6154 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bece0c1d-0fa6-4313-8ca4-98b5464d625a)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840296/guqseadszwkecyzn68vy.png)
 
 0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3f
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/65bb83b1-5544-46cc-9e16-b129a07fb340)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840298/xqhekvxr6x5qmyhps0da.png)
 It received from 0x8e2126b6a8988ca61fd01c1af66eea4798a08404, which has already been processed, and sent to 0xd635a7555c23e7c6529f3d759afae86954bc1c0c, who is the second-to-last missing one.
 
 0x8e2126b6a8988ca61fd01c1af66eea4798a08404
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8b2def35-77a3-4600-b63f-fb73a8f8a81a)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840300/cjgcksyqhudgitu9dpbr.png)
 He received from 0xc66cef4b49642f99107ad58bcb01331d39539d27 who is already in the cluster and sent to 0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3, who is also already in the cluster.
 
 Now, I'm just looking for the last address (0xe5515d72ec752441db928e82fb5b9adb07e9843a).
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a9906331-0abb-49cc-964a-1d35860cc6a9)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840302/npbdbbxvpck291myimlz.png)
 
 He had exchanges with 0x3bf80e10d6b84ce68f95293d05847ff6b3110237 and 0xd635a7555c23e7c6529f3d759afae86954bc1c0c, who are in the cluster.
 
@@ -2658,42 +2658,42 @@ similar zksync bridge date
 
 <details>
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/184a2e1a-ea56-4d63-b434-96f7f2e22978)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840304/hdlisy8kz3rdzc9eb6ml.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xD732573c8892E0e00404822D3E078B86cfcBa468,0x666f5f8cb7870f33317db349799cbee427f9e72a,0x1e903fd5be070c1a8056fc525346afb00219a59f,0xca8cf17da5a91cce8ca898adc5428b436ddea1dc,0x67b1ee22e7493e94450a55cba50f6a6ca67f7a3e,0x22cb1d945d23fa08323e59fec9abbcd359e59095,0x5f8f9cb5a25450d1fe78a0ec06a087ca3b36a883,0xeafb1a7bb2da730911e246ba071a59551d581a40,0x97242b533bbbf6375d33c0d6a11cbdd55970ebad,0x53c7c04f1c24a31ba5da10cca82c1bf2139f43b4,0x16adbaabeec90a7e9ef839bf68d90df03668f6a1,0xe9fb4775cbedc7bb6bf36f397de5da1bf7e5b7cf,0x9ce2774ecced375abcdfd04152728caf486b5744,0x5ef55868c28777f00f8fc456f2f09cbf6f3964a8,0x06083744ed88399f6856a2d9b6c140816ade0708,0xe8f69e74a4d24172831ae48b026796f727e1eb4b,0x8f312aac0d57e6a7322dfaad4cc29f030a985f96,0xf00ded727cffdae8ad4981e212eeab2adb0e8da5,0x6bfb5845e869ec2d222bdf89b94c8e79ed5984e1,0x3ee6170ea6d16268e48d67362fa65fa82bb5a6be,0x3d503521439aa08dc8009427b7a48475bcb211f1,0x827eaee2b64ebc45f7fcfc2747d037e37b37b62d,0x8116c3bb43372179ccba51f4374bddbce5c15fbd,0xc2240ee369f82094a4036e0f6ae47cc7919fcaaf,0x7266021ad5e81e79b859b505d411afa99e3d935d,0x921e8b903cbaf28747fad40b3846420b41bcf970,0x2788c9a8a417c50654277189aabf098900ff55d5,0xeffdbc30574a4261713bbdb91a29732326b946bb,0xdc4d52e4bb24544ae55b358d3ee6c73db8a686b2,0xab1f5815ae3ddc8381896072759db5232127cec3?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 Same layer zero tx on zksync, the same day, at very similar time, on all wallet! 
 open name()
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/432637bd-073b-43e4-b773-be64af3f46ca)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/83f2f0b5-2de0-4b64-832b-e2595be80e12)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f70b94d1-3ecf-4c92-b8fe-7bf962fcb770)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e98d996c-701e-4574-b985-381b0e6e2e77)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a28e7c79-356f-4c13-bcc3-94a032d3891b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4309d6ac-3c9f-4958-9b6f-d84123d2a0b3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/040db7a3-e1f7-48dc-a29c-4773e3b08d5e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f5ff2c0d-0e97-4db3-9018-bffddaacd01f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c0ba903c-029f-4252-aa81-bfbaa6f70628)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f57b10bb-5f56-4a5c-a1b5-ec3a45a9b200)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cecde65e-956a-4e1e-bdfc-41f415ea020c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/22776d0f-3105-4870-92a2-aa6362ed9aa8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e8339833-91ce-4dc4-aec2-05df0c3a889a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2730cf0f-48cd-44db-b018-c2496a57f4d6)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c3a64459-99d2-4e20-917f-14f4d352ef55)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a1a9568e-8497-4d71-8ff9-ada8b3b347b1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2551269f-8a0b-435e-88f7-4c410a5c262b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4f186a2c-c00e-4728-aed2-445dfd58ce56)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c06380b9-8d67-48c2-bb53-c1f5bcdeda93)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9952ab71-b5ee-45a8-a71b-805084a07276)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e87d0f6-c26c-4738-bfcc-63f693a2b8f4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/18a9e691-677c-4812-bb3b-05b94dc123d0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/76163ec9-4f5a-46ab-b407-51e510729768)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7273fdd-5dc7-41e0-8e4b-f929d18bbd36)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c55ed7f4-383b-4d57-bd14-a8bcb0a98f8c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d74f2a6-5433-4e59-ace2-d725e4edf910)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4b357a30-d347-4fd5-ae4e-6fdc6f9536ff)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eeae107e-91c6-46ab-8516-ec44e88b3b56)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/99fca00d-64df-4c74-8233-8fc35b2de944)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840306/dz4kdwhl38k30nj8gvzm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840308/nqsyfwextkth8vlexnnh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840309/mabz7vbij1b1yx7wciiz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840311/hve5osiposyu7hev2a9g.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840313/sgux0xk5zckxzhu8a9qw.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840314/oe6xwc0q8f0ooncgdjj3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840316/rsymrnjpiuhufoucbgyj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840318/on9ctvc1icbvats9w45p.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840320/c5lpkhc1a1ctckluviu8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840321/cpf3o2qmnkrwcakw5hpd.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840324/dagefjbpbk4oewkdvgwi.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840326/qmqkyxkhqk0bk71ii7oe.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840327/siw5b0imysfnw9opp86o.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840330/cgd8evr729ap3h6zib9s.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840332/nydzbcilr3adxl4ic4wh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840334/useu1lvdfk2cy8yo8jbr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840336/bsszsrkic0gbgzs9eixm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840338/dav53dk8j8uggkqjjvw4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840339/ciyy9lbkiklps2mhzbu0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840341/mt2lzfikh6b35qhthxr4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840343/anhngteglrckbsxeue6n.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840345/np0xrhzljboqtwxsun7u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840346/eo7y7vfnjtbjxjwcc5g5.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840348/rjqij2us1cd7to2jueke.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840350/h2hwuoygtiq4t5bl71o2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840352/boiyaczisk2rnqe7pgme.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840353/ic5snmskzzrqqychjlxl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840355/wpbxc9vwkjfedkjrlxqh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840357/fokghieeyafo6npcate0.png)
 
 
 zksync native bridge
@@ -2795,7 +2795,7 @@ zksync native bridge
 ```
 <details>
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5a3e0ccc-1ccc-47ed-adc5-a8b4a020a075)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840359/uasd4a3b1jyu7m1eezqf.png)
 https://platform.arkhamintelligence.com/visualizer/entity/0xFb62EF0D95956a9E8762957c9558F432B49E6947,0xd581f0b4493f6f5177165dca75b64f0fba02b61f,0xb8c9aed31f543d51f01b5f89ccdd2a28f0517e19,0xe064bd0dd80ed0b3135254b5c8d6782a04b029ab,0x44fa549d359e9c0bf9d5d4ef9c3c703869730f3f,0xe1399d2a7eb186247cc116239294a8e2327905ba,0x61e1e7ca42c702def5129cdd6300ecea9438df62,0x0e34e66c9a1cca50ef2cb4b08b13a907f7852af3,0x17807d5c8024aff6b1bd7516f230a77ecf63e89b,0x67e20712877b89f2984dcc3f62f5a80621238311,0x68ec70f9788f7eb1a3d77a530a2ed23ad5000d52,0x78e7bc2f2a5f9c6e4377ee53ef67377603e00874,0x4c565df6d8231108348f7d527a8aeacef984db60,0x5dc6c10cbe4dfbadb87f3df9468931573b9640a5,0x0ed4e17f1a26ef333b3e8cfca4026f4757d6c5f5,0x956f0917c6d85af6f5617ab5493a78fe312857ee,0x352fc52a31e7f2e049f0a86f998f19abcd938cb0,0x0304ce0021f218c599a71964ad0330b8eea6a54d,0x52a6b8803104ae64517ce77fb6b361c504dd1b80,0xf1baeee754ade85c39ce17ff9c7134c874f5cb1f,0x150c6bb40ff9f21fc619696e130564c6c69a8689,0x7a454e7fc2ef38fcf2e9ef543da6eabb6436d444,0x7be681f67f8cb515af1439ba8b02df1061fec7d0,0x80e7f5527ac143d9e6a0e3198dd95b749fc1755d,0xc4fb3efb72aea4aca97a68739044e546c02697a7,0xd7b24eb9cc30388afe22b8f46efebb42f208bc52,0x0a4ce45855136ea52aa207e817e67c3c5a899c5c,0x89d2030ebf0320491cb8230904ef3457f51f5e53,0x951fba59969c4a140a0bd410f27b54a0d636d11a,0x5bbf248fa2f08c14036681a7d2b797f64f575654,0x9eb00ad9a31c9d7fa26f54cd1b562c0567f2bbe7,0xb330ef053c8757af1dae7cfff1a099da729c7052,0x082347c166e2b8c5fa378adbc308214446f46fdd,0xdabe6d5f5e08407ba9ffbf8914e7ab039d2dafb3,0xcd24aa1d300d0213e4b142def75bc9603141b8fa,0xca0f86a9680d89efebc2f7d9c5fcc013a68fb985,0x520b9d1c114d09298b6325e59e3ae3a07c61b7c9,0x356d3bee3080b21ff0b91dff3d849eb2f24578f6,0x2b83a03db4fa319b609c08d894514cb10f10c8e5,0xbb3714ce155526fa2ac0c85a1affd6aea91813df,0xa58b2103479442a362a77d2c6fb3afa3531fc2f9,0x18f2fde723cd8b7c5f5c6efeb3172338bee2b027,0xe7effa42c95e52208eadf8bdb144baf08fc91508,0x8795ee72a276640d0bc2af1e5a4f5c59add94d4a,0xef5c5bf0738d2d9ccdf5e60974d4343aeebab52b,0x2088d86c38dfd48d5d879cd7f7bb885b3c45dd60,0xbfbc0e79c09ad1b05a5d3357a3ba147b3ec287a0,0x4dc83d1b3c56d9ac640efcdf6df26d05487ce2c4,0x8f4a0562d2ca4335cfbe854218d1ed1a8703e23e,0x99ed512659c874d9a0c8bf99af97f73cb947eb83,0x05cdc1970971ea66a43e6e86d9dd0e2fb5d52393,0x604bba1fb4574456df8c875fc878c4c377de3c8e,0xe73fe3e3e50db8c2950072705f1613f4a34f1cac?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 
@@ -2860,75 +2860,75 @@ arbi stg lock
 53 0xe73fe3e3e50db8c2950072705f1613f4a34f1cac 2022-10-30   
 ```
 Regardons 0xd581f0b4493f6f5177165dca75b64f0fba02b61f et plus particulièrement ses STG sur Arbitrum:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4f47a323-aee1-4b77-b5a6-f3363a907dc0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8886fe4b-089b-4fbf-bfb6-ff251851961a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/46c4f424-52ca-47c0-a127-fbd55ed2c9ef)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840360/glbmav5ns4sxwcxfwwcc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840362/xinndxucggy1bgod0flw.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840364/qab0esavx3gjxd3mnwd9.png)
 
 Now we will look at L0 scan to link all wallets:
 Common TX Tevaera:
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1345b99d-9ecd-47ed-92ea-7bd32bfea2ce)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/93c35b9f-fc09-41fe-a35a-3072acad6f7d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3baddff2-0185-48b4-941f-ef5792cf2afb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d3b40be-99ec-485b-a363-a9b3f54b2be0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/32410f2c-08c8-42a1-8f61-ab6ebd8571ad)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c7e473ab-9223-43d4-9a1a-0c955388aa40)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cc7896d6-0517-472d-87cf-7cdd583c10b5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6460b06a-be53-47bb-bec9-28c40472d939)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c449ee64-d484-43d5-903a-69b0fb00d997)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/01b447fc-6bc4-4b0e-828f-b5ac2bb0b9ce)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/adbbc0fe-8c63-4f8e-ba45-2b82bc333771)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f6da1e7f-0ae8-44fa-af14-b0d4622fa78a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/faf144ee-d094-48be-8cf5-f9390197169c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1e8a9243-7d57-4f1f-b033-94a9c232ab63)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8f7bd96d-f11e-4463-a5db-ea9ac157df57)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ed9d0e17-9901-4d10-bdaf-5fa93f2bc538)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e7953b42-174d-4329-a78e-ef7f4cefe3e8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/30d90ebe-41d9-44e7-97cf-18dbaa3627fb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/084a1b14-1730-4f1d-b072-27b0dd938582)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/31e8464b-045d-4ae6-8b2f-027c4fb11775)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0dfc90d9-120a-4555-9263-63deb61909bb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8e21b520-fd67-4578-9383-a326516044e3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0e054a9b-d4e8-446b-ae77-a11f4c1e16bb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b3d9647d-3785-4e9f-816c-62c3fe1fc8bd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2c1077e0-4690-401d-864b-7f0f497a4dcf)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/74c5132b-68a9-4b6d-a66b-2c12984abfac)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b39b8279-7e36-42b0-8ad8-ff96ed44b637)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/592ed04a-ad74-475e-a5aa-e927990f42e8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9f89c7b2-da20-4e01-add1-3f43d8b93199)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/633c7488-323f-4b3f-8b1c-063473c655e1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6d497dc2-9d14-40d2-97f3-77fbdc729fd5)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0b529543-8435-4eb6-a72a-9513bfca4abf)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/75c54aa4-ce8a-4def-82e1-1419605ac461)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/54a99a21-fca4-4cb2-8d3b-3d8b2c1ed1ce)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/66e012b9-c8b9-4aaf-8d53-de43e90f5b94)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7d51552a-4d78-4c68-8ec6-146ce701d4c8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/103b8561-b919-4717-8a93-65ffe3625317)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/15ff5eef-687d-4618-8cfd-dbd89ee6cc35)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/acafc6ab-2480-4cce-9549-7c6cfde49e07)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2c82b9e8-0754-425f-be25-93ef2c3698a7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3352b417-9cc2-47db-937d-8733435e3b96)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eb947585-6ffd-4e88-ada1-f29c49d33719)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ff0d1dbb-0a28-4195-96f5-7d768e3a12f9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5f667ce0-b146-4a64-8058-955397dfe7ab)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/edeb08b3-933d-4687-8d89-39e98f222ecd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d7e08ff0-b016-4689-8177-8ac5cc2d8b0b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a854bfa6-8641-40ba-9cf8-1883a7675cae)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d1fe9a4-a4ee-49d6-b91d-ca387efe049b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dfdbe374-3ed4-4deb-87f3-d954951d395e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/552e17cd-9325-467e-ae07-971eeee71f52)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/535896e3-115c-408e-bc90-af5a78c1107c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b056182b-005f-410f-9f0c-a08d5db842f9)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/114a013e-c970-4440-a0b8-ce768714c14b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d03e8b05-b7bb-4ead-9c65-5000b66636d1)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/037e5bb9-dfd0-428a-9c49-776a7c5560ca)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4b3454fd-55bf-4955-9a8e-e99ea64f102c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dc2ef494-89d7-4bd2-aa1c-b4d630e2ec68)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/507ad3b5-b026-42ce-8e96-fc0e7a9f176c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/118a4e20-3f5e-43cb-b4ff-ddc684b3d906)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840366/sqfzj8gxjsjqu1ztbwgc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840367/x1doyio31gm42tya2apl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840369/acu7loxhymu7rbsxzfba.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840371/cefkameh6jha9jqoyax2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840373/gasyq3ozcwd2uj5fsfpc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840375/srxowcz1b28ooi84he7u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840377/o0ojfwrqcoabjge8cjvc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840379/zuyrjb7pzrsandmfum9p.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840380/ghy59xvllmrx98ryum3b.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840382/mgxrasmbiiau09ocrkuk.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840384/m4o3ogdkl97sszmpnxxq.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840386/k8h3kgbfz51163dh1kc9.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840387/bwxdze2cpaxxmewrw6lh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840389/maa0gr1r7ujmwdoy6yor.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840391/tpkg8wagrce5ulv9yu1y.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840392/mepff9s14aaqveppekrr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840394/gbrlpkwzns4sckdkwfmd.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840396/lamzplt4pugkx6aiem6k.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840398/ata0wu2thtlxmxiioc4b.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840400/aegfp1ugmjgljbwjcli8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840402/nfgjej5suy9oudxd6q03.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840403/xnbpmmq8r4euvfy6spyz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840405/og4vzyesifcnosjqkh8i.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840407/szil6s1evohwvkxktkzz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840409/xsvar9vhzyvxbfoudbtw.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840410/cwibuwjn94cpjgomanox.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840412/ur17bjnh1tj5jhwmwxcg.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840414/utobxe0lndwwswvhrsrr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840416/fcg84bs0ikipd3eigpdj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840418/suo6bmvff4srcfk3q7gr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840419/v2cclx4pfyahmqbt4fi0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840421/nachdu02wzrypcufvmyb.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840423/jsirbzwxfzxgllpatbm9.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840425/qiqdszuhe56hvauai9zc.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840427/gpiux5vlo9qv6nlwwep4.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840429/oxebfoethreigmt0xxky.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840430/jos0ktlmpr5btwa97ykn.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840432/vvhbnru9bk64fyfxtnci.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840434/yfcfwk4em7xuzqqjskmv.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840436/m8k3dotfirsrj7thapro.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840438/xdhzocyfuanbz28kc85r.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840441/lznfl3lubzrqxtue1wso.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840442/nxktqrbn4di8oiojejsz.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840444/cwfc9yn593zng1t8ed42.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840446/vwxm6o7ejh4fxbf7d2z3.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840448/wq4fpo4areu6devvcs6t.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840449/bf5k1goa4f16ak32xv09.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840451/fkeuempdetlees3uxrtk.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840453/bpnacvq23qnovilhn69s.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840455/yumproprhex2y34xhgxj.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840456/odnziahbmzcboac9mykl.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840458/o6tsi4wzapzzfz6z3zc6.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840460/q6o9clqojqbhwdmdhhnp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840462/n0utddtuajhyridqdlv9.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840463/zsadiryucnxsh7aa2v2q.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840465/jrelseczgq4ecwq7thkf.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840467/odvlkjpexjtjyqyv2ggx.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840469/bptfkeqhi6kqflgrwxne.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840471/lshcmjmi0rg9ssevl7rt.png)
 
 TLDR
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/20c9fe70-144b-458a-a462-c33cdfe7183b)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840474/s8nsa4avzo9rkddnskep.png)
 
 
 
@@ -3021,7 +3021,7 @@ ALL wallet linked to the same cex deposit address
 
 <details>
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4441ad02-b13e-4b94-b30e-4ff7e33788bd)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840476/eukrbyorrumld5at5bzc.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xbF7e7150F31f25a857Df5C1aDe3C1FdA54311d00,0xe9e6a0ec4f0b979a28cbe09c852c86b31769a88b,0xc2b877c9bf9ed8821b2adb0adab8d236e9462cd5,0xcf10556fc23d69789abbb4e0cc78ec09f91594ff,0xf12478f003c4cccfc31872b2853de0916129929b,0x648efe3dfe395843b9c8ae424929d5a9e83f9e92,0xc185b40545faf7fb21e69ce26b9282881db42fa7,0x73b22acb6ce9fbd26c3d9f275c5e756a2e312d0a,0xa52bfd65df1cb8b762d97bbb08b298b0bf42c6a7,0x50844f97ed5dd518a06509860cc56f8e269c8008,0x0f11535265a0f8c2389451c30d0d2f8f7b43c82c,0x61d5a6185bfa3890bf952d4fff6730d023395247,0xd9c43c9d1eb379f8707d4113cf2237d6aa48cfca,0x08a984f1856bdc4234d35af3780ee9a21949cf18,0x3a393d7f3c93566aefb8f4b4780e60778a1f41ab,0xfcbec207ad1d9bd652146eb5ce9b217efe8ab322,0x3defba427321071823d85afdbf5aba2982d5c628,0x5115c9953ec110f54ee71f0f4ea0a7ca60f998dc,0x03e907505bd499a04fafd06f36b99a6572b4d25a,0x2833879c4b1cdcac6c997876f073c923d7d284a8,0x37bd12023a5661c55495952fff2ab16a61a75e1d,0x73d733eefee4284f03eff748cc075d6e01345cd2,0x96c649c7de7610772d7b94d67e08c9da2a43a624,0x7d6d569a3e2eaaf67637e40fd8b88bf547832bd8,0x8b41829209922ef799a84be019a49d2e036fb3c0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
@@ -3029,56 +3029,48 @@ https://platform.arkhamintelligence.com/visualizer/entity/0xbF7e7150F31f25a857Df
 All wallets have between 16 and 24 messages.
 Tx Omi X on all at two possible dates except for 0xa8deaa308935ccffa268614eab7fa3789085d443):
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f0a9fa75-1881-4554-a427-71403945f042)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f69b83df-2342-4d3b-a58a-607acc57c389)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/29e5fa81-74ec-4762-af60-05dc0e9ee4af)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/15de43a9-bbc2-4ef8-8b8a-b6e8ad2f6f9e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/60a8caf4-e9df-49ff-953c-cd5084097b8b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/200f0440-a05c-4f73-98ed-76f8e53cc42c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/028bf82b-5704-411f-8655-823a36e870db)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4a0ca742-a6d7-4f32-808a-3c1c3450e73d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/751a4fa8-6087-413f-b59c-36664e32c9f3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/57f1980a-1967-4412-b00a-26d0376018fa)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/250d21c2-d23b-48ac-903f-8311a8c1d9b0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/306d4c49-6600-47c0-91bf-effbf747cc94)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cd20eb02-fbf7-4448-8ee2-6d48b58e83f3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0f9518bb-bb25-4be0-8dcc-9ac5282590a7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d0e7000b-0aed-4af1-be4c-19f8f24285fd)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7dcf3e9b-098b-4028-a155-029ceaaf2ffb)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1ea85c58-3426-48e1-9cdf-2791958773f6)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a8260ca-efd9-47e8-8a84-c2e1df83322c)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2e2d91f4-8d2f-4cfe-b4f9-941206667a39)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/308a688f-20e3-4ae1-a728-c05413d23593)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840477/ldo8wrk9xerfogtkhvp8.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840479/x36gtamtopzw5n1mvgvp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840480/dti9xbmgetjiyn2xzcbs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840482/cw5uk5mkoczayryjgee1.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840483/yup7djbm2cnqln7y79wp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840485/duwqfqwpcfi0otuuixx0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840486/o2flmn48o7hh4kldxzrs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840488/faslrke3e71ozpjhacuw.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840489/e2f9mdgp4qvanek5jl1r.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840491/mywob3ih7gufxrlxfsjn.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840492/zgaxgqfj5njfyrnfycpm.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840494/kcs85nfq3bax1jd3wd7e.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840496/t0j59lnefowwodzjajm0.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840497/uu4dkebe0speeixcyi4n.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840499/orbvqixrx1puz2nxluvw.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840500/quhzlvxgztyg5defxjxs.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840502/riedmmdidmj4taalxvni.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840503/okf3zxntlwkq4x8k6btp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840505/ytlo67gjzq6eerphe2mi.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840506/zrtvkwmyu0pcfsqktnyz.png)
 
 Stargate on the same date, same arrival and departure chain, almost identical amount:
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dda25658-7b82-4c7a-a25e-fa605508f5c8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1354cf12-622b-48d2-a0ca-6883f9a5c9a4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ccf43dd0-2d31-4e12-af7d-634416b3c354)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1c42b621-331f-465a-a2fc-f89dfba2e15d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/001542c6-2e52-4b15-bb8c-1e59185a981e)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/88a92cd0-6620-4e96-8e3b-57035ad88303)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/83f093ee-d4f5-40ca-b213-c2a488750604)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/15d055b6-31db-4bb3-af82-bc5290785243)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fbb3b4f3-6279-4213-ac40-8778abe8c36a)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b5ca07a0-5e32-4846-a58b-2c7128ce889d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8d924c86-a6b5-45d5-a7df-f51efbd4d70d)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c5eee8e9-bd08-4309-b5ab-a496e566e241)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e0a13f8f-4764-4118-968d-994cf118ccd8)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/60edd4af-355b-45e7-853a-99107a1b2742)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840508/asrsrfk4vk0h4tfvp2ba.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840509/njhbfkt314gmbgzphv2n.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840511/tmiko4glev60fkcb5g3u.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840512/jj1jex8lriysg2nzwdze.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840514/nai4vphccuippfm03vt1.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840515/jcx1jn07mrfivnvusaj9.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840517/coxgkxdcdinwdyrnmnzg.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840518/tbcwniktv1p6toodzghr.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840520/xjuin8tx3qo4x9k4nxbp.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840522/t8qkx2rmosidfltqom3h.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840523/e3lpnkjdxxfpq5y1bx60.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840525/xzkvehoezwnjjjofslph.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840526/rdcyjeuntstyd6j2laxh.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840528/hjkffsxro0vpuyxt44s0.png)
 
 For the wallets that did not have a Stargate transaction before the OMni X one (0x3a393d7f3c93566aefb8f4b4780e60778a1f41ab, 0xfcbec207ad1d9bd652146eb5ce9b217efe8ab322, 0x3defba427321071823d85afdbf5aba2982d5c628, 0x5115c9953ec110f54ee71f0f4ea0a7ca60f998dc, 0x03e907505bd499a04fafd06f36b99a6572b4d25a, 0x2833879c4b1cdcac6c997876f073c923d7d284a8, 0x37bd12023a5661c55495952fff2ab16a61a75e1d, 0x73d733eefee4284f03eff748cc075d6e01345cd2, 0x96c649c7de7610772d7b94d67e08c9da2a43a624, 0x7d6d569a3e2eaaf67637e40fd8b88bf547832bd8, 0x8b41829209922ef799a84be019a49d2e036fb3c0, and 0xa8deaa308935ccffa268614eab7fa3789085d443) they have a holograph transaction (burning of the same NFT on the same chain, oh how strange KEK):
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7c1da162-f3b1-408f-8158-aea88cc990a0)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c590a8b8-a354-43db-8edc-53b150fb03a4)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2a4dac7f-6701-4c1a-a388-581d033df162)
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/44b31cac-83de-4fff-aeb3-526750994d04)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f83ae03e-6c60-4340-aed7-b1d4f887c8d3)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/72def873-33e3-411f-94e6-b22bf9467e69)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/76056bcf-473b-471d-8893-a9a1ce369be7)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/edfb5483-eb57-417e-9e92-8b39da07f02f)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/109d6ff1-77b3-4146-9533-6454c519f049)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1a423937-37b1-4155-a7c7-917382eb689b)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b05c6aa7-bf49-460c-a54f-b6ca042ff3ab)
-![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fd50fa26-17b6-4998-a3ec-4d02d76b733a)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840529/t4feda3gqnlucymrtvu2.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840531/nglxfsof9o9ibfstcu2d.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840532/giq3cl9vraem8vivph6h.png)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840534/jdqypgz2timjuabnwj9h.png)
 
 
 
@@ -3268,7 +3260,7 @@ LINEA bridge scripted
 
 
 
-![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6330236b-daea-4e84-952f-a2f7ade77b00)
+![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840536/o4xjkk4maoyyvinfar8t.png)
 
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xf1d968251FC105da8c42945Beaa0AF7486340aF1,0xe94d009dbFDE68b247f7301eEEa7f61Be39f6E3B,0x11f0F6B2Bb2032F349940d7F87ad1b3eE13CFfEe,0x2FE11917Ec11A966abD938edc1729DAf6C15C470,0x507451c67E5D9fABa3734B3a93CeC36bcFCBaC70,0x51b3335C908e97D597aeC4d813B0AC7B3Ac26b9F,0xC09359201CA79775682848B79fEaDb9789f66A93,0x6338Db79F1e159ABCE037Dcc74d55D29CBF69232,0x0ed9Dbb8AD4b1512797cF65e5E7be293B7d8117d,0xae2d429375B86d121deD40f415BaafB763c8EfdB,0x460B8718B5B80d4302b2bC3BbC9a4e23FF5e35C8,0x2f4cBfB4c0f406D8eac4F90322CAB0D79272F048,0x7Ac694007f853cFC1b549B150E8c2245D086B889,0xb8B86Cc205329906830Ddd44BAda1E60148ECE51,0xa060A88a79B525c8A21Ea60970f647b01a53Fb76,0x67f50b32C3d2bDca444746599fcb56eb7c872e03,0xc2B99eDD6CFa9139d331e0FA066350ef91Ed72ED,0xC4842Be80353C20bA4169361DdB8205F726764CE,0x8FCfA0906419cFefb92F6CbA0c3ac5ac8d6f3731,0xb08FAA26F9C599af46A38a9b999563923469f2b6,0x2b507470474e10a4568d638817BE95C43B39C8Ee,0x0D5f63361e3fEB7A6CAb2Ea3B5e742f75a8804D1,0xde8AFA2c7D06506e7f49860EF380043fDb7f66e6,0x983555dA9B89e5eDabD1e294ae665117814Fe641,0x857eee4cd166F6fEE4291f16498fEa5175153a0D,0xf73ac391b59C65a46293c1Ef23362f19A5bD94b3,0x29c5666E84fBB060E50C2701299D088d600Ff786,0xdfAF90B8aE0585c2f9412149d2c263993AFd880f,0xef5c9297BDAa6d3c0da26e62FeaEAa6E52eA2548,0xe093d7fB0149Cd75D0c255e402A41E6Aa839c064,0xA05144E0fFE8139881252cec0965Ce6323a3d16A,0xa9C4d3cc0e7e1f5C4a946093581AC271b4f90fe6,0x8EE366F9Ba93E8F8FeB629C63bAf572d26A32D65,0xa7D7d210b4D5A4aAEfed82C571AD8814D7A5465c,0xfb7640108338F8A9113F49bc40a7c7C669620858,0x3FdcF3823b2AB78a0284f821cAAb936715C06D6b,0x06D4B669e8CEd33642A3d898EAE2c14d6443C45b,0xF9189759bEd2df7a615B8999D8897871b10cb17F,0xce3d843257126CDB9c6dA94c182e9541386eb978,0x580CeE565FD5C133276A37cB6Aaf184De29F455B,0x3D2e0e704F9853d491bC3BD8E8454AacA0109921,0x6966575866dD29F6Db2caadbc645e15d8E868403,0x701482d029322e986CF778c282d1839C9f70FC8a,0x4CF8Ded542a12f07671DD61980a9585F8d6Bd74d,0xD96c4273179f3761cA2aa1bAe283ca3b4201d879,0x2F925597b242F283CbAda91667831555A76F635B,0x1f1c599472D1b0431A89DF59740D74F0f87ee4f6,0xd888fbbbB591A07A7015aCE5509ACa2483733c76,0x596C0c491F981565D47A0AD8A611F792ffDa8Aab,0x5bcf034913B5a9Bb141949f22e6BDb5F4572B993,0x7d4Ec5D458E5e180561B19a4Dbf0cd17558eFAed,0x05128E9Af115ba970Cd5dD34fE3C1fa8df517F61,0x68dC2377AE20652D392611Ca815633cC87842729,0x90EBB93dbC3A26F7793fc60Af766AFCe63622d62,0xAe1bC91f91496fBC1cF0f04A958953CD5Aa51241,0x9aF4F5151957dEEccEb035C9ca2AEB4eD8a0EC0e,0x94eB520127dE2A323b4D89f46CA85c1CA6f3eBb4,0xCBACBb3DAC498E1310b2732cF7728D657D622AC8,0xACae7C1F36428A37bb002d1418ae7449B5297eD4,0x636a6B9CB77040a9FC263A11fF911402A267C5e7,0x7F91CF010175f8416745a8c1fffE6A86d7c87869,0x35aA41a273A78Bf08675549db514890D83e36B81,0x2B47E0cA4F24E40D029464fA7C25e7d800eEF55c,0x39972Ec19C65ef3995a766fd6C742c10073B7705,0x1aF3469eE64bE477283Fd7BF46a63AFac07BF88d,0x4846002d1803b522F211C57553E1bD69Fa6B31Cd,0x1BfECE0F8c8718ED9EdBf2938D757c0A2D039433,0xf3D3CDCB12718fC8860A3B58e577630521317A1a,0xc1429057bE5D4dB24c8dc51eB46A738d55617b56,0x6c9594226Ad2ACCf79Ac087C36bdD63d21640faC,0xFc19d702478a3E1df8f013700d25ae3cE9a51F5b,0x7082486b93e80996e59eDCCCd7f8601f7A16a535,0xe456eC754B04D83ACC99Ef6c39C13076f3C7a6f7,0x1D6F9DD6FE36a8c976bfa53D7e27eAe71a03a63F,0x43B9fd8864102db4b2aa16562A522b31cF263fF6,0x284A3E94f575386708Af4ee62862735F28c1Be19,0x0F5c0F6E2c42d65abF7fB38CfC171fF6207B30F9,0xF78F351b04C1bf2857fEB0d0F623dE04EFC7076a,0xf3d1C44Af06Cf95A20f66Ef1537b7F5Cd227e6E5,0xbBC4b8A14B76F4f9Cbab5b1d2049acdF11aa3571,0xd408696815Cb9B4974e016430812fb444a7cBfc1,0x8C29cdaDfc797C775FD9cCB3Cbe8856CC3b29AaF,0xA3ddAE122E6287464207cc0aFb68C605dF9FFE9e,0xcBa70Cf05d532cce6EFa87E21278b271c465Cb4a,0x7297eCa78a3f2BbdbF98ce7EF51189a857342Bd9,0x84e6B0a97b839d454f55d1428D1E88285fEb7e8D,0x9298db55504F95DCeC4B60349a909E6CAB006f7A,0xDbfdD24f859439E07235B45d529bbF789AF2aBe4,0x5A352432131A5AE6B96EA333AF12EE8ACe539Efb,0x45765Be0A3a4EEbC53643C3E9250fa7184af40BB,0x735CD4Ef75DCBb99b0659c32f5c8083EeeE4a77B,0x7e7250be6a32ED140E1361E939c1025fE66623E2,0x488Dc7f7064A9Ebb9DF1dE923DA729464A18f416,0x41F8e3Ba433cBE955Ad07397167f164AaE2db00d,0xab768dF3AaC7C76B07b8C37d6E94F4385C11AA50,0x7384d84ae8023742f956D1152b9c2906fCF2061B,0x7b9C4b6c80DC278c8b6a7ddb957d9c07A52f5BdA,0x48269d4B02070D2Ec55597D587b2AB2C71Bf2f23,0x51266E8454f4c34Ac5fD7efA657dE4f67fC198d7,0x5cE2498c8004dd1c7C4F3387893cc22d15a923C7,0x2B748D41060DE40ee8F1053A89fF4f4bf6bB40C4,0x5f17612758d0a0F76646797a019bd8e1bABB67C5,0x3d463E1a2533A8Cd24682C8070DA980C6c09f4e1,0x6E96cA94449204a9f3098299A63086C2cb050C51,0x22FFE947d4E88de7D56706b243E5206987868220,0x9C1805b485255aA50A988e607EbFA0245a3F8d32,0x28274F670827DdE8eD103854e753b3219f64eb93,0x0C97B99beCe0daE7E07848160b0ced5a42DBdA14,0xf9E05010dF1b9Ea59DDac4c5e17b7A7B9b65201F,0x5c3B787E80aa3A358bdC848e193cD9a744f397Bb,0xb033c98E75B5FEFB916965E29b4c2cF3bb78eD45,0x6E270fc07f469651423166c4C3697edcE4f232cF,0x6BDAAfa7b66F81fbe952Ff5abCEEC8C3132cFEB6,0xDd5565917e56EDaf9Fd7b242b9242367051163d7,0xfcF21167428857A2D3EC34A2365148c12D774fE1,0x427b7B51C549E391714b7958f437bB51865ebCB9,0xC9a9c8d9c12b775Bcd79f172C9827cd77E1fd2d4,0x3aa0Ba56A9F5e9CfA286d0dE5955bb647877E80b,0x2D405E95Db99c70986E826208A86FC1b7Ac9cC44,0xEd85dBC2c59a1cFA5af6e3aD3d75Ddb03f0a2B09,0x88C8af64E4198af892D0634415E48158585cA667,0xebB8E715c4c4D338A3c08872c252DB06ff6A59c5?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
