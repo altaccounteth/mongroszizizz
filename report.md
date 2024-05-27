@@ -2288,3 +2288,210 @@ Additionally, they all made about twenty DeFi Kingdoms transactions on either Fr
 
 
 </details>
+
+## Cluster 17 
+
+<details>
+  
+14 first address linked to this wallet
+0x326C1475BCE07e9929797C35107baa3dabEA709B
+
+```
+0x326c1475bce07e9929797c35107baa3dabea709b
+0xf833c34a795c0b5612af027e23800e8090c64934
+0x54cee5080bfd348e2601a36c146a5dcfa7d8b106
+0xe56426b87637b5f516c9a4b6b1ce1b914ff197c7
+0x1a7cb54e27dbbcbf5b3c24c91f36ba9d922f0b92
+0x61fd3f38d60effd953b31e531fb80eeaa37a285c
+0x9a5350aaeb4f3a5d896783b4c122919a7d0f9f83
+0x0c7f9dfe5f484dc75eedbb76d1fcdfc8970d0cb7
+0x64de89a86ee0c666952319e162cf3c5224d45566
+0xe205473109564210b726d5227ea56c92c4eb7ae7
+0xf0579b201b2baecdd6472eb044d9b96f6d314779
+0x0fd32cfe822823b7c01ee22fff31d27c6f6b1a8f
+0x6c15b0b3ee98c39c390c1108fa3410f9dacb0ffd
+0xdaf393b0082922d75465c2a08ba6f93f47c54918
+0xccbf77fa01ea919a599eb8d0a68d12a3e277a5d2
+0x09f31c0aee729ba208971f07bed903b0d0135e4f
+0xff758cb857571ba5fe7891cdece84346c698ec26
+0xb9fbebc86634184448742c918b127672071a6f19
+0x834684ddb8c11eb58fddf1159e9c74953b892cfe
+0x9a9b64f79e9f2ff806da3e912f826941b39404c2
+0x8abe5c1b066b30069838e8ba35f2e4b02db15d64
+0x875484c305e532a485ae6f79bab05e4677c15be5
+0xa5bedade8c873b871d08f2d4b1684a9bd6945ba7
+0x2f6c8ad9b90f03f1444f8512e30f48dd225f0dbd
+0xacbd8887d3d14c90573453074e7098a909a3fa15
+0xf793f9ebbfc6470835c7cdaf83c9788a445cea13
+0x565a4eb5da4621c0d6032e4bfb3a5068ecc9ddb4
+0xaedb26f3d279529c7670f2761ffea889f4c1798b
+0x8f55cd4e6d20db42dbd868865686027dd346b97c
+0x8c6a9e2006bd71989967854cc5fc9dafdeadf64c
+0x6a21b81376ef4759f2635a8f6f3c9858cea457a8
+0x0cb470a536e6e48333f7182cc7fabc945a2cd93b
+0xdcd993c9482fa22a873c85a7018044106e1d6fa2
+0xec753095b07f476a07846e14775025f3de52038b
+0xb383c276d3db85a58866f6cd1ea949db9cee2723
+0xd0261878928ada35a3fc58c9d34caa753b9e6306
+0x21a9e6f106f4d4247db9462ebf2c9c4241578da7
+0x93da1d0d77e7483fb199cecd0b2077a58ab9abc1
+0x300a1410c148458e50fd1eabaabd3cd94a576b20
+
+```
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/96184cf4-94e0-43e4-8fd2-f6de54b82e06)
+
+https://platform.arkhamintelligence.com/visualizer/entity/0x326C1475BCE07e9929797C35107baa3dabEA709B,0xF833c34a795C0b5612AF027e23800E8090C64934,0x54CEE5080BFd348e2601A36c146A5DcFA7D8B106,0xE56426b87637B5F516C9a4B6b1CE1b914Ff197C7,0x1a7cb54e27dbBCBF5b3C24C91f36BA9d922f0b92,0x61FD3F38d60efFD953b31e531fB80EeAa37A285c,0x9a5350aaeB4f3A5D896783b4C122919A7d0f9F83,0x0c7F9dfe5F484dC75EEdbb76d1fcdFc8970d0cb7,0x64DE89A86ee0c666952319E162Cf3c5224d45566,0xE205473109564210b726D5227Ea56c92c4eb7ae7,0xf0579b201B2baeCdD6472EB044D9b96F6d314779,0x0FD32cfe822823b7C01ee22FFF31D27C6f6B1A8f,0x6C15B0b3eE98c39C390c1108fa3410F9dAcB0fFD,0xDAf393B0082922d75465C2A08Ba6F93F47c54918,0xccBf77fA01eA919A599EB8d0A68d12a3e277A5D2,0x09F31C0aEe729Ba208971f07BED903b0d0135e4f,0xff758cb857571Ba5FE7891cDeCE84346c698EC26,0xB9FbEbc86634184448742C918B127672071A6f19,0x834684DdB8C11EB58fDDf1159E9C74953B892CfE,0x9a9B64F79E9f2ff806DA3E912f826941b39404C2,0x8AbE5C1B066b30069838e8BA35F2E4B02db15d64,0x875484C305e532a485aE6f79bAb05e4677c15bE5,0xA5Bedade8C873B871d08f2d4b1684a9BD6945ba7,0x2f6c8ad9b90f03F1444F8512e30f48dd225F0Dbd,0xAcbD8887d3D14C90573453074e7098A909a3fA15,0xF793F9EBBFC6470835C7Cdaf83C9788A445Cea13,0x565A4eb5DA4621C0D6032e4bFB3A5068ECC9Ddb4,0xAedb26F3D279529c7670F2761FFeA889F4c1798b,0x8f55Cd4E6d20dB42dBd868865686027DD346B97c,0x8c6A9E2006BD71989967854cc5Fc9dafDEadf64c,0x6a21b81376ef4759f2635a8F6f3C9858ceA457A8,0x0cb470a536e6E48333F7182Cc7faBC945A2Cd93b,0xdcd993c9482fA22a873c85a7018044106E1D6FA2,0xEc753095B07F476A07846E14775025F3de52038B,0xB383c276D3Db85A58866f6Cd1Ea949DB9cEE2723,0xd0261878928AdA35A3FC58C9D34CAa753b9E6306,0x21a9e6f106f4D4247dB9462ebf2C9C4241578Da7,0x93da1d0d77E7483FB199ceCD0B2077a58aB9aBC1,0x300A1410c148458E50Fd1eAbAABD3cd94A576B20?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+39 wallets ranked between 90k and 280k.
+
+L0 DAY: all wallets are between 507 and 530: 4 at 507/508, 7 at 516/517, 3 at 524, 4 at 529...
+
+The first five have 20 STG locked on Polygon (same unlock time ending) (the sixth one a slightly different number of STG but same characteristics):
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b421ac1a-2359-43ed-a188-e07d229c9a75)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f79e5ee5-0332-43e4-811b-6b0bde25ae79)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5f5d9b9-2eac-436c-81ff-7c759b74293d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9a3fa0ac-959e-4143-9df0-806c2d576706)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9448c8b5-6382-49c6-800c-f1038bd3cefc)
+
+They all have the Stargate allocation on Polygon, only the amount changes. Let’s look at the transactions, starting from the first address (0x326c1475bce07e9929797c35107baa3dabea709b):
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/194cbf99-d205-485d-8e84-fd97d674b1a3)
+
+We look at where the STG originates from (0x326c1475bce07e9929797c35107baa3dabea709b), another wallet from the cluster:
+[image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2bd6ae95-d64f-4395-a186-4cdb0078491b)
+
+same
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b500878a-29b0-4c02-a734-75fb21235fd8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bca11c1a-a61a-4b1c-becd-515c3bd8ba93)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f1f97cd0-0e74-457c-bceb-73b057497b11)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f55998fe-2b5b-4530-93c1-989d22c7cf01)
+
+=> 0x1a76d23b5051d6489ffde65b7722ecc40eddd4f7, so let's dig!
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4a6d615f-71a7-49f0-8d80-25101079e328)
+in the cluster 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a4126f1b-8942-402c-9dd7-b0c2764b6ec9)
+same
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9bb948d0-89dd-4d29-984b-960f022ce9d4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2d2afb52-9aef-4aa9-9403-b3a04650e684)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/49c9b529-59d0-471c-bb4f-1fb45834f3a1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b3ec13a1-40e3-4999-b5f2-1f1c802ef031)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/097eee99-11f6-4e55-be2d-4153923a5f49)
+
+Well, the outgoing transaction is split into two parts, so 0x8f55cd4e6d20db42dbd868865686027dd346b97c remains to be addressed later (it's in the cluster).
+We focus on the address that sent the 567 STG (it's in the cluster):
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c80e9154-526b-440c-b50f-91419e3be68f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f92cb5fd-a723-4e1a-bf01-590cf7e2607d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/06a3cab6-24b8-4e4c-b4ff-db9cc1496dd3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ca0c70e2-55d0-4ebc-9282-55cac3817ce1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8dfe2352-55f7-41fe-a6dc-72bb63d1cf72)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2f14c600-fd76-4473-a528-58a585449d29)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e354cd90-5256-4b6f-b3a1-c3a1200ecf6d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fedb93f6-332b-4f22-a400-b93d2a3f189f)
+
+We end up back at a CEX.
+
+We revisit the one we left on standby, 0x8f55cd4e6d20db42dbd868865686027dd346b97c:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7c670d5d-5c73-47b5-be51-7f0caebe90bd)
+
+This time we go in the other direction (we look at where the transaction is going), the destination address is in the cluster:
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4d1ca92d-e8ae-4f82-b4c4-7c3bcce69fad)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b728f04a-e5cc-44a3-a423-6db97777f3df)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3e43f950-0869-4963-980b-b3f8d2b69c0a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c53eadf0-d9ed-49e1-8474-9d6968f898f4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2f147140-2dc7-48da-a757-f691daaa30dd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ffecd977-ba9b-4db1-b684-2c9bb7ee6e51)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/677e8ff2-dffe-44be-89b3-5aca59d72838)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a753f3e-2cf3-49f7-921d-138babfeff82)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5ea8edf3-23ce-4be5-8289-88476c74c1c7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8c746a0a-9706-41a3-9f6c-aa47d26a3ed0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9f47d1ce-72b1-431c-9e07-3ac4b7df2b8f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/190964e1-0f3c-4e26-afbf-fa7eded75efe)
+
+STARKNET NATIVE BRIDGE
+
+```
+1 0x326c1475bce07e9929797c35107baa3dabea709b 2023-09-15 
+2 0xf833c34a795c0b5612af027e23800e8090c64934 2023-09-15 
+3 0x54cee5080bfd348e2601a36c146a5dcfa7d8b106 2023-09-15 
+4 0xe56426b87637b5f516c9a4b6b1ce1b914ff197c7 2023-09-15 
+5 0x1a7cb54e27dbbcbf5b3c24c91f36ba9d922f0b92 2023-09-15 
+6 0x61fd3f38d60effd953b31e531fb80eeaa37a285c 2023-09-15 
+7 0x9a5350aaeb4f3a5d896783b4c122919a7d0f9f83 2023-09-14 2023-09-12 
+8 0x0c7f9dfe5f484dc75eedbb76d1fcdfc8970d0cb7 2023-09-15 
+10 0xe205473109564210b726d5227ea56c92c4eb7ae7 2023-09-14 2023-09-12 
+11 0xf0579b201b2baecdd6472eb044d9b96f6d314779 2023-09-14 
+12 0x0fd32cfe822823b7c01ee22fff31d27c6f6b1a8f 2023-09-15 
+13 0x6c15b0b3ee98c39c390c1108fa3410f9dacb0ffd 2023-09-14 
+14 0xdaf393b0082922d75465c2a08ba6f93f47c54918 2023-09-15 
+15 0xccbf77fa01ea919a599eb8d0a68d12a3e277a5d2 2023-09-15 
+16 0x09f31c0aee729ba208971f07bed903b0d0135e4f 2023-09-15 
+17 0xff758cb857571ba5fe7891cdece84346c698ec26 2023-09-14 
+18 0xb9fbebc86634184448742c918b127672071a6f19 2023-09-15 
+19 0x834684ddb8c11eb58fddf1159e9c74953b892cfe 2023-09-14 
+20 0x9a9b64f79e9f2ff806da3e912f826941b39404c2 2023-09-14 
+21 0x8abe5c1b066b30069838e8ba35f2e4b02db15d64 2023-09-14 2023-09-12 
+22 0x875484c305e532a485ae6f79bab05e4677c15be5 2023-09-14 
+23 0xa5bedade8c873b871d08f2d4b1684a9bd6945ba7 2023-09-14 
+24 0x2f6c8ad9b90f03f1444f8512e30f48dd225f0dbd 2023-09-14 
+25 0xacbd8887d3d14c90573453074e7098a909a3fa15 2023-09-14 
+26 0xf793f9ebbfc6470835c7cdaf83c9788a445cea13 2023-09-15 
+27 0x565a4eb5da4621c0d6032e4bfb3a5068ecc9ddb4 2023-09-15 
+28 0xaedb26f3d279529c7670f2761ffea889f4c1798b 2023-09-14 
+29 0x8f55cd4e6d20db42dbd868865686027dd346b97c 2023-09-14 
+30 0x8c6a9e2006bd71989967854cc5fc9dafdeadf64c 2023-09-14 
+31 0x6a21b81376ef4759f2635a8f6f3c9858cea457a8 2023-09-14 
+32 0x0cb470a536e6e48333f7182cc7fabc945a2cd93b 2023-09-14 
+33 0xdcd993c9482fa22a873c85a7018044106e1d6fa2 2023-09-14 
+34 0xec753095b07f476a07846e14775025f3de52038b 2023-09-14 
+35 0xb383c276d3db85a58866f6cd1ea949db9cee2723 2023-09-14 
+36 0xd0261878928ada35a3fc58c9d34caa753b9e6306 2023-09-15 
+37 0x21a9e6f106f4d4247db9462ebf2c9c4241578da7 2023-09-14 
+38 0x93da1d0d77e7483fb199cecd0b2077a58ab9abc1 2023-09-14 
+39 0x300a1410c148458e50fd1eabaabd3cd94a576b20 2023-09-14 
+```
+
+ZKSYNC NATIVE BRIDGE
+
+ ```
+1 0x326c1475bce07e9929797c35107baa3dabea709b 2023-10-03 2023-07-20 
+2 0xf833c34a795c0b5612af027e23800e8090c64934 2023-10-03 2023-07-20 
+3 0x54cee5080bfd348e2601a36c146a5dcfa7d8b106 2023-10-03 2023-07-19 
+4 0xe56426b87637b5f516c9a4b6b1ce1b914ff197c7 2023-10-03 2023-07-19 
+5 0x1a7cb54e27dbbcbf5b3c24c91f36ba9d922f0b92 2023-10-03 2023-07-19 
+6 0x61fd3f38d60effd953b31e531fb80eeaa37a285c 2023-10-03 2023-07-20 
+7 0x9a5350aaeb4f3a5d896783b4c122919a7d0f9f83 2023-09-28 2023-08-27 
+8 0x0c7f9dfe5f484dc75eedbb76d1fcdfc8970d0cb7 2023-10-03 2023-07-19 
+9 0x64de89a86ee0c666952319e162cf3c5224d45566 2023-10-03 2023-07-20 
+10 0xe205473109564210b726d5227ea56c92c4eb7ae7 2023-09-28 2023-08-27 
+11 0xf0579b201b2baecdd6472eb044d9b96f6d314779 2023-09-28 2023-08-27 
+12 0x0fd32cfe822823b7c01ee22fff31d27c6f6b1a8f 2023-09-28 2023-08-27 
+13 0x6c15b0b3ee98c39c390c1108fa3410f9dacb0ffd 2023-10-01 2023-07-19 
+14 0xdaf393b0082922d75465c2a08ba6f93f47c54918 2023-10-03 2023-07-19 
+15 0xccbf77fa01ea919a599eb8d0a68d12a3e277a5d2 2023-10-03 2023-07-19 
+16 0x09f31c0aee729ba208971f07bed903b0d0135e4f 2023-10-03 2023-07-19 
+17 0xff758cb857571ba5fe7891cdece84346c698ec26 2023-09-28 2023-09-27 
+18 0xb9fbebc86634184448742c918b127672071a6f19 2023-10-01 2023-07-19 
+19 0x834684ddb8c11eb58fddf1159e9c74953b892cfe 2023-09-28 2023-08-27 
+20 0x9a9b64f79e9f2ff806da3e912f826941b39404c2 2023-09-28 2023-08-27 
+21 0x8abe5c1b066b30069838e8ba35f2e4b02db15d64 2023-09-28 2023-09-27 
+22 0x875484c305e532a485ae6f79bab05e4677c15be5 2023-09-28 2023-08-27 
+23 0xa5bedade8c873b871d08f2d4b1684a9bd6945ba7 2023-09-28 2023-08-27 
+24 0x2f6c8ad9b90f03f1444f8512e30f48dd225f0dbd 2023-09-28 2023-08-27 
+25 0xacbd8887d3d14c90573453074e7098a909a3fa15 2023-10-01 2023-07-19 
+26 0xf793f9ebbfc6470835c7cdaf83c9788a445cea13 2023-10-03 2023-07-19 
+27 0x565a4eb5da4621c0d6032e4bfb3a5068ecc9ddb4 2023-10-01 2023-07-19 
+28 0xaedb26f3d279529c7670f2761ffea889f4c1798b 2023-09-28 2023-09-27 
+29 0x8f55cd4e6d20db42dbd868865686027dd346b97c 2023-10-01 2023-07-19 
+30 0x8c6a9e2006bd71989967854cc5fc9dafdeadf64c 2023-09-28 2023-09-27 
+31 0x6a21b81376ef4759f2635a8f6f3c9858cea457a8 2023-09-28 2023-09-27 
+32 0x0cb470a536e6e48333f7182cc7fabc945a2cd93b 2023-09-28 2023-09-27 
+33 0xdcd993c9482fa22a873c85a7018044106e1d6fa2 2023-09-28 2023-08-27 
+34 0xec753095b07f476a07846e14775025f3de52038b 2023-10-01 2023-07-19 
+35 0xb383c276d3db85a58866f6cd1ea949db9cee2723 2023-10-01 2023-07-19 
+36 0xd0261878928ada35a3fc58c9d34caa753b9e6306 2023-09-29 2023-07-19 
+37 0x21a9e6f106f4d4247db9462ebf2c9c4241578da7 2023-09-28 2023-08-27 
+38 0x93da1d0d77e7483fb199cecd0b2077a58ab9abc1 2023-09-28 2023-08-27 
+39 0x300a1410c148458e50fd1eabaabd3cd94a576b20 2023-10-01 2023-07-19 
+ ```
+</details>
