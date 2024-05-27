@@ -1693,10 +1693,11 @@ Linea native bridge
 
 ## Cluster 14 
 
-CEX address 
+0x3f1E4f661F195d00bF2d8fFdCCf0B30CA01D1a4d
+11 first linked to CEX address (Binance)
+
 
 ```
-
 0xff392e83a03f1870b67522b48bf515af9ec124e0
 0xba3a6834b0a63accaf549df47e103ad20bb24790
 0x7cd1c3c1df5c7823d535b05c1729d819f77708f9
@@ -1742,9 +1743,98 @@ CEX address
 
 <details>
 
-
-
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840058/rtfm7uzgt3aiq96letcw.png)
+  
+https://platform.arkhamintelligence.com/visualizer/entity/0xff392e83a03f1870b67522b48bf515af9ec124e0,0xba3a6834b0a63accaf549df47e103ad20bb24790,0x7cd1c3c1df5c7823d535b05c1729d819f77708f9,0xa48a8bc0cddd25fb412b698947e78a1a654a44fb,0x952ea1788fd32e2c54ac36000a348bd2a09d7d4a,0x26cc2c944c4cffa64ce7b3802a71445aedadc88d,0xf1dacb55a999edbeeb650ffc473205fab048c68e,0x5af376c0569085882c1050e06b24fe847e5c0ac6,0x20b163cc91733b54fddc7a28d9d97062b0d9befd,0xfecb5afbc756a866ea67572350a4078913ecfe76,0xdab2c2c884bed87e3ab008d365965e96d663b85e,0x1086cc94f3960e7e676fa13ffc75a876f4b64fbc,0x04db1cd8de77e2c5bdc79a57e7c09fbf4debe1a5,0x85da7e0205e9aaab7f85e837a396455aa8076b39,0xbe5bb9a4f8e624db61462c1ce0a156b6fa0cc15d,0x1770d754b4c573a31ed89d587aa05bb847982b90,0xc8fde0cd13fdfb00546203b0457058c5a5ce233e,0xe977c0e8c689b073f4e7c3122789b6e6db98f48e,0xe20fa7405c507b6116313db21a4c433c6e1e453e,0x6125791e34a5b45c69ca78fe9df1177f84fd3fae,0x89e72be12a7811c436667874a0842a3124908e3e,0x44b16ee7cd1b077a466e7313e7ec49d104503d8a,0x3ecdd7256d7fb82c976b75afb1d02dd497aabea8,0x2b20eb02b5a90d80f8176b02a35e770cd49a9991,0xed322d17419876a528fa361d4e233ddbbd7eeb65,0x4bd29ad21a57e076ad3fbfb4dcafa053155dff4e,0xa4fe0e805cf3f75e3e5a55d5baca097e6cbab5b7,0x4fe9ce347b21b364448943f0f00f476280f85c55,0x50bf8eac4ef20ac6b2b2c3d14c808a40ed44c1a1,0x019c233261fe26baa5a66ee3e840f8dc7cc433eb,0x909d2ddb0e72f26a551e784b528d52897fb3cb27,0x2fe2ae8209530e0ab809ee96a10ced3ae1311d73,0x9c50d01c356a172d754c5a583435a552401970d5,0x554de9ec9b67da361d79a316f866e66158f19851,0x702c331b04637bdd0a64ab05fd8a33657c95a4b3,0xdb130d9edb097773b45e60978aa5771ab61046f0,0xaa257cc014752cc690595dcaac438c86f7face2d,0x96266ab667484c4167ae9011a6ab454ed8c91240,0x08ccf6bb513d5cd16de3206a5e0f87725918fc49,0xd2c3b7b0d791d638b22dca82da6ed68974635939?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+
+All wallets participated in the same transaction on Interport within approximately a 7-day range, featuring similar amounts of tokens.
+
+Wallets not included in the transaction:
+
+0x1086cc94f3960e7e676fa13ffc75a876f4b64fbc
+0xbe5bb9a4f8e624db61462c1ce0a156b6fa0cc15d
+0x44b16ee7cd1b077a466e7313e7ec49d104503d8a
+0x019c233261fe26baa5a66ee3e840f8dc7cc433eb
+0xc8fde0cd13fdfb00546203b0457058c5a5ce233e
+0x4bd29ad21a57e076ad3fbfb4dcafa053155dff4e
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/baf1e3af-7af8-4264-9acd-a8ea733d1647)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/bc7fb637-aef4-460f-98f3-7513b6d3efd2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/259dc264-67e3-406e-8c8c-ee0d9faa60b3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/30e05f96-d315-4f3e-b97f-f503be088b23)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/40d6c638-6230-4ad5-ba39-ec732a53e4ce)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b6141280-c85d-42a9-8893-9aba1eccfde9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f17b5e06-120d-417d-a169-b9332f3f46d9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/0e5c3779-ac4a-47ff-bccb-64a2faf7ccfd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/d3f22a41-d665-499b-91b4-144f7af539d7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/9273ebfb-47f9-43db-95ba-1be564ffb59e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/7a5adee2-d661-4a01-b086-fbc5a5d6fbfa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/40e5f44b-303b-4e59-8c25-0e2864011d9d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1d5bc524-2e76-4f66-9e29-735a40eaefaf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/30c0c602-adb2-43be-a74f-9c54aa88a270)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/08e80ffa-c483-419a-a019-7bf65c5849a3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/2bb854d1-5bad-4e0d-96ef-5078fe89b282)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e36141cb-4fe3-47ba-b849-56721888c438)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1f29abd7-4a83-4bb3-8172-67f0198242c0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e9e1f276-7563-41eb-85bf-8d2bd993aa07)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/c930d4e5-5ef1-4147-9a82-75d1c30dcb6d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/0b74b51c-31a3-4a25-aff2-17dfbac71414)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fcd88015-53fd-4ec4-a99c-bbd09b543a13)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/cb3280b6-6322-4dde-8dfb-0c1504dc82d0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f6d1dfce-dcf5-4076-aefc-dd605d863d65)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f1e2ca7a-f892-4887-bff1-aa24b0a428b0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/dda6b2d9-dffd-4345-8f32-1489401e0a58)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/972937f7-d5ec-48b5-b34b-32f17c3f313e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/94251acd-7f2b-4e1d-a489-959437278a6c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/21ff28a9-f953-4e2b-bf86-f389cc2ea6f7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b96bb89e-4a11-42d3-bb4d-7df1f94432f3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/835b5456-c8e0-4cef-83a8-cc063e6cbfa7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/dc622024-a56f-42b9-89dc-3a4b8f3a75c6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f6ab8d0f-951e-46ba-a52e-c506f97371e4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e6905235-3c4f-464d-95e0-909f1cb8d5bb)
+
+The following wallets have participated in transactions on Superform in the last 5 days:
+
+0x1086cc94f3960e7e676fa13ffc75a876f4b64fbc
+0xbe5bb9a4f8e624db61462c1ce0a156b6fa0cc15d
+0x019c233261fe26baa5a66ee3e840f8dc7cc433eb
+0xc8fde0cd13fdfb00546203b0457058c5a5ce233e
+0x4bd29ad21a57e076ad3fbfb4dcafa053155dff4e
+0xba3a6834b0a63accaf549df47e103ad20bb24790
+0x7cd1c3c1df5c7823d535b05c1729d819f77708f9
+0x952ea1788fd32e2c54ac36000a348bd2a09d7d4a
+0x26cc2c944c4cffa64ce7b3802a71445aedadc88d
+0xf1dacb55a999edbeeb650ffc473205fab048c68e
+0x5af376c0569085882c1050e06b24fe847e5c0ac6
+0x20b163cc91733b54fddc7a28d9d97062b0d9befd
+0xfecb5afbc756a866ea67572350a4078913ecfe76
+0xdab2c2c884bed87e3ab008d365965e96d663b85e
+0x04db1cd8de77e2c5bdc79a57e7c09fbf4debe1a5
+0x85da7e0205e9aaab7f85e837a396455aa8076b39
+0x1770d754b4c573a31ed89d587aa05bb847982b90
+0xe977c0e8c689b073f4e7c3122789b6e6db98f48e
+0xe20fa7405c507b6116313db21a4c433c6e1e453e
+0x6125791e34a5b45c69ca78fe9df1177f84fd3fae
+0x89e72be12a7811c436667874a0842a3124908e3e
+0x2b20eb02b5a90d80f8176b02a35e770cd49a9991
+0xed322d17419876a528fa361d4e233ddbbd7eeb65
+0xa4fe0e805cf3f75e3e5a55d5baca097e6cbab5b7
+0x4fe9ce347b21b364448943f0f00f476280f85c55
+0x50bf8eac4ef20ac6b2b2c3d14c808a40ed44c1a1
+0x909d2ddb0e72f26a551e784b528d52897fb3cb27
+0x2fe2ae8209530e0ab809ee96a10ced3ae1311d73
+0x9c50d01c356a172d754c5a583435a552401970d5
+0x554de9ec9b67da361d79a316f866e66158f19851
+0x702c331b04637bdd0a64ab05fd8a33657c95a4b3
+0xdb130d9edb097773b45e60978aa5771ab61046f0
+0xaa257cc014752cc690595dcaac438c86f7face2d
+0x96266ab667484c4167ae9011a6ab454ed8c91240
+0x08ccf6bb513d5cd16de3206a5e0f87725918fc49
+0xd2c3b7b0d791d638b22dca82da6ed68974635939
+
+
+
+
 
 </details>
 
