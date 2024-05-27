@@ -3399,11 +3399,25 @@ bsc stg lock
 
 <details>
 
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/84166af1-5549-4367-becd-2252470f0359)
+
+
+https://platform.arkhamintelligence.com/visualizer/entity/0x2acDe5683b7157D9646Ed9C2f6f2363BC590dc01,0x929bd1f03942125e1dccf0cfeb012e9c165351dc,0x523356181f718b6b830fddfcd00b54f497afceb2,0x15b786cbd9247ed31618aaf4a80420ef0098a270,0xcc81adc585668bfa0bccbd2f39f0ce42dd2bc3ee,0x08026662852f39a61632963968d683faf2beab42,0x741f536fe8f32e612dcb3f1d4a7996474060bf8c,0x5a49686eab54a9e357ab258c016206006cf9e9a0,0x34d3db5a50779f4419a571d25e831880f5e64e23,0x33dd3e3962d7e526478831b90e0006f9db7b9ee3,0xb623bfd0e079f1fcb62f42ab570532778bacc267,0x0922c4f24980dbfd8f6cfd2b922dd3b7c16a37ae,0x007e1a4fb6af68ce1ab1dd2713b5dc9e534f90ec,0x24d4f6ab1c147655bd0225228cb631323674d176,0x1e22d40b6bf7b91b17af80ed55d210cebec36bab,0x221fe5c30cfba203cf3baae4cafe23750b7091d1,0xf06bf69206eb67213bb7587956023e285f00d644,0x736b190f0151765dbe88e6cf657051bc1db509a1,0xa1b803cd60e50743447b6f426298c40dbc28c416,0x59ef91c1e5439c063c53a82cb63a4142f473381b,0x56ebaaafd8724400197ad0e2bbb9ba4cecc6a689,0xb9544ccb2121a63b2c5e8c17443b47fd4a07b0ea?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+
 21 wallets ranked between 500k and 1.8M.
 
 Layer Zero Days: 3 at 283, 2 at 286, 3 at 300, 2 at 409, 2 at 413, and 2 at 429 among others.
 
 Swap via MetaMask and then lock STG Stargate on Polygon for 7 addresses (0x929bd1f03942125e1dccf0cfeb012e9c165351dc, 0x523356181f718b6b830fddfcd00b54f497afceb2, 0x15b786cbd9247ed31618aaf4a80420ef0098a270, 0x741f536fe8f32e612dcb3f1d4a7996474060bf8c, 0x33dd3e3962d7e526478831b90e0006f9db7b9ee3, 0xb623bfd0e079f1fcb62f42ab570532778bacc267, 0x7263267aca13ef96ed425c957760b6f20edee9bb).
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/9e2facf7-3759-4604-962e-c9b7713160dd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1716eeaa-dd72-4017-8968-b9360954ede0)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5ac5db11-3497-419b-99bc-5afed36f5d7c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5a158c7a-f6df-459d-8556-da7ab5e79a2e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b300d5cd-8a60-4ba3-8e8f-9664bb5ae59f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/d14eacff-71ad-47d4-b093-7e456e9ff567)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/eaab4974-2a43-4efe-b83d-a89cbfac62e4)
+
 
 There is a Stargate transaction from 2 months ago between two Merkly transactions (there are many Merkly transactions, so it already suggests a sybil) for all the wallets except one (0x7263267aca13ef96ed425c957760b6f20edee9bb) from OP to ARBI with similar amounts on April 10th.
 ![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/67cf16b1-f7ab-4227-9231-b207b2cbf91a)
