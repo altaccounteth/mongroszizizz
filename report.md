@@ -3321,6 +3321,8 @@ For the wallets that did not have a Stargate transaction before the OMni X one (
 0x0F70cB29CC848934247E1CC3b2367A72636bFf38
 
 **TLDR**
+Btc.b & Aptos bridge similarity 
+
 
 ```
 0xc7c79e78e590c05a4a5cbf711904c10a7b4ce75d
@@ -3354,7 +3356,6 @@ For the wallets that did not have a Stargate transaction before the OMni X one (
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x0F70cB29CC848934247E1CC3b2367A72636bFf38,0xc7c79e78e590c05a4a5cbf711904c10a7b4ce75d,0x09691b075f3d87f074c90ada793b9a43decf943d,0x0c0d6460d8939ae75fb8da54e98cdf242e76fa7c,0x573242f52145b2ff1a52a72daeb410b5d209a01a,0xfbde5dbb7407143f633ba20e57f44cdb86918e1b,0x626a2e5bf815e7de174ab1cc06eafe1c10c4e299,0x04f8ce211d3323bb8aeac8cbc47571a8ec0ee119,0x0848d6b87e7fef86ddbf0bed2d1bc192420db003,0xfd6df311e24dded518bc621c81cffbd5d5c2745f,0x10432c560930503064115b78cd13c9bddadd15e5,0x0267215cdabe0e4bbba57d794f9d26ba690371a3,0x7baab6f70119684fa694bf527edfa3dc654a0808,0x7e453f2dbcbc734c2e35efa286021b9994b2caa2,0x0545eb9af253359626cd9856d7a889e641a88ef3,0xa3fec59dcc95ac98434c2f0ce4d6bde7ffa6f2dd,0x98ee6740ca70ae8d5562509f8e05e5d249556a18,0x5b06e163885363d5594bfbe82375023991047060,0x4b133c63ad94d55e8e03be9d94be89d7cbeb7621,0x911631b2582e2f1c71df557f84f3ff3a89aa0c27,0x1e03c73d22253150cd760c9af6682ba8bfc19a1e,0x48957e90ed96a8c7d60d0e4ffbea0e0fae356fa9,0x0e6649fa2de5d631f801e68827eafbbf826def8a,0xe4c34e6503445492727b52b023cb12632d733339?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-23 wallets ranked between 500k and 1.13M
 
 LZ AGE: 2 at 334 days, 6 at 378 days, 2 at 385 days, 3 at 390 days, 3 at 421 days, and 3 at 423 days.
 
@@ -3410,6 +3411,10 @@ Finally, many addresses have APTOS Bridge transactions in common, on close dates
 
 ALL LINKED TO SAME CEX DEPOSIT ADDRESS (Binance)
 0x262D078F1992c69e262702091e87a4264163EFc4
+
+**TLDR**   
+Same CEX deposit address
+Pancake swap / Harmony 
 
 ```
 0xc38ef02b2bd402abb636b25c357363dc1d72778d
@@ -3467,11 +3472,7 @@ ALL LINKED TO SAME CEX DEPOSIT ADDRESS (Binance)
 https://platform.arkhamintelligence.com/visualizer/entity/0x262D078F1992c69e262702091e87a4264163EFc4,0xc38ef02b2bd402abb636b25c357363dc1d72778d,0xc3bab196e6e7d7ad96d015d929ffb89092b3787a,0x3affc191c8ebcaf8ce6223af19dac32f14fce1da,0xeca6f41e19515abd044d0908658d94b4e1cd4f50,0x43a44db9aca6d3d24accdb896010fc2564c5460b,0x8b6addb0fabccd670209514418d64cb1b7054fcc,0xd4ea9478ea1d7ea32d4ffb1ea60806738f37ca86,0x6dcebcfc394f9a2dc97c608f622ae9a9f95ef17a,0x113cb8839465b288ecbfe029fdd7a863569994b9,0x062ee106ee7357a9aace9f6ed943a3150e80dd9a,0x9f21587a29c5396f78b40c3db04e29445dd0cca0,0xc1524b6852275fe05d78efa22df107f180775e28,0xfbade72509f3e60ddbceab82af68255630de72e8,0xbcc6a551c78ab65f99b10a487cccb1ca832badc2,0xdf28b746de984279d4ff9f29283e4c09ece75e50,0xd436f298ccfa39a7f1a55ae78df326dd75716bcd,0x1d6f018cfc832e2f09466a184cb3e781d11ce5c1,0x1423f0fb45bec4cd4f84599a0bda7ab0c502138a,0xd735d490b7169e3a3f6fe25e0875f9686fb425ea,0xfc676a4e5ce0a3cf65669f37e9ebd301efeed2d4,0x922745fe9ac1e9467e8b2d57f80fddd49961933a,0xb5dc80fce25f5d38dfa1d8b97f6bbf8c769d5a73,0x2538a4fc329da01340990461d2d357086aabdd55,0x08d28455f55bc83d100c934e62bf66aedf307659,0xd75368c11af7b7df4d67e9f123f54f1a331fda19,0x911e6c4e67119c7ea9915fe07aa24be5732c3a47,0xc4ae6ece3c4eafdc26f6c83044b5e881932a1152,0x7974925f460182ce7bcead10c7c0c81ae38b7c86,0x5fbb35a9949623357028c707f1d84040a5db0369,0xd10dfe34ebf963ad2519dc0fd5f6bffca6effe51,0x73c3de7be6349d201d709862e5a4002897eb0a8f,0xeb0b0ffb7de50613380ed2da39af397ff568ba43,0x7287c77dd1059193c464ddc4631faff175a9986b,0x9170075d875db55d1753f1782d978840dfa0f112,0x9333a6aeb69301d72a1ac06aae4156f2c011de23,0xef1320e6cddf67a7adfcd08acac821a1617dc147,0x7f17b443df49c03cd5a44eaadc96bc01c1162f08,0x918e6c4d06595cd563eee33876168969a2f24759,0x393f40e48b3924a18365fda57fa0f7b6178140ce,0x0926b01d2f778389a7d21a9d584978d0819b1c31,0x8ad8eb7817dad784e5e19ae2ae852b9adb1dc741,0x8e4cc79d57291fb1fc1bfe1b9f48d21cc3ba8092,0x61874c6ecf80650858e8cb7c7a650e6f6daefd18,0xf7609b80fd824559b7db33b056abe4bf0275cde0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 
-
-44 wallets classés entre 170k et 1,9M
-
-LZ day: 4 à 369, 6 à 371, 13 à 372, 6 à 373, 3 à 374, 6 à 375, 2 à 376, 
-
+LZ day: 4 at 369, 6 at 371, 13 at 372, 6 at 373, 3 at 374, 6 at 375, 2 at 376
 
 
 
@@ -3595,6 +3596,11 @@ bsc stg lock
 17 wallets linked to cex deposit (binance)
 0x2acDe5683b7157D9646Ed9C2f6f2363BC590dc01
 
+**TLDR**  
+STG lock similarity 
+Metamask swap 
+Stargate farming
+
 ```
 0x929bd1f03942125e1dccf0cfeb012e9c165351dc
 0x523356181f718b6b830fddfcd00b54f497afceb2
@@ -3626,8 +3632,6 @@ bsc stg lock
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x2acDe5683b7157D9646Ed9C2f6f2363BC590dc01,0x929bd1f03942125e1dccf0cfeb012e9c165351dc,0x523356181f718b6b830fddfcd00b54f497afceb2,0x15b786cbd9247ed31618aaf4a80420ef0098a270,0xcc81adc585668bfa0bccbd2f39f0ce42dd2bc3ee,0x08026662852f39a61632963968d683faf2beab42,0x741f536fe8f32e612dcb3f1d4a7996474060bf8c,0x5a49686eab54a9e357ab258c016206006cf9e9a0,0x34d3db5a50779f4419a571d25e831880f5e64e23,0x33dd3e3962d7e526478831b90e0006f9db7b9ee3,0xb623bfd0e079f1fcb62f42ab570532778bacc267,0x0922c4f24980dbfd8f6cfd2b922dd3b7c16a37ae,0x007e1a4fb6af68ce1ab1dd2713b5dc9e534f90ec,0x24d4f6ab1c147655bd0225228cb631323674d176,0x1e22d40b6bf7b91b17af80ed55d210cebec36bab,0x221fe5c30cfba203cf3baae4cafe23750b7091d1,0xf06bf69206eb67213bb7587956023e285f00d644,0x736b190f0151765dbe88e6cf657051bc1db509a1,0xa1b803cd60e50743447b6f426298c40dbc28c416,0x59ef91c1e5439c063c53a82cb63a4142f473381b,0x56ebaaafd8724400197ad0e2bbb9ba4cecc6a689,0xb9544ccb2121a63b2c5e8c17443b47fd4a07b0ea?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-
-21 wallets ranked between 500k and 1.8M.
 
 Layer Zero Days: 3 at 283, 2 at 286, 3 at 300, 2 at 409, 2 at 413, and 2 at 429 among others.
 
@@ -3672,6 +3676,9 @@ There is a Stargate transaction from 2 months ago between two Merkly transaction
 15 linked cex wallet deposit OKX
 0x838A9b0270bEa444E0268464E7e178337721F33F
 
+**TLDR**
+Aptos Bridge
+
 ```
 0x2c1fe28d9025c436fa9332bbcb3065d9108106bb
 0xb0d9791bc4fb96a5efd342fe7637dba42bd1c33a
@@ -3707,7 +3714,7 @@ There is a Stargate transaction from 2 months ago between two Merkly transaction
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x838A9b0270bEa444E0268464E7e178337721F33F,0x2c1FE28d9025c436Fa9332BbcB3065D9108106BB,0xb0D9791BC4fb96A5efd342FE7637dBa42bd1C33a,0x3ebc0B58F1A24381EF63d972a67412EaEC96f1C7,0x09671E6AbE947C26b37C26ff6713211409a62C0E,0x42336f5828270aCBF33891b9B7BB0A231E750000,0x2340220b8DE22dDCF36e128F03EC2Eda42a19081,0x54c5DBBD063793aFAa5643Cfc103Cb825cC1001e,0xC8D6d3AB0880aF69adFa3bDEde290584018AAA72,0xa0f8F114F3cE69ABe93bCf7661ab17615564933C,0xb6c6620a398fe658A236f526e8F7A8E1D91aC74F,0xaAf19920c876997184d370c8a26Afc81e0F53069,0x3E1ca33B00314691c910519126c14cB636B156b4,0x329BBEe2Be26Fa6A18a469690081Ec7F1DC92256,0x18d8f615790a9bc7277A0C7888627c26f98A6A71,0x6C7C5830F7278CDF75B2C9AEd6022c99B43BF063,0xf86d9def2488eB81570Ad0F8C3309e3611d65De8,0x9A1b60e68F13927dc64b22657e162D2B1FF6066F,0x27C0c6D39fd6412b4fBe8a0f1b2d752bAf8898f7,0x6B5f7f0758f9267A23F7cD4F999C7a5236c5E38c,0xb820C484BAc96f6569Ee7cbC32f5e5F4845b3ee5,0xA26976292Ae8Cc8D5FB877A0c204404Bf8DEB399,0x7b9338E8439296A2Bc1512130FDa03E3a6d3C822,0x5Ff4e80C345Eb0b582cd512A10bCc0698e884032,0x271FED2c756f87fBBa4FF0874C4924B6813DB589,0xe8D604527f6CE050Ba012e180f5B492820682575?flow=self&positions=%7B%220x54c5DBBD063793aFAa5643Cfc103Cb825cC1001e%22%3A%7B%22fx%22%3A-7%2C%22fy%22%3A-59%7D%2C%220x2340220b8DE22dDCF36e128F03EC2Eda42a19081%22%3A%7B%22fx%22%3A-24%2C%22fy%22%3A-60%7D%2C%220x6B5f7f0758f9267A23F7cD4F999C7a5236c5E38c%22%3A%7B%22fx%22%3A-39%2C%22fy%22%3A-56%7D%2C%220x7b9338E8439296A2Bc1512130FDa03E3a6d3C822%22%3A%7B%22fx%22%3A-12%2C%22fy%22%3A-11%7D%2C%220x27C0c6D39fd6412b4fBe8a0f1b2d752bAf8898f7%22%3A%7B%22fx%22%3A-48%2C%22fy%22%3A-44%7D%2C%220xC8D6d3AB0880aF69adFa3bDEde290584018AAA72%22%3A%7B%22fx%22%3A-56%2C%22fy%22%3A-30%7D%2C%220xa0f8F114F3cE69ABe93bCf7661ab17615564933C%22%3A%7B%22fx%22%3A-57%2C%22fy%22%3A-17%7D%2C%220xb6c6620a398fe658A236f526e8F7A8E1D91aC74F%22%3A%7B%22fx%22%3A-54%2C%22fy%22%3A-4%7D%2C%220x42336f5828270aCBF33891b9B7BB0A231E750000%22%3A%7B%22fx%22%3A-47%2C%22fy%22%3A6%7D%2C%220x3E1ca33B00314691c910519126c14cB636B156b4%22%3A%7B%22fx%22%3A-40%2C%22fy%22%3A17%7D%2C%220xf86d9def2488eB81570Ad0F8C3309e3611d65De8%22%3A%7B%22fx%22%3A-33%2C%22fy%22%3A-37%7D%2C%220xb0D9791BC4fb96A5efd342FE7637dBa42bd1C33a%22%3A%7B%22fx%22%3A-5%2C%22fy%22%3A-39%7D%2C%220x3ebc0B58F1A24381EF63d972a67412EaEC96f1C7%22%3A%7B%22fx%22%3A7%2C%22fy%22%3A-54%7D%2C%220xA26976292Ae8Cc8D5FB877A0c204404Bf8DEB399%22%3A%7B%22fx%22%3A22%2C%22fy%22%3A-46%7D%2C%220x18d8f615790a9bc7277A0C7888627c26f98A6A71%22%3A%7B%22fx%22%3A36%2C%22fy%22%3A-36%7D%2C%220x329BBEe2Be26Fa6A18a469690081Ec7F1DC92256%22%3A%7B%22fx%22%3A40%2C%22fy%22%3A-19%7D%2C%220x5Ff4e80C345Eb0b582cd512A10bCc0698e884032%22%3A%7B%22fx%22%3A42%2C%22fy%22%3A-4%7D%2C%220x6C7C5830F7278CDF75B2C9AEd6022c99B43BF063%22%3A%7B%22fx%22%3A39%2C%22fy%22%3A8%7D%2C%220xe8D604527f6CE050Ba012e180f5B492820682575%22%3A%7B%22fx%22%3A30%2C%22fy%22%3A18%7D%2C%220xb820C484BAc96f6569Ee7cbC32f5e5F4845b3ee5%22%3A%7B%22fx%22%3A18%2C%22fy%22%3A25%7D%2C%220x2c1FE28d9025c436Fa9332BbcB3065D9108106BB%22%3A%7B%22fx%22%3A-29%2C%22fy%22%3A2%7D%2C%220xaAf19920c876997184d370c8a26Afc81e0F53069%22%3A%7B%22fx%22%3A-27%2C%22fy%22%3A25%7D%2C%220x9A1b60e68F13927dc64b22657e162D2B1FF6066F%22%3A%7B%22fx%22%3A-13%2C%22fy%22%3A27%7D%2C%220x09671E6AbE947C26b37C26ff6713211409a62C0E%22%3A%7B%22fx%22%3A3%2C%22fy%22%3A28%7D%2C%220x271FED2c756f87fBBa4FF0874C4924B6813DB589%22%3A%7B%22fx%22%3A19%2C%22fy%22%3A-23%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-25 wallets, ranging from 600k to 1.3M, all utilized the Aptos Bridge on the same day, with transfers originating either from Arbitrum (Arbi) or Optimism (OP) and terminating on Aptos.
+25 wallets, all utilized the Aptos Bridge on the same day, with transfers originating either from Arbitrum (Arbi) or Optimism (OP) and terminating on Aptos.
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850407/ugszhej2dq19o4571uya.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850408/jxyb3r43huymmifzv17x.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850410/xmmd3qf18ch6psjhy5ok.png)
@@ -3739,8 +3746,11 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x838A9b0270bEa444E026
 
 ## Cluster 27
 
-7 linked 
+7 first addresses linked to CEX deposit a address (OKX)
 0x888c7fc7dFced7b23F20D621a4496fb1BdBa0568
+
+**TLDR**
+similarity on BNB STG lock 
 
 ```
 0x39ed2edc4eecbaf67d301915d41718a2453ce81e
@@ -3767,12 +3777,11 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x838A9b0270bEa444E026
 ```
 
 <details>
+  
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850452/xlygrxueqm0ljmytl7ws.png)
 
 https://platform.arkhamintelligence.com/visualizer/entity/0x888c7fc7dFced7b23F20D621a4496fb1BdBa0568,0x39eD2eDC4eEcbaF67D301915d41718a2453CE81E,0xEDdA713a5875df7Af78Ba6907e3A8F3299aE58DD,0x70d912Fb0315C94693a66F1e7384C593594bF476,0x53630aa134efbfbA925938ADA988922bbab42443,0x5D9179C204655d562b8e6fB6fAA3c1693725101d,0x4C30d8EE462240f927dd94C5A214784594B0b58e,0x139b0BF3426F35aa4FA807d88e181f6C6dE5E01F,0x1865286096E66f464261f4f2aA1B5311fC0CE2f5,0x18936900603B18d12F2dBbEAb558468fDfDE5A7B,0x1B5505a22057f68136D5938156B71E6A385DF533,0x4ab4bAE5c75155716fDA8EC7704A29e38525Eb82,0x7965eB18c68F26f01DB9677bd61E656a79217Dc0,0x897CB796c5D296b4A32d8E0604B23947d9b29c8D,0x75BE24119348435d29D45f2182624ba4104D7920,0x7F41Ce43077b02906d30961F2053AC1a57E10b6a,0xb4560Bc65BA37F84f65c2F71C70d0815d356818f,0x789e4Be4e102A0A69e6D793969ae5A1Ba8173586,0xd1Df2ff3dBCbdbb0eF9fC896944fD026801829f5,0xD6b0a3A1c174ABD461DecaBa5fF0efF50d6F8071,0x69866b4C6839Ea8c44b36bBD63E617528D703AF1,0x6288a8705124658586A5414C915c6d89e3dc7e59?flow=self&positions=%7B%220x6288a8705124658586A5414C915c6d89e3dc7e59%22%3A%7B%22fx%22%3A8%2C%22fy%22%3A-60%7D%2C%220x5D9179C204655d562b8e6fB6fAA3c1693725101d%22%3A%7B%22fx%22%3A30%2C%22fy%22%3A-53%7D%2C%220x75BE24119348435d29D45f2182624ba4104D7920%22%3A%7B%22fx%22%3A43%2C%22fy%22%3A-40%7D%2C%220x4C30d8EE462240f927dd94C5A214784594B0b58e%22%3A%7B%22fx%22%3A48%2C%22fy%22%3A-26%7D%2C%220x18936900603B18d12F2dBbEAb558468fDfDE5A7B%22%3A%7B%22fx%22%3A52%2C%22fy%22%3A-12%7D%2C%220x888c7fc7dFced7b23F20D621a4496fb1BdBa0568%22%3A%7B%22fx%22%3A52%2C%22fy%22%3A2%7D%2C%220x1B5505a22057f68136D5938156B71E6A385DF533%22%3A%7B%22fx%22%3A48%2C%22fy%22%3A13%7D%2C%220x789e4Be4e102A0A69e6D793969ae5A1Ba8173586%22%3A%7B%22fx%22%3A37%2C%22fy%22%3A24%7D%2C%220xD6b0a3A1c174ABD461DecaBa5fF0efF50d6F8071%22%3A%7B%22fx%22%3A24%2C%22fy%22%3A30%7D%2C%220x139b0BF3426F35aa4FA807d88e181f6C6dE5E01F%22%3A%7B%22fx%22%3A-6%2C%22fy%22%3A-58%7D%2C%220xb4560Bc65BA37F84f65c2F71C70d0815d356818f%22%3A%7B%22fx%22%3A-20%2C%22fy%22%3A-49%7D%2C%220x7F41Ce43077b02906d30961F2053AC1a57E10b6a%22%3A%7B%22fx%22%3A-26%2C%22fy%22%3A-37%7D%2C%220x897CB796c5D296b4A32d8E0604B23947d9b29c8D%22%3A%7B%22fx%22%3A-30%2C%22fy%22%3A-24%7D%2C%220x70d912Fb0315C94693a66F1e7384C593594bF476%22%3A%7B%22fx%22%3A-31%2C%22fy%22%3A-10%7D%2C%220xd1Df2ff3dBCbdbb0eF9fC896944fD026801829f5%22%3A%7B%22fx%22%3A-26%2C%22fy%22%3A2%7D%2C%220x53630aa134efbfbA925938ADA988922bbab42443%22%3A%7B%22fx%22%3A34%2C%22fy%22%3A-20%7D%2C%220x69866b4C6839Ea8c44b36bBD63E617528D703AF1%22%3A%7B%22fx%22%3A-17%2C%22fy%22%3A15%7D%2C%220x7965eB18c68F26f01DB9677bd61E656a79217Dc0%22%3A%7B%22fx%22%3A9%2C%22fy%22%3A27%7D%2C%220xEDdA713a5875df7Af78Ba6907e3A8F3299aE58DD%22%3A%7B%22fx%22%3A8%2C%22fy%22%3A-26%7D%2C%220x4ab4bAE5c75155716fDA8EC7704A29e38525Eb82%22%3A%7B%22fx%22%3A-4%2C%22fy%22%3A23%7D%2C%220x39eD2eDC4eEcbaF67D301915d41718a2453CE81E%22%3A%7B%22fx%22%3A19%2C%22fy%22%3A9%7D%2C%220x1865286096E66f464261f4f2aA1B5311fC0CE2f5%22%3A%7B%22fx%22%3A-4%2C%22fy%22%3A-8%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-
-21 addresses ranked from 270k to 850k
 
 LZ day: 8 at 234, 5 at 237, and 6 at 239.
 
@@ -3830,6 +3839,9 @@ According to Debank, they all have $1 or $2 maximum on Stargate on BNB. Addition
 26 first linked to CEX deposit address
 0x324Ec2F26161303f59196d3439a7211E19d1bd84 (OKX)
 
+**TLDR**   
+STG loop
+Sepolia testnet bridge
 
 ```
 0xfc40c28541ee229cfd0a9435c38779673c6bd5fe
@@ -3870,72 +3882,73 @@ LZ Day: 2 at 252, 5 at 253, 3 at 254, 2 at 255, 2 at 274, 2 at 292, 3 at 294, 2 
 Analyzing the holding of STG on BNB via Debank:
 0xfc40c28541ee229cfd0a9435c38779673c6bd5fe
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850489/nmvwhgaiap3er4pywsd0.png)
-Cette adresse est dans le cluster (0xa98082a2ff0fdcf719c9d1b885eab67a35f714c9)
+in the cluster (0xa98082a2ff0fdcf719c9d1b885eab67a35f714c9)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850491/vgrdveefujmyuegtzbwe.png)
-déja dans le cluster (0x9d21fc5b5cfbf6510eb7e60dacf348208882f5b6)
+in the cluster (0x9d21fc5b5cfbf6510eb7e60dacf348208882f5b6)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850492/jcce7akciv9fjriv4tkj.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850494/k2ojeyqi4qwmqtl52b4v.png)
-Cette adresse est dans le cluster (0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892)
+in the cluster (0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850495/j1bzjp7v9j8hgipzrphk.png)
-Cette adresse est dans le cluster (0x6130efe431dd939d8a6a62999663fda6ffe9cf78)
+in the cluster (0x6130efe431dd939d8a6a62999663fda6ffe9cf78)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850497/lcdr4yeco8melsen0anm.png)
-Cette adresse est dans le cluster (0x8b455ae33f9d76346eefa2a51dca4085ff9850f5)
+in the cluster(0x8b455ae33f9d76346eefa2a51dca4085ff9850f5)
 0x9d21fc5b5cfbf6510eb7e60dacf348208882f5b
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850498/p5vyj2ygcvbkip4dfwg4.png)
-Cette adresse est dans le cluster
+in the cluster
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850500/idsfquhn8kn6oyojwjay.png)
-Cette adresse est dans le cluster (0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4)
+in the cluster (0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4)
 0x7613c38eb6c1da437de23b28527a790910c1ba78
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850501/y9tiayblearcidy4dert.png)
-0xb7723f91c69e09052553d4f971235b9d1cfae482 dasn le cluster
+0xb7723f91c69e09052553d4f971235b9d1cfae482 in the cluster
 [image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3d22fd36-1f9a-4e9b-8142-b59c1122e425)
-0x86bb7c64ff1a286cc97e3bc734e59cb8b8e1cf70 dans le cluster
+0x86bb7c64ff1a286cc97e3bc734e59cb8b8e1cf70 in the cluster
 0xa98082a2ff0fdcf719c9d1b885eab67a35f714c9
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850503/krvsquo0mgaceg5vugh1.png)
-0x26f275d27c3a66ccc54e7cdaf484f48283ae0ec0 est dans le cluster
+0x26f275d27c3a66ccc54e7cdaf484f48283ae0ec0 in the cluster
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850504/nyykmke4byhrv7bctzkd.png)
-0x23b109ebfa0938a044f5bd00ae214d21009023e8 est dans le cluster
+0x23b109ebfa0938a044f5bd00ae214d21009023e8 in the cluster
 0xa4068acc31fcff871966afe6290f54de681b3af0
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850506/a7kdcari4dmvmkxwqlpe.png)
-0x914e0fdbb9a6b2d8f9d58b2302cec55b43e7fe13 est dans le cluster
-On a une qui n'échangent avec personne (0x4403901829bd5dbcc0dc0b8ef2aa8ef173efaa27) des STG mais elle a fait les mêmes tx le même jour qu’une autre:
+0x914e0fdbb9a6b2d8f9d58b2302cec55b43e7fe13 in the cluster
+
+We have one wallet (0x4403901829bd5dbcc0dc0b8ef2aa8ef173efaa27) that doesn't exchange with anyone else's STG, but it conducted the same transactions on the same day as another wallet:
 (0xa4068acc31fcff871966afe6290f54de681b3af0, 0x4403901829bd5dbcc0dc0b8ef2aa8ef173efaa27)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850507/xqeuscaagltdrtzrhipf.png)
 0x69e9e57a8934bad2dc1d9647da60fc891234c586
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850509/mipwju1qlj4slaoonje9.png)
-0x18d850d35fcb63cdf95e317a747d515a4429f37b qui est dans le cluster
+0x18d850d35fcb63cdf95e317a747d515a4429f37b in the cluster
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850511/ldam6frgenuyeaxlolgc.png)
-0x3c9f0a4e5c7c987dde1f3ef8abf4a40dc8380377 qui est dans le cluster
+0x3c9f0a4e5c7c987dde1f3ef8abf4a40dc8380377 in the cluster
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850512/tnqd0ffmosspsfhvu8jo.png)
-0xb281d4da1620bdce9b1236d8b693c238af150b2a qui est dans le cluster
+0xb281d4da1620bdce9b1236d8b693c238af150b2a in the cluster
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850513/yxdu5bgrnjfkepono3wk.png)
-0xba357f63056c63e71959babfa4f3f89ad85de886 qui est dans le cluster
+0xba357f63056c63e71959babfa4f3f89ad85de886 in the cluster
 
 0xf1f49950f21646bd0d0eb74393aeacc3eea84104
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850515/v64rkdl0fwbjo7trx29z.png)
-La première on l’avait déja parcouru et la deuxième 0xff89ea6275406ae7d3ea2ae87f1db3476a5e57c8 est dans le cluster.
+We had already reviewed the first one, and the second one, 0xff89ea6275406ae7d3ea2ae87f1db3476a5e57c8, is in the cluster.
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850516/p4juxrmgcxwhgmq0lonp.png)
-0x733ef3b73175bf2bb87c8402ec87c87945f201f7 dans le cluster
+0x733ef3b73175bf2bb87c8402ec87c87945f201f7 in the cluster
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850518/lpkccxp87s2dgwgyxzyi.png)
-0xc6e793c6457cdd70555e6bc9828ffb561ca269cc dans le cluster
+0xc6e793c6457cdd70555e6bc9828ffb561ca269cc in the cluster
 
 0x4f772ebb54226a001486d92cba2bbdcb7f9b63e5
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850519/prtksho1fyvfagn6ic1d.png)
-0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4 on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4 we have already seen it, so by transity, it is link to those already identify
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850521/bij7bhrw5mzabscdapye.png)
-0x4f9a84aea72d72886453c125f3a14e10f8f6e86b dans le cluster.
+0x4f9a84aea72d72886453c125f3a14e10f8f6e86b in the cluster
 
 0x95503b5a3cdf8b5929108e4cbcf661f8abfc8095
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850522/p9jvtemnwqc43n5lysew.png)
-0xba357f63056c63e71959babfa4f3f89ad85de886 on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+0xba357f63056c63e71959babfa4f3f89ad85de886 we have already seen it, so by transity, it is link to those already identify
 
 0xe2137651aa80a4bb37cdf381ff113114a3697f7e
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850524/l49a9v3yokym7z2uv4ma.png)
-0xc6e793c6457cdd70555e6bc9828ffb561ca269cc on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+0xc6e793c6457cdd70555e6bc9828ffb561ca269cc we have already seen it, so by transity, it is link to those already identify
 
 0x524188735e048fc292b021434c75550b244de471
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850525/c8bbd9nrpwujzf4tvfio.png)
-0xb281d4da1620bdce9b1236d8b693c238af150b2a on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+0xb281d4da1620bdce9b1236d8b693c238af150b2a we have already seen it, so by transity, it is link to those already identify
 
 0x563fbba79fc6b7a710e3545d0c251dc32ba1fccb
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850527/coq6gya2pzcyvfncehre.png)
@@ -3943,15 +3956,17 @@ Ressemble à celels vu toute à l’heure à un jour près a voir ce qu’on tro
 
 0x97d9e85bbe539f49915490f8bcadb1dc8da80c6a
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850528/ajiyxxk9qhstvmaukzra.png)
-0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892 on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892 we have already seen it, so by transity, it is link to those already identify
 0x26f275d27c3a66ccc54e7cdaf484f48283ae0ec0 same.
 
 0x6d7d0c9207bb2ea136c95ce153abe35e51caad37
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850530/kl44l7cycoipfejrvsa7.png)
-Déja identifié
+Already noticed
 
 0x3d03ce276e9da9bc027c4b1a3c272a02e3c5cfa6
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850531/c3sjnhsvjwoefipauaci.png)
+
+Sepolia testnet bridge
 
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850533/ljxolz9ffzaeg3c5fghr.png)
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716850535/urdxlxtv0r11r9d030uj.png)
@@ -4006,7 +4021,6 @@ zksync
 23 0xff89ea6275406ae7d3ea2ae87f1db3476a5e57c8 2024-02-28 2023-09-30 
 24 0x5d364d28c42ea5feabab39165356e5802ff07015 2024-02-27 2023-09-30
 ```
-
 
 
 </details>
