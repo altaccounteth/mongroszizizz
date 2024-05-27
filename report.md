@@ -3071,6 +3071,14 @@ For the wallets that did not have a Stargate transaction before the OMni X one (
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c590a8b8-a354-43db-8edc-53b150fb03a4)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2a4dac7f-6701-4c1a-a388-581d033df162)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/44b31cac-83de-4fff-aeb3-526750994d04)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f83ae03e-6c60-4340-aed7-b1d4f887c8d3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/72def873-33e3-411f-94e6-b22bf9467e69)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/76056bcf-473b-471d-8893-a9a1ce369be7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/edfb5483-eb57-417e-9e92-8b39da07f02f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/109d6ff1-77b3-4146-9533-6454c519f049)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1a423937-37b1-4155-a7c7-917382eb689b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b05c6aa7-bf49-460c-a54f-b6ca042ff3ab)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fd50fa26-17b6-4998-a3ec-4d02d76b733a)
 
 
 
