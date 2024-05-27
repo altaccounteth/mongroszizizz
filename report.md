@@ -3446,7 +3446,74 @@ There is a Stargate transaction from 2 months ago between two Merkly transaction
 </details>
 
 ## Cluster 26
-<details></details>
+
+15 linked cex wallet deposit OKX
+0x838A9b0270bEa444E0268464E7e178337721F33F
+
+```
+0x2c1fe28d9025c436fa9332bbcb3065d9108106bb
+0xb0d9791bc4fb96a5efd342fe7637dba42bd1c33a
+0x3ebc0b58f1a24381ef63d972a67412eaec96f1c7
+0x09671e6abe947c26b37c26ff6713211409a62c0e
+0x42336f5828270acbf33891b9b7bb0a231e750000
+0x2340220b8de22ddcf36e128f03ec2eda42a19081
+0x54c5dbbd063793afaa5643cfc103cb825cc1001e
+0xc8d6d3ab0880af69adfa3bdede290584018aaa72
+0xa0f8f114f3ce69abe93bcf7661ab17615564933c
+0xb6c6620a398fe658a236f526e8f7a8e1d91ac74f
+0xaaf19920c876997184d370c8a26afc81e0f53069
+0x3e1ca33b00314691c910519126c14cb636b156b4
+0x329bbee2be26fa6a18a469690081ec7f1dc92256
+0x18d8f615790a9bc7277a0c7888627c26f98a6a71
+0x6c7c5830f7278cdf75b2c9aed6022c99b43bf063
+0xf86d9def2488eb81570ad0f8c3309e3611d65de8
+0x9a1b60e68f13927dc64b22657e162d2b1ff6066f
+0x27c0c6d39fd6412b4fbe8a0f1b2d752baf8898f7
+0x6b5f7f0758f9267a23f7cd4f999c7a5236c5e38c
+0xb820c484bac96f6569ee7cbc32f5e5f4845b3ee5
+0xa26976292ae8cc8d5fb877a0c204404bf8deb399
+0x7b9338e8439296a2bc1512130fda03e3a6d3c822
+0x5ff4e80c345eb0b582cd512a10bcc0698e884032
+0x271fed2c756f87fbba4ff0874c4924b6813db589
+0xe8d604527f6ce050ba012e180f5b492820682575
+```
+
+<details>
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/a85a529a-bd08-46d4-a7f3-2a11fcdc4232)
+
+
+https://platform.arkhamintelligence.com/visualizer/entity/0x838A9b0270bEa444E0268464E7e178337721F33F,0x2c1FE28d9025c436Fa9332BbcB3065D9108106BB,0xb0D9791BC4fb96A5efd342FE7637dBa42bd1C33a,0x3ebc0B58F1A24381EF63d972a67412EaEC96f1C7,0x09671E6AbE947C26b37C26ff6713211409a62C0E,0x42336f5828270aCBF33891b9B7BB0A231E750000,0x2340220b8DE22dDCF36e128F03EC2Eda42a19081,0x54c5DBBD063793aFAa5643Cfc103Cb825cC1001e,0xC8D6d3AB0880aF69adFa3bDEde290584018AAA72,0xa0f8F114F3cE69ABe93bCf7661ab17615564933C,0xb6c6620a398fe658A236f526e8F7A8E1D91aC74F,0xaAf19920c876997184d370c8a26Afc81e0F53069,0x3E1ca33B00314691c910519126c14cB636B156b4,0x329BBEe2Be26Fa6A18a469690081Ec7F1DC92256,0x18d8f615790a9bc7277A0C7888627c26f98A6A71,0x6C7C5830F7278CDF75B2C9AEd6022c99B43BF063,0xf86d9def2488eB81570Ad0F8C3309e3611d65De8,0x9A1b60e68F13927dc64b22657e162D2B1FF6066F,0x27C0c6D39fd6412b4fBe8a0f1b2d752bAf8898f7,0x6B5f7f0758f9267A23F7cD4F999C7a5236c5E38c,0xb820C484BAc96f6569Ee7cbC32f5e5F4845b3ee5,0xA26976292Ae8Cc8D5FB877A0c204404Bf8DEB399,0x7b9338E8439296A2Bc1512130FDa03E3a6d3C822,0x5Ff4e80C345Eb0b582cd512A10bCc0698e884032,0x271FED2c756f87fBBa4FF0874C4924B6813DB589,0xe8D604527f6CE050Ba012e180f5B492820682575?flow=self&positions=%7B%220x54c5DBBD063793aFAa5643Cfc103Cb825cC1001e%22%3A%7B%22fx%22%3A-7%2C%22fy%22%3A-59%7D%2C%220x2340220b8DE22dDCF36e128F03EC2Eda42a19081%22%3A%7B%22fx%22%3A-24%2C%22fy%22%3A-60%7D%2C%220x6B5f7f0758f9267A23F7cD4F999C7a5236c5E38c%22%3A%7B%22fx%22%3A-39%2C%22fy%22%3A-56%7D%2C%220x7b9338E8439296A2Bc1512130FDa03E3a6d3C822%22%3A%7B%22fx%22%3A-12%2C%22fy%22%3A-11%7D%2C%220x27C0c6D39fd6412b4fBe8a0f1b2d752bAf8898f7%22%3A%7B%22fx%22%3A-48%2C%22fy%22%3A-44%7D%2C%220xC8D6d3AB0880aF69adFa3bDEde290584018AAA72%22%3A%7B%22fx%22%3A-56%2C%22fy%22%3A-30%7D%2C%220xa0f8F114F3cE69ABe93bCf7661ab17615564933C%22%3A%7B%22fx%22%3A-57%2C%22fy%22%3A-17%7D%2C%220xb6c6620a398fe658A236f526e8F7A8E1D91aC74F%22%3A%7B%22fx%22%3A-54%2C%22fy%22%3A-4%7D%2C%220x42336f5828270aCBF33891b9B7BB0A231E750000%22%3A%7B%22fx%22%3A-47%2C%22fy%22%3A6%7D%2C%220x3E1ca33B00314691c910519126c14cB636B156b4%22%3A%7B%22fx%22%3A-40%2C%22fy%22%3A17%7D%2C%220xf86d9def2488eB81570Ad0F8C3309e3611d65De8%22%3A%7B%22fx%22%3A-33%2C%22fy%22%3A-37%7D%2C%220xb0D9791BC4fb96A5efd342FE7637dBa42bd1C33a%22%3A%7B%22fx%22%3A-5%2C%22fy%22%3A-39%7D%2C%220x3ebc0B58F1A24381EF63d972a67412EaEC96f1C7%22%3A%7B%22fx%22%3A7%2C%22fy%22%3A-54%7D%2C%220xA26976292Ae8Cc8D5FB877A0c204404Bf8DEB399%22%3A%7B%22fx%22%3A22%2C%22fy%22%3A-46%7D%2C%220x18d8f615790a9bc7277A0C7888627c26f98A6A71%22%3A%7B%22fx%22%3A36%2C%22fy%22%3A-36%7D%2C%220x329BBEe2Be26Fa6A18a469690081Ec7F1DC92256%22%3A%7B%22fx%22%3A40%2C%22fy%22%3A-19%7D%2C%220x5Ff4e80C345Eb0b582cd512A10bCc0698e884032%22%3A%7B%22fx%22%3A42%2C%22fy%22%3A-4%7D%2C%220x6C7C5830F7278CDF75B2C9AEd6022c99B43BF063%22%3A%7B%22fx%22%3A39%2C%22fy%22%3A8%7D%2C%220xe8D604527f6CE050Ba012e180f5B492820682575%22%3A%7B%22fx%22%3A30%2C%22fy%22%3A18%7D%2C%220xb820C484BAc96f6569Ee7cbC32f5e5F4845b3ee5%22%3A%7B%22fx%22%3A18%2C%22fy%22%3A25%7D%2C%220x2c1FE28d9025c436Fa9332BbcB3065D9108106BB%22%3A%7B%22fx%22%3A-29%2C%22fy%22%3A2%7D%2C%220xaAf19920c876997184d370c8a26Afc81e0F53069%22%3A%7B%22fx%22%3A-27%2C%22fy%22%3A25%7D%2C%220x9A1b60e68F13927dc64b22657e162D2B1FF6066F%22%3A%7B%22fx%22%3A-13%2C%22fy%22%3A27%7D%2C%220x09671E6AbE947C26b37C26ff6713211409a62C0E%22%3A%7B%22fx%22%3A3%2C%22fy%22%3A28%7D%2C%220x271FED2c756f87fBBa4FF0874C4924B6813DB589%22%3A%7B%22fx%22%3A19%2C%22fy%22%3A-23%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+25 wallets, ranging from 600k to 1.3M, all utilized the Aptos Bridge on the same day, with transfers originating either from Arbitrum (Arbi) or Optimism (OP) and terminating on Aptos.
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/85dcf0b3-7c57-4685-ab9f-c7d8d533019d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e660bc37-609b-409a-a23c-1d3faa74706f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/763cbd00-1563-4afa-b1c4-6d741dbf7696)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/24f9c9b8-eeb9-4e56-a999-07bb67121dbb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/04bef2fa-7ac8-43db-96f5-270cc29ed949)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f56a28d5-fb51-4e71-b7dd-02cd6c33a414)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/78202401-d4a9-4e26-b3d8-42d1088405df)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/512d487c-1b7e-4a5a-82f2-78c5684edbaf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/14acc368-df63-4685-82df-bafbb9da1722)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1f02d1e5-925e-41b3-abd3-5d38fe1a4280)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/c5f76c61-18f2-4224-af30-cd83fc9d8dd3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/a93b9875-9123-4518-8c08-424450f17e05)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/990f1ca7-4952-4520-801e-d4642e994ada)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fe4d9b41-0845-4c80-806c-43d3c24a3eaa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/6fc7c7f0-4800-4af4-8dd7-609a0ee36e0c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/018ad7f8-bc6f-48fc-a405-33fcde5c07ed)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b1437afe-80ee-45bc-ab8e-33ede9558e59)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/731adabf-db03-4bf2-9b22-155e58c91078)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/55264d9e-e5be-478f-8520-b3fbbb964505)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/dc617967-c85c-42a6-ab48-3b0506a48821)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/88520e05-54eb-4beb-8bb0-08dcb2b9b146)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/714732b7-a28f-444b-a422-b2161f87d845)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fcf5189a-0614-4e65-bc09-edbf578de357)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/25a49b4e-3d64-461d-b8d0-2901068997ca)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/0fd5b7d3-731f-4e68-9b52-732f1a2d567c)
+
+  
+</details>
 
 ## Cluster 27
 <details></details>
