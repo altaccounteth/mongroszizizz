@@ -3680,7 +3680,57 @@ On a une qui n'échangent avec personne (0x4403901829bd5dbcc0dc0b8ef2aa8ef173efa
 (0xa4068acc31fcff871966afe6290f54de681b3af0, 0x4403901829bd5dbcc0dc0b8ef2aa8ef173efaa27)
 ![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/cfa0d081-c230-405b-983a-10440b392d80)
 0x69e9e57a8934bad2dc1d9647da60fc891234c586
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/027aa402-60bf-4cd4-a02e-f7963889b652)
 0x18d850d35fcb63cdf95e317a747d515a4429f37b qui est dans le cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f3bbb0ee-4e90-40c4-9d61-6b50c050dd77)
+0x3c9f0a4e5c7c987dde1f3ef8abf4a40dc8380377 qui est dans le cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2b69be55-f63a-4b66-b1c0-0e47280dd798)
+0xb281d4da1620bdce9b1236d8b693c238af150b2a qui est dans le cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/50dcda1c-cc51-4615-9941-6946fd128535)
+0xba357f63056c63e71959babfa4f3f89ad85de886 qui est dans le cluster
+
+0xf1f49950f21646bd0d0eb74393aeacc3eea84104
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/adb88242-4e69-4c24-99e8-c6cdebaafdd3)
+La première on l’avait déja parcouru et la deuxième 0xff89ea6275406ae7d3ea2ae87f1db3476a5e57c8 est dans le cluster.
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/aeec204e-2a67-49e1-a812-1f0df659e4d6)
+0x733ef3b73175bf2bb87c8402ec87c87945f201f7 dans le cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/aa8a94e0-4153-4e48-9c84-371948d4fcf6)
+0xc6e793c6457cdd70555e6bc9828ffb561ca269cc dans le cluster
+
+0x4f772ebb54226a001486d92cba2bbdcb7f9b63e5
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d0f37521-51f3-4c03-8015-e1aa6eb1f973)
+0x9d04d73855e50558d1a3a150e6d562dc84cdb9b4 on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dcbcd0fa-dece-4345-a929-b36529c7f6cb)
+0x4f9a84aea72d72886453c125f3a14e10f8f6e86b dans le cluster.
+
+0x95503b5a3cdf8b5929108e4cbcf661f8abfc8095
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/786cd2b8-41dc-4b3d-91dc-51ec1850b908)
+0xba357f63056c63e71959babfa4f3f89ad85de886 on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+
+0xe2137651aa80a4bb37cdf381ff113114a3697f7e
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/94f2582c-3e92-46b7-a246-435fb8eac4dd)
+0xc6e793c6457cdd70555e6bc9828ffb561ca269cc on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+
+0x524188735e048fc292b021434c75550b244de471
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d67b171e-421c-4613-ad20-ec503064b2d3)
+0xb281d4da1620bdce9b1236d8b693c238af150b2a on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+
+0x563fbba79fc6b7a710e3545d0c251dc32ba1fccb
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d0add85-ab9f-474e-8420-8a4c55988220)
+Ressemble à celels vu toute à l’heure à un jour près a voir ce qu’on trouve avec LZ Scan
+
+0x97d9e85bbe539f49915490f8bcadb1dc8da80c6a
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f0e44e41-777f-4fa0-ac58-68ef97eb8391)
+0x4f6d12ea2fb49908cc81f9e5476ef1055ae29892 on l’avait déja parcourue, ainsi par transitivité, elle est relié à tous celles déja identifier.
+0x26f275d27c3a66ccc54e7cdaf484f48283ae0ec0 same.
+
+0x6d7d0c9207bb2ea136c95ce153abe35e51caad37
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a9e51b3f-48d1-4b6a-b3cb-3eee70f528ca)
+Déja identifié
+
+0x3d03ce276e9da9bc027c4b1a3c272a02e3c5cfa6
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e90574c8-15d0-40e1-9b68-cbd1605d021d)
+
 
 </details>
 
