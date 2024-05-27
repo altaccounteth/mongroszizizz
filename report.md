@@ -3516,7 +3516,70 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x838A9b0270bEa444E026
 </details>
 
 ## Cluster 27
-<details></details>
+
+7 linked 
+0x888c7fc7dFced7b23F20D621a4496fb1BdBa0568
+
+```
+0x39ed2edc4eecbaf67d301915d41718a2453ce81e
+0xedda713a5875df7af78ba6907e3a8f3299ae58dd
+0x70d912fb0315c94693a66f1e7384c593594bf476
+0x53630aa134efbfba925938ada988922bbab42443
+0x5d9179c204655d562b8e6fb6faa3c1693725101d
+0x4c30d8ee462240f927dd94c5a214784594b0b58e
+0x139b0bf3426f35aa4fa807d88e181f6c6de5e01f
+0x1865286096e66f464261f4f2aa1b5311fc0ce2f5
+0x18936900603b18d12f2dbbeab558468fdfde5a7b
+0x1b5505a22057f68136d5938156b71e6a385df533
+0x4ab4bae5c75155716fda8ec7704a29e38525eb82
+0x7965eb18c68f26f01db9677bd61e656a79217dc0
+0x897cb796c5d296b4a32d8e0604b23947d9b29c8d
+0x75be24119348435d29d45f2182624ba4104d7920
+0x7f41ce43077b02906d30961f2053ac1a57e10b6a
+0xb4560bc65ba37f84f65c2f71c70d0815d356818f
+0x789e4be4e102a0a69e6d793969ae5a1ba8173586
+0xd1df2ff3dbcbdbb0ef9fc896944fd026801829f5
+0xd6b0a3a1c174abd461decaba5ff0eff50d6f8071
+0x69866b4c6839ea8c44b36bbd63e617528d703af1
+0x6288a8705124658586a5414c915c6d89e3dc7e59
+```
+
+<details>
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/340ff8b2-8540-4398-8463-036b4e0c2466)
+
+https://platform.arkhamintelligence.com/visualizer/entity/0x888c7fc7dFced7b23F20D621a4496fb1BdBa0568,0x39eD2eDC4eEcbaF67D301915d41718a2453CE81E,0xEDdA713a5875df7Af78Ba6907e3A8F3299aE58DD,0x70d912Fb0315C94693a66F1e7384C593594bF476,0x53630aa134efbfbA925938ADA988922bbab42443,0x5D9179C204655d562b8e6fB6fAA3c1693725101d,0x4C30d8EE462240f927dd94C5A214784594B0b58e,0x139b0BF3426F35aa4FA807d88e181f6C6dE5E01F,0x1865286096E66f464261f4f2aA1B5311fC0CE2f5,0x18936900603B18d12F2dBbEAb558468fDfDE5A7B,0x1B5505a22057f68136D5938156B71E6A385DF533,0x4ab4bAE5c75155716fDA8EC7704A29e38525Eb82,0x7965eB18c68F26f01DB9677bd61E656a79217Dc0,0x897CB796c5D296b4A32d8E0604B23947d9b29c8D,0x75BE24119348435d29D45f2182624ba4104D7920,0x7F41Ce43077b02906d30961F2053AC1a57E10b6a,0xb4560Bc65BA37F84f65c2F71C70d0815d356818f,0x789e4Be4e102A0A69e6D793969ae5A1Ba8173586,0xd1Df2ff3dBCbdbb0eF9fC896944fD026801829f5,0xD6b0a3A1c174ABD461DecaBa5fF0efF50d6F8071,0x69866b4C6839Ea8c44b36bBD63E617528D703AF1,0x6288a8705124658586A5414C915c6d89e3dc7e59?flow=self&positions=%7B%220x6288a8705124658586A5414C915c6d89e3dc7e59%22%3A%7B%22fx%22%3A8%2C%22fy%22%3A-60%7D%2C%220x5D9179C204655d562b8e6fB6fAA3c1693725101d%22%3A%7B%22fx%22%3A30%2C%22fy%22%3A-53%7D%2C%220x75BE24119348435d29D45f2182624ba4104D7920%22%3A%7B%22fx%22%3A43%2C%22fy%22%3A-40%7D%2C%220x4C30d8EE462240f927dd94C5A214784594B0b58e%22%3A%7B%22fx%22%3A48%2C%22fy%22%3A-26%7D%2C%220x18936900603B18d12F2dBbEAb558468fDfDE5A7B%22%3A%7B%22fx%22%3A52%2C%22fy%22%3A-12%7D%2C%220x888c7fc7dFced7b23F20D621a4496fb1BdBa0568%22%3A%7B%22fx%22%3A52%2C%22fy%22%3A2%7D%2C%220x1B5505a22057f68136D5938156B71E6A385DF533%22%3A%7B%22fx%22%3A48%2C%22fy%22%3A13%7D%2C%220x789e4Be4e102A0A69e6D793969ae5A1Ba8173586%22%3A%7B%22fx%22%3A37%2C%22fy%22%3A24%7D%2C%220xD6b0a3A1c174ABD461DecaBa5fF0efF50d6F8071%22%3A%7B%22fx%22%3A24%2C%22fy%22%3A30%7D%2C%220x139b0BF3426F35aa4FA807d88e181f6C6dE5E01F%22%3A%7B%22fx%22%3A-6%2C%22fy%22%3A-58%7D%2C%220xb4560Bc65BA37F84f65c2F71C70d0815d356818f%22%3A%7B%22fx%22%3A-20%2C%22fy%22%3A-49%7D%2C%220x7F41Ce43077b02906d30961F2053AC1a57E10b6a%22%3A%7B%22fx%22%3A-26%2C%22fy%22%3A-37%7D%2C%220x897CB796c5D296b4A32d8E0604B23947d9b29c8D%22%3A%7B%22fx%22%3A-30%2C%22fy%22%3A-24%7D%2C%220x70d912Fb0315C94693a66F1e7384C593594bF476%22%3A%7B%22fx%22%3A-31%2C%22fy%22%3A-10%7D%2C%220xd1Df2ff3dBCbdbb0eF9fC896944fD026801829f5%22%3A%7B%22fx%22%3A-26%2C%22fy%22%3A2%7D%2C%220x53630aa134efbfbA925938ADA988922bbab42443%22%3A%7B%22fx%22%3A34%2C%22fy%22%3A-20%7D%2C%220x69866b4C6839Ea8c44b36bBD63E617528D703AF1%22%3A%7B%22fx%22%3A-17%2C%22fy%22%3A15%7D%2C%220x7965eB18c68F26f01DB9677bd61E656a79217Dc0%22%3A%7B%22fx%22%3A9%2C%22fy%22%3A27%7D%2C%220xEDdA713a5875df7Af78Ba6907e3A8F3299aE58DD%22%3A%7B%22fx%22%3A8%2C%22fy%22%3A-26%7D%2C%220x4ab4bAE5c75155716fDA8EC7704A29e38525Eb82%22%3A%7B%22fx%22%3A-4%2C%22fy%22%3A23%7D%2C%220x39eD2eDC4eEcbaF67D301915d41718a2453CE81E%22%3A%7B%22fx%22%3A19%2C%22fy%22%3A9%7D%2C%220x1865286096E66f464261f4f2aA1B5311fC0CE2f5%22%3A%7B%22fx%22%3A-4%2C%22fy%22%3A-8%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+
+21 addresses ranked from 270k to 850k
+
+LZ day: 8 at 234, 5 at 237, and 6 at 239.
+
+According to Debank, they all have $1 or $2 maximum on Stargate on BNB. Additionally, they all executed identical transactions on the same day, involving similar amounts to buy STG on Slingshot and lock them on Stargate.
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/a7e9827e-c664-45fb-b3cb-a7597c06c02d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/7dc49680-b2b2-4413-b29b-96dfb9b1df79)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/040f04fc-679e-4af0-9e3d-c5df728b2ae2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5ec069cd-699b-4987-8910-3661ba5e8445)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/49412d96-057b-4d78-9c76-1f748aec4d8c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/aa742e8d-e5af-4d0e-80cd-3acf4988759b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f10907d1-d7ae-4695-83eb-23bf290ba6c3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/374eb1e1-ef3f-4c8b-a1e4-64d82341f887)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3dcd0d7b-711e-478c-b7bc-bca049ee6c48)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/64d1e96c-ae85-421e-87b4-931491927e36)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3b9fc227-f7da-40ed-82bc-a49646ac76cb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/740e2b70-c7cb-4d04-93ec-18bb71487e05)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/688832f0-60dd-4eea-9a9b-1e31382ac004)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f4e6cf04-6815-4fcb-acb3-1c2bc9be1905)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5dbfcb3e-6471-4c45-80a9-e4a0af89d8ae)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f37f1b9c-ee31-47d1-95b8-c1350870ae27)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/ea90cbfb-fcb1-48d0-a93d-842f440b9c1b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5ed0ec6a-2c85-4e97-8e23-bffb5ee2657f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/6ff3683f-2353-41bb-b64b-635e9df6410a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/de6f80d8-a3de-48ed-9fc5-ba922e824a28)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/aced9926-0487-4908-a714-e85c8e91257c)
+
+
+
+</details>
 
 ## Cluster 28
 <details></details>
