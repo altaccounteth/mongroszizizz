@@ -1,5 +1,5 @@
 This report consolidates 20 clusters of addresses into a single document for practicality. 
-MABITE JE SUIS TOUT NU
+
 Each cluster is independent, with detailed arguments provided as to why each qualifies as a Sybil cluster potentially detrimental to the Layer Zero project. 
 This report format is inspired by the one shared by Bryan on Twitter on May 24, though the **clusters are solely derived from my personal research**. 
 
