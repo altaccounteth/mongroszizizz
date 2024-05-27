@@ -1618,6 +1618,8 @@ Linea Native bridge same date
 0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b
 ```
 
+
+
 <details>
   
 
@@ -1627,6 +1629,13 @@ https://platform.arkhamintelligence.com/visualizer/entity/0x390ca2DF6A0B8607B81E
 
 Layerzerodays
 ![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840053/kfwoeaiqp4hg1iyapsis.png)
+
+
+
+Same transaction on Orderly with the same source chain, same possible start date suitable for 18 out of 20 wallets, and the other date suitable for the remaining two wallets (but linked to cex deposit address):
+
+
+
 
 Linea native bridge
 
@@ -1653,10 +1662,6 @@ Linea native bridge
 22 0x391ecebb351714ec949795f63d093b05a124c3a2 2023-07-23 
 23 0x7aa819e41693e9f435ec7da54e8cfd08d03dba6b 2023-07-23 
 ```
-
-Same CEX deposit on ZK airdrop 
-![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840055/vsj7ym284tm0poomfokc.png)
-![image](http://res.cloudinary.com/di6higy77/image/upload/v1716840056/lfyhgjsvpehcnkgly0rp.png)
 
 
 </details>
