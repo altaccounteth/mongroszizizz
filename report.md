@@ -3185,10 +3185,193 @@ Finally, many addresses have APTOS Bridge transactions in common, on close dates
 </details>
 
 ## Cluster 24 
-<details></details>
+
+ALL LINKED TO SAME CEX DEPOSIT ADDRESS (Binance)
+0x262D078F1992c69e262702091e87a4264163EFc4
+
+```
+0xc38ef02b2bd402abb636b25c357363dc1d72778d
+0xc3bab196e6e7d7ad96d015d929ffb89092b3787a
+0x3affc191c8ebcaf8ce6223af19dac32f14fce1da
+0xeca6f41e19515abd044d0908658d94b4e1cd4f50
+0x43a44db9aca6d3d24accdb896010fc2564c5460b
+0x8b6addb0fabccd670209514418d64cb1b7054fcc
+0xd4ea9478ea1d7ea32d4ffb1ea60806738f37ca86
+0x6dcebcfc394f9a2dc97c608f622ae9a9f95ef17a
+0x113cb8839465b288ecbfe029fdd7a863569994b9
+0x062ee106ee7357a9aace9f6ed943a3150e80dd9a
+0x9f21587a29c5396f78b40c3db04e29445dd0cca0
+0xc1524b6852275fe05d78efa22df107f180775e28
+0xfbade72509f3e60ddbceab82af68255630de72e8
+0xbcc6a551c78ab65f99b10a487cccb1ca832badc2
+0xdf28b746de984279d4ff9f29283e4c09ece75e50
+0xd436f298ccfa39a7f1a55ae78df326dd75716bcd
+0x1d6f018cfc832e2f09466a184cb3e781d11ce5c1
+0x1423f0fb45bec4cd4f84599a0bda7ab0c502138a
+0xd735d490b7169e3a3f6fe25e0875f9686fb425ea
+0xfc676a4e5ce0a3cf65669f37e9ebd301efeed2d4
+0x922745fe9ac1e9467e8b2d57f80fddd49961933a
+0xb5dc80fce25f5d38dfa1d8b97f6bbf8c769d5a73
+0x2538a4fc329da01340990461d2d357086aabdd55
+0x08d28455f55bc83d100c934e62bf66aedf307659
+0xd75368c11af7b7df4d67e9f123f54f1a331fda19
+0x911e6c4e67119c7ea9915fe07aa24be5732c3a47
+0xc4ae6ece3c4eafdc26f6c83044b5e881932a1152
+0x7974925f460182ce7bcead10c7c0c81ae38b7c86
+0x5fbb35a9949623357028c707f1d84040a5db0369
+0xd10dfe34ebf963ad2519dc0fd5f6bffca6effe51
+0x73c3de7be6349d201d709862e5a4002897eb0a8f
+0xeb0b0ffb7de50613380ed2da39af397ff568ba43
+0x7287c77dd1059193c464ddc4631faff175a9986b
+0x9170075d875db55d1753f1782d978840dfa0f112
+0x9333a6aeb69301d72a1ac06aae4156f2c011de23
+0xef1320e6cddf67a7adfcd08acac821a1617dc147
+0x7f17b443df49c03cd5a44eaadc96bc01c1162f08
+0x918e6c4d06595cd563eee33876168969a2f24759
+0x393f40e48b3924a18365fda57fa0f7b6178140ce
+0x0926b01d2f778389a7d21a9d584978d0819b1c31
+0x8ad8eb7817dad784e5e19ae2ae852b9adb1dc741
+0x8e4cc79d57291fb1fc1bfe1b9f48d21cc3ba8092
+0x61874c6ecf80650858e8cb7c7a650e6f6daefd18
+```
+
+
+<details>
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/6d068df8-def4-4ff4-a5b3-6743011a8f44)
+
+
+
+https://platform.arkhamintelligence.com/visualizer/entity/0x262D078F1992c69e262702091e87a4264163EFc4,0xc38ef02b2bd402abb636b25c357363dc1d72778d,0xc3bab196e6e7d7ad96d015d929ffb89092b3787a,0x3affc191c8ebcaf8ce6223af19dac32f14fce1da,0xeca6f41e19515abd044d0908658d94b4e1cd4f50,0x43a44db9aca6d3d24accdb896010fc2564c5460b,0x8b6addb0fabccd670209514418d64cb1b7054fcc,0xd4ea9478ea1d7ea32d4ffb1ea60806738f37ca86,0x6dcebcfc394f9a2dc97c608f622ae9a9f95ef17a,0x113cb8839465b288ecbfe029fdd7a863569994b9,0x062ee106ee7357a9aace9f6ed943a3150e80dd9a,0x9f21587a29c5396f78b40c3db04e29445dd0cca0,0xc1524b6852275fe05d78efa22df107f180775e28,0xfbade72509f3e60ddbceab82af68255630de72e8,0xbcc6a551c78ab65f99b10a487cccb1ca832badc2,0xdf28b746de984279d4ff9f29283e4c09ece75e50,0xd436f298ccfa39a7f1a55ae78df326dd75716bcd,0x1d6f018cfc832e2f09466a184cb3e781d11ce5c1,0x1423f0fb45bec4cd4f84599a0bda7ab0c502138a,0xd735d490b7169e3a3f6fe25e0875f9686fb425ea,0xfc676a4e5ce0a3cf65669f37e9ebd301efeed2d4,0x922745fe9ac1e9467e8b2d57f80fddd49961933a,0xb5dc80fce25f5d38dfa1d8b97f6bbf8c769d5a73,0x2538a4fc329da01340990461d2d357086aabdd55,0x08d28455f55bc83d100c934e62bf66aedf307659,0xd75368c11af7b7df4d67e9f123f54f1a331fda19,0x911e6c4e67119c7ea9915fe07aa24be5732c3a47,0xc4ae6ece3c4eafdc26f6c83044b5e881932a1152,0x7974925f460182ce7bcead10c7c0c81ae38b7c86,0x5fbb35a9949623357028c707f1d84040a5db0369,0xd10dfe34ebf963ad2519dc0fd5f6bffca6effe51,0x73c3de7be6349d201d709862e5a4002897eb0a8f,0xeb0b0ffb7de50613380ed2da39af397ff568ba43,0x7287c77dd1059193c464ddc4631faff175a9986b,0x9170075d875db55d1753f1782d978840dfa0f112,0x9333a6aeb69301d72a1ac06aae4156f2c011de23,0xef1320e6cddf67a7adfcd08acac821a1617dc147,0x7f17b443df49c03cd5a44eaadc96bc01c1162f08,0x918e6c4d06595cd563eee33876168969a2f24759,0x393f40e48b3924a18365fda57fa0f7b6178140ce,0x0926b01d2f778389a7d21a9d584978d0819b1c31,0x8ad8eb7817dad784e5e19ae2ae852b9adb1dc741,0x8e4cc79d57291fb1fc1bfe1b9f48d21cc3ba8092,0x61874c6ecf80650858e8cb7c7a650e6f6daefd18,0xf7609b80fd824559b7db33b056abe4bf0275cde0?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+
+
+44 wallets classés entre 170k et 1,9M
+
+LZ day: 4 à 369, 6 à 371, 13 à 372, 6 à 373, 3 à 374, 6 à 375, 2 à 376, 
+
+
+
+
+USDT transactions on Pancake Swap around the same day and similar pattern for the following wallets:
+
+0xdf28b746de984279d4ff9f29283e4c09ece75e50
+0xd436f298ccfa39a7f1a55ae78df326dd75716bcd
+0xbcc6a551c78ab65f99b10a487cccb1ca832badc2
+0x9f21587a29c5396f78b40c3db04e29445dd0cca0
+0xfbade72509f3e60ddbceab82af68255630de72e8
+0xc1524b6852275fe05d78efa22df107f180775e28
+0x1423f0fb45bec4cd4f84599a0bda7ab0c502138a
+0x5fbb35a9949623357028c707f1d84040a5db0369
+0xd735d490b7169e3a3f6fe25e0875f9686fb425ea
+0xb5dc80fce25f5d38dfa1d8b97f6bbf8c769d5a73
+0x2538a4fc329da01340990461d2d357086aabdd55
+0x7974925f460182ce7bcead10c7c0c81ae38b7c86
+0xd75368c11af7b7df4d67e9f123f54f1a331fda19
+0xc4ae6ece3c4eafdc26f6c83044b5e881932a1152
+0xd10dfe34ebf963ad2519dc0fd5f6bffca6effe51
+0x911e6c4e67119c7ea9915fe07aa24be5732c3a47
+0x393f40e48b3924a18365fda57fa0f7b6178140ce
+0x918e6c4d06595cd563eee33876168969a2f24759
+0x0926b01d2f778389a7d21a9d584978d0819b1c31
+0x7287c77dd1059193c464ddc4631faff175a9986b
+0xeb0b0ffb7de50613380ed2da39af397ff568ba43
+0x9170075d875db55d1753f1782d978840dfa0f112
+0x9333a6aeb69301d72a1ac06aae4156f2c011de23
+0x7f17b443df49c03cd5a44eaadc96bc01c1162f08
+0xef1320e6cddf67a7adfcd08acac821a1617dc147
+0x1d6f018cfc832e2f09466a184cb3e781d11ce5c1
+0xeca6f41e19515abd044d0908658d94b4e1cd4f50
+0xd4ea9478ea1d7ea32d4ffb1ea60806738f37ca86
+0x8b6addb0fabccd670209514418d64cb1b7054fcc
+0x43a44db9aca6d3d24accdb896010fc2564c5460b
+0x6dcebcfc394f9a2dc97c608f622ae9a9f95ef17a
+0xc3bab196e6e7d7ad96d015d929ffb89092b3787a
+0x3affc191c8ebcaf8ce6223af19dac32f14fce1da
+0x01bc3aebbe7352619ebb37fe258036d81475b84c
+
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/7e34b662-a937-4e9e-9421-cd4f619526be)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1edfff0f-2c88-4d93-abe0-0a8d4a3a2048)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/94e7ae51-bcc4-45a2-a797-3a22ec09d9a9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3f845cf5-9604-4b9c-aa9c-4d37fa1cf546)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/7c0b4f7a-be5a-4146-b68d-5477342f804c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b5d324ab-1009-40b4-a7ac-b128791ea5d6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e06e2aba-3e33-4726-b618-9f35d3fbd008)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3281fb10-d587-4eae-ae8a-94c72686f2d5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/924477a1-e67c-403f-8815-f1bc66867008)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/3e836419-7d45-4083-be32-fa11ae0663dd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/057afce1-fb64-490c-8553-843897d1a2c9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/86a6995b-379c-4a7a-8e4a-4b38b97277a7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/a4d98f8e-0fc3-4355-a090-9eaf084d16c4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/9fe86f7c-cae5-49ef-b8bd-cea20373c15b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/30b055cb-8ebc-4ac1-ab3f-6db1c3678b56)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/292d174a-49a3-4628-b2fc-c5c39d014e33)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b4a7b05f-4d59-4100-9b9b-d3318bc5cdcc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/9ea6ea2a-4cf1-4e2e-99d1-d68a85513e6e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/8eb060c2-44db-4c87-be25-34d3c8c9f578)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/c35702dc-1596-4b68-83e8-b61641e9565b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/afcc6ecb-b0d6-43d7-bf3e-95efbcad1668)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/798c9cda-19d6-4b03-97b7-b7f3369e6073)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/05559540-aae3-4bfe-89c1-70592156185f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/040e089d-8a0b-4a76-83f0-6fccab70d4af)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fadf4553-58d2-4755-8cf6-1b32d0e0dacd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/212e85f8-33c2-42f3-b1a4-3b03404f308e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f1473f50-86d6-4ac2-a721-0b15a3644d94)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/1dd2d97a-943b-4116-95c6-e358eaea66c8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/e07471af-cd6c-4b4d-ae5e-8e3692bc86f8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/7b2a9bf0-3a16-4153-b839-ef752ccac5c8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/4e255f14-705e-4d8d-a741-ce0595fd0bae)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/677a8365-227e-448d-bf3b-db28963a0a19)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/01977e2e-ff87-4b8a-a1d0-1443d5640047)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/dc6abf44-3c15-448d-a2b9-f7332fb41764)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/fefeb913-4704-44b7-a25b-4c1b57659aa5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/36bd4a33-54e3-49ac-8ae0-e34b982c0e6b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/736f41b3-134a-40a9-932e-cabadd419cc6)
+
+Additionally, all wallets except for 0x01bc3aebbe7352619ebb37fe258036d81475b84c share a common activity: they used the Harmony bridge from Harmony to BSC between May 17 and May 23. There is one transaction on June 13, but it has the same amount and same source/destination chain. The amounts transferred are nearly always 0.017 ONE.
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5eda88f0-4876-40e6-9aac-02b5ac181044)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/c804151f-31df-4ae2-9bab-4e966320a157)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/b9403d8f-2bb9-4685-883b-1a2e7b820c15)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/f6138cb0-8ebf-4b66-990c-e0af3bec25ac)
+![image](https://github.com/altaccounteth/report_layerzero/assets/170960041/5288df17-d3f0-43fd-b581-7531d1a77b2b)
+
+ETC ETC (they still CEX linked, this is just more obvious arguements)
+
+bsc stg lock
+```
+1 0xe2f7102b63119ee436a80a79a554e5d16954a125 2024-02-27   2023-12-25   2023-02-24   
+2 0x84993422cb9f8ed9cd605c06499d3806bbe606d7 2023-12-25   2023-02-24   
+3 0xcbacba5318efbfcd9b86564d4eca555c1ba0d6de 2023-12-30   2023-02-23   
+4 0x3fdd65ba78d1d94cc8a567404bf28be1dc6029ff 2024-02-29   2023-12-25   2023-02-22   
+5 0x9b6f406875ba9ebd798d156b063909ecbee4ff85 2024-02-29   2023-12-25   2023-02-22   
+6 0x6e0f64bfa3d879abafcbf71dc5252ea40d08ceda 2024-02-29   2023-12-25   2023-02-22   
+7 0x67689bf78640cdfe82b44935ceaf8aa462d60f69 2024-02-29   2023-12-25   2023-02-19   
+8 0xeb52c531a253e4c849fd39b515405f4d6370964e 2024-01-19   2023-02-19   
+9 0x36aa63b68dc4bc4d02d475a9481eee62049eef57 2024-01-19   2023-02-19   
+10 0xb0918acfaeba07c0fa55fc972c56e41a4ade0c70 2024-02-29   2023-12-25   2023-02-19   
+11 0x8768e65712b747fabf39e00e3c07a9d49dfcf677 2023-12-25   2023-02-19   
+12 0x28134f152c2117666d7568889d3b9c54316cf032 2024-02-29   2023-12-25   2023-02-18   
+13 0xeed6a9df7fae961b756cd4576305698f45ca8673 2024-02-28   2023-12-25   2023-02-22   
+14 0xe5195d2faed140e5f24ba67706dc765f353d6d3b 2023-12-27   2023-02-18   
+19 0xcd34cc3569ec6a6ba0e5fecf8841b3d02551a465 2024-02-29   2023-12-27   2023-02-15   
+20 0xb0a2e7a1a6c27b8b6c3b5ea3643c3230c59bd0a9 2024-02-29   2023-12-27   2023-02-17   
+21 0x9d47915995cc40494cc3eebf251758171cfd334a 2024-02-29   2023-12-27   2023-02-18   
+22 0x3584f16cf0182ff810b6b1066361d44f5f38a5a9 2024-02-29   2023-12-27   2023-02-17   
+23 0x341d386cafc5469e65244640f7ecfb3d86084223 2024-02-28   2023-12-25   2023-02-22   
+24 0x591629548d30dbc9c15480a5692e158545efcfce 2024-02-28   2023-12-25   2023-02-22   
+25 0x29f6dd6473dfeafc508f06b487c915017b9e04da 2024-02-28   2023-12-25   2023-02-22   
+```
+
+</details>
+
+
 
 ## Cluster 25
-<details></details>
+
+<details>
+  
+</details>
 
 ## Cluster 26
 <details></details>
