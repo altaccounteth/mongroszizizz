@@ -2492,7 +2492,7 @@ Tous les wallets on lock des STG sur Stagate Arbitrum
 0x84b6cb80d11e16ec9658f37b2099843ef065d272 in the cluster
 ![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d10c995-e011-4645-89e8-beaeccea4b9f)
 
-0x30e0a6ffb5a2030feb67b01529c8709265f474fd in the cluster
+0x30e0a6ffb5a2030feb67b01529c8709265f474fd in the cluster!
 [image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d14daac-7381-4fd0-964e-db2a23d8a0b9)
 
 0xd43bef3ed093b0fc66dddf9b5effde13f0b1e7be in the cluster
@@ -2510,6 +2510,32 @@ Tous les wallets on lock des STG sur Stagate Arbitrum
 We still have 4 addresses from the cluster that have not been reached.
 We will now dig into each one individually:
 
+in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/75f5a153-d161-4506-9a35-1ce3990c1b77)
+
+0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6 sent to 0xc22177ee6a3cf69811a064672e78c4dca3322217 (already review)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/54c0400f-ca0b-4ec5-a84e-ca0fb96ab2f0)
+
+0x8f753462180957fae5352bb68a7b52ab94186271 in the cluster sent to 0x4f2c49987effb3185491435c6b6c299a10545176 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/90a41f7c-dc32-4687-83f5-0d21660b5879)
+
+0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08  in the cluster sent to 0x651527d697829c62f15a86cf993dd515d4ff6154 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bece0c1d-0fa6-4313-8ca4-98b5464d625a)
+
+0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3f
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/65bb83b1-5544-46cc-9e16-b129a07fb340)
+It received from 0x8e2126b6a8988ca61fd01c1af66eea4798a08404, which has already been processed, and sent to 0xd635a7555c23e7c6529f3d759afae86954bc1c0c, who is the second-to-last missing one.
+
+0x8e2126b6a8988ca61fd01c1af66eea4798a08404
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8b2def35-77a3-4600-b63f-fb73a8f8a81a)
+He received from 0xc66cef4b49642f99107ad58bcb01331d39539d27 who is already in the cluster and sent to 0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3, who is also already in the cluster.
+
+Now, I'm just looking for the last address (0xe5515d72ec752441db928e82fb5b9adb07e9843a).
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a9906331-0abb-49cc-964a-1d35860cc6a9)
+
+He had exchanges with 0x3bf80e10d6b84ce68f95293d05847ff6b3110237 and 0xd635a7555c23e7c6529f3d759afae86954bc1c0c, who are in the cluster.
+
+DONE, we have all the wallets, the loop is closed.
 
 ZKEVM native bridge all wallets the same days 
 
