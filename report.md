@@ -126,7 +126,34 @@ This following section is an rotation of the list of the addresses of the cluste
 
 https://platform.arkhamintelligence.com/visualizer/entity/0xc4D0EE5b642D3B429C58CC4D10BDCd92312ac180,0x882668c887286d3dD0EB894A78Eb92798484978d,0xEeD8403B6513c80Bfcedeb8b616796e4b91D1a0b,0xFFEd310bE751FC94780f12884a641a507122cF0E,0x04c17D923Fd9f18f2399E9589aB80Ab62f85B407,0x81077DEA57DecabFBbEB8648aDca22d42D106C8c,0x3B0F2700B69a59DC6D1a9Eb0C0Cf86C5530a0D62,0xB2DdB1F4c1404B9e35ba5c3012119bC0AA4D687E,0x41953a807a5a1dcd1f171f443aF72381fBcC89EB,0xdeF2262AA7c28DEa9aeaF43603Ac2b6913e19deE,0x87a670EA67703D1268d93634EAc67cb8549627a6,0x1bFd59FbC137D6D98416679d0D59eD9f0c2438d6,0x60948B99D47B5d6ae1201252ccf5208990bB55a5,0xc7358117CAf4D922b05bD9892999DA40b1db0356,0x5631326134b98EAc44613Eb469E94d27Bad0FCd5,0x2EeAb694B866120FEe008620D92e4474de17d418,0x3f3cd2A6086c033aa5E39B12243D21C8C210BD72,0x65d07D0F836A976aCfD7847235AEf3259255EB1c,0x388b1782C280b4055318608E1333c5608f382C93,0x4998B45F0cEEbe955dDcE8afdab9233894569559,0xe0D43ED0EA6e8EDD4aeB500Aa922Ab2E11C82807,0x259152761Eafd5c2521FEb3c605105548C2088c0,0x4ddd8828f1C801BBc87061Ba9A5cdd5B94C88938,0x7851D53222a1E85791fDffc96988177Cb5108a30,0xDAFB27190fEC1F2e11B28c7B7239CeF2a580e24B,0xe4447EAd4001adDd3E7E4C27E70a936B7dF68BC1,0xb0240794108Fd89C99BB828C9eBc0e7d9703C2f8?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
-Same tx Holograph, même source chain, même date
+Same tx Holograph, same source chain, same date
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4dfa5b36-d39a-494b-a12c-bd908056c625)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d62aac6d-203f-481c-8c26-1b1dad6fab03)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/64b51a55-c3e9-40b3-9fa6-cc28c943b040)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/16e0ea0c-5b9d-4e02-b9ef-679a0d443b42)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/80425c30-d7b5-45ea-be07-18a8bb28193b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/008ea548-2c81-4010-8428-2bb011a1c305)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b74ab313-cef6-48ec-8bfd-9b491385bba5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e6df22e3-110f-4624-a75b-d3e8b59fb409)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2faab866-a7fe-4d54-82cc-96f7042682ea)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/faa240b1-c390-4fec-a4ea-5bcf9dea6d2e)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bf696d12-d1f2-4d60-bfe0-34c65569d795)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/0bed603c-5a34-4bf8-a0a5-27231bf28ee8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/88b5c5bc-2998-4f37-95b0-3cc72a190dfa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d5363f41-4e9b-478d-b94a-43c7c597c997)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d91031e6-b3f8-49dd-8525-f01955d64da9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e5bea084-94a1-475f-8be8-590891d45a5f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/49aa0db1-26b6-4eab-a954-446e30afa148)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c85c60a2-fa45-41f8-ab8f-f7bf05981b62)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6c0e8357-373d-4430-b5eb-d9332c3cb30b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9a298565-3adb-4e72-9d99-8f58b3be2796)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/018a4be1-c5ae-4926-99b8-376af7a556f3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c36c6cae-fe73-4649-85c3-922506cc2742)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/333b4009-7edc-4a83-b886-240b5a819077)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/cb001db9-af32-4a5e-a20c-62b90b5b241c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f06c7250-f2a2-4cad-9fb2-d147cec3f052)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ec5f8338-1055-499d-a39a-8d3ef920c92c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a1e5e7cd-a550-4536-8d63-0c06128630d7)
 
 
 
