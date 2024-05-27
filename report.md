@@ -1,4 +1,4 @@
-This report consolidates 35 clusters of addresses into a single document for practicality. 
+This report consolidates 30 clusters of addresses into a single document for practicality. 
 
 Each cluster is independent, with detailed arguments provided as to why each qualifies as a Sybil cluster potentially detrimental to the Layer Zero project. 
 This report format is inspired by the one shared by Bryan on Twitter on May 24, though the **clusters are solely derived from my personal research**. 
@@ -68,11 +68,6 @@ I hope you find this analysis useful!
 28. [Cluster 28](#cluster-28)
 29. [Cluster 29](#cluster-29)
 30. [Cluster 30](#cluster-30)
-31. [Cluster 31](#cluster-31)
-32. [Cluster 32](#cluster-32)
-33. [Cluster 33](#cluster-33)
-34. [Cluster 34](#cluster-34)
-35. [Cluster 35](#cluster-35)
 
 </details>
 
