@@ -7,6 +7,10 @@ As a French speaker not fully fluent in English, this report has been translated
 
 # Detailed Methodology
 
+**All my clusters are independent **
+(because the argumentation is done manually and independently).
+
+
 To identify these clusters, I capitalized on a common mistake among Sybil schemes: using the same deposit address on a centralized exchange (CEX). 
 
 I employed SQL queries on Dune Analytics to create a custom dashboard, which helped me find multiple addresses interacting with the same CEX deposit address. I refined my searches to discover wallets interacting with the initially identified addresses, broadening my clusters to include at least 20 wallets for relevance. 
