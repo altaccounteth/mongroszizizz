@@ -1510,6 +1510,14 @@ bsc stg lock
 
 <details>
 
+All addresses are linked by the same CEX deposit wallet. (Binance)
+0xd59Fe06386D34ADb4E54F11945Cf72EaB9C60404
+
+**TLDR**
+Same CEX deposit 
+Same ZKSYNC bridge timestamp 
+ZKSYNC washtrading thanks to Binance deposit address
+
 ```
 0x76f58de66f282b098e92d2e263878c25d711798d
 0x75e840bf2a6a385741c69f239bf5605e5659968c
@@ -1546,6 +1554,19 @@ bsc stg lock
 https://platform.arkhamintelligence.com/visualizer/entity/0xd59Fe06386D34ADb4E54F11945Cf72EaB9C60404,0x76F58De66F282b098e92D2e263878C25d711798d,0x75e840Bf2a6a385741c69f239BF5605e5659968c,0x15130D3cA687e16aaB26DBe64d00110482b3Ac64,0x9b00Ce25837d4E1B1F0Ee8e6fa5029697d7AAe68,0xdFCf5CF0C2d4214Ac92CEb2783303DbC8C3Af687,0x48db6B16dBeA2578696f5ACeB80B0358E3B0D5Af,0x2EdC3e996fA79d5Bd9f4879eF533F09b9f28E4Be,0xF85B691CA9c63CFD72E04d7A4fCEa8c30d15D015,0x27482bB566eC0bB8ceb60efb620EEc54e324D3A0,0x21B429819625Ee1B2963f54CE31bBdBB851E2b62,0xBA7BB922140E3D364CEd86DAF39B58Ca1a4b4B44,0x017A7d6d1dd982Be91a5cB5ec3f39b0525376875,0x78c0A5CA2149f6d8f800Fbe33030867e5962F268,0xB54a60Bc745be730130CA0d232280aec19424966,0x546bdA9fC7013120b6BCF88D87f9C61F289735a9,0xF28D95389E8dCb5a8ef726b2bC1B68505AC15A21,0xE2BAe51D63549a577729C4f6b94C2C0Cf82cB799,0xE170f6Fa50034FCA2b8e245fd7EBD55B95f90D5B,0x519Bab280D2255bbc1A9f53Bc6807F49CB7AEeec,0x77321ba9ea9e588453AB006af4092Dc603eDEc23,0x92E50034439dB73Aab36634CacE1dA45d213C77a,0x842ca458C1E0Ca6F0EB24f87530Be788E18ADc33,0x664Ee8Bdb83358df5bBB5194Ea6b1B4a9104B0e9,0x57dF552d9A9447ef954A305453BcC22Ec4aD5753,0x13C3AD942A09321d033a174453F79F2db47Af874,0x85fC976af1091E95d34538E7250e74d5b20a26Ac,0x6b73CAf86603Ba01f422A5b65ce025417f1876Cd,0x2c1909B9B4Fc32F0c4929558Cc2517d84D429d95?flow=self&positions=%7B%22its-me-emma-dee%22%3A%7B%22fx%22%3A-53%2C%22fy%22%3A-5%7D%2C%220x9b00Ce25837d4E1B1F0Ee8e6fa5029697d7AAe68%22%3A%7B%22fx%22%3A-36%2C%22fy%22%3A6%7D%7D&sortDir=desc&sortKey=time&usdGte=0.1
 
 On chain analysis
+Similar amount on same Binance Cex deposit on same day
+Wash trading volume on ZKSYNC 
+
+For example:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ff1d0696-3c13-43f0-88d8-0188c3795292)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/26760393-d157-462e-9ed8-ac801601d37b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/02e8ccaf-389d-41cf-8db0-729734fb637b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/27223c19-537f-4bc3-9d2a-122c3e1e1d78)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/80000afc-7e78-48c9-8a28-c13480c7d34f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/79913c0f-cc17-4b6d-a0bf-22d6b025d7d4)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e731d9dd-81b0-4e60-a4cc-09a8d61dbd5c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/24be2cc7-f442-4cd8-b4ff-9ba4b94f5b1c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/82df2cd2-acb3-4f54-893a-2e64d3cd1fbd)
 
 
 Similare layer zero days
@@ -1586,6 +1607,7 @@ ZKSYNC Bridge Date very smilar
 </details>
 
 ## Cluster 10
+
 
 <details>
 
