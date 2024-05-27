@@ -2457,6 +2457,58 @@ Tous les wallets on lock des STG sur Stagate Arbitrum
 ```
  let's dig on this argument:
  
+ 0xed99cd1539860f849a0e730434c25b6efb5e5791 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4598fc54-158a-4044-8411-f6109836cf5b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bc5a72f3-63e6-4fa0-91c8-df095037fdb1)
+
+0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ffb16790-89e7-41ea-9530-a18d9afb140f)
+
+0x8f753462180957fae5352bb68a7b52ab94186271 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/eeac7c56-b671-4347-a736-005b6b32e1c1)
+
+0xc177e7ffefaf566d3b3ebb6859c5e47989b74e08 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b1afe811-ff60-4ea4-8fb8-cfee3bfd1a45)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a3c63938-6a36-4b10-9ba0-4956876af794)
+
+0x33915ce1f8a6d32d5be31d4b28474a1b546e1c3f in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/17de9d97-36cd-4d38-8af7-32ab8ef38393)
+
+0x8e2126b6a8988ca61fd01c1af66eea4798a08404 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f69dca3a-beb1-488b-aa42-fb39016694a3)
+
+0xc66cef4b49642f99107ad58bcb01331d39539d27 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ba9b7f1e-d4be-4402-9f71-19f7a7e505b0)
+
+0xc237e0560446124a6c838013c7d95757e2672604 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/486d2bfc-9f5d-455b-bba9-2ad898ca3a1c)
+
+0x899367bdafd942b547b9e0572ace53ad4bdcf7c0 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/947c21d3-4a61-4367-a7da-a356b2f5b991)
+
+0x9f863dc1204c5e8fbe549ee4ae26a00980094fd6 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a50d918-c292-4b05-b38b-4e8a0f8a9120)
+
+0x84b6cb80d11e16ec9658f37b2099843ef065d272 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d10c995-e011-4645-89e8-beaeccea4b9f)
+
+0x30e0a6ffb5a2030feb67b01529c8709265f474fd in the cluster
+[image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5d14daac-7381-4fd0-964e-db2a23d8a0b9)
+
+0xd43bef3ed093b0fc66dddf9b5effde13f0b1e7be in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/152034b3-a216-4f34-96f4-b99650a22f3b)
+
+0xaaad486f27b628dadca71a1a76d976f2c2f2291d in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1229d6c8-1de4-4380-80e7-ad506656fc6a)
+
+0xc22177ee6a3cf69811a064672e78c4dca3322217 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/08ea96ec-1058-4553-a518-f594c5ebeaca)
+
+0x57e11965feb9f73732fbef1a4fd0b9e2bb70ffa6 in the cluster
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/3b4a1081-0108-46bb-83b5-bbb2de8068b8)
+
+We still have 4 addresses from the cluster that have not been reached.
+We will now dig into each one individually:
 
 
 ZKEVM native bridge all wallets the same days 
