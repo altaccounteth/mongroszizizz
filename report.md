@@ -2625,7 +2625,11 @@ polygon stg lock
 36 0xd0261878928ada35a3fc58c9d34caa753b9e6306 2022-12-22   
 37 0x21a9e6f106f4d4247db9462ebf2c9c4241578da7 2022-12-22   
 38 0x93da1d0d77e7483fb199cecd0b2077a58ab9abc1 2022-12-22   
-39 0x300a1410c148458e50fd1eabaabd3cd94a576b20 2023-02-16  
+39 0x300a1410c148458e50fd1eabaabd3cd94a576b20 2023-02-16   
+40 0x1a76d23b5051d6489ffde65b7722ecc40eddd4f7 2023-02-16   
+41 0x7b991594ec3f0128db02cc7affb39d9f7a56fd83 2023-02-16   
+42 0x49e4e78a657bc92566d9aab0b762ec62f25e6a09 2023-02-16   
+43 0x55ff014e09019a4e962b8dd1cf32d4a81f50ada9 2022-12-22 
 ```
 
 
@@ -2635,10 +2639,10 @@ polygon stg lock
 
 <details>
 
-7 first address linked to 0x33e65f576DcA44D4042F386eF932efab4aAD1C9C
+7 first address linked to CEX deposit address (BINANCE)
+0x33e65f576DcA44D4042F386eF932efab4aAD1C9C
 
 ```
-0x33e65f576DcA44D4042F386eF932efab4aAD1C9C
 0x2f91922aa4caba7ae19c1223c0007a1a598dff51
 0xf366adde5b682a8e0d5e4f09663844ea95332f94
 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8
@@ -2662,7 +2666,147 @@ polygon stg lock
 0x7132becef1e3d8d4d9061598c860cae2c86197e6
 ```
 
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/332dd0b9-0e32-4feb-ac39-d3ba76fc69f6)
+
 https://platform.arkhamintelligence.com/visualizer/entity/0x33e65f576DcA44D4042F386eF932efab4aAD1C9C,0x2f91922aa4caba7ae19c1223c0007a1a598dff51,0xf366adde5b682a8e0d5e4f09663844ea95332f94,0xe59e6365e879aebf001de470e3281a4c0d6fb0c8,0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c,0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02,0xbae2a1899e06cab91fb9251db3b2e7d31acdca44,0x19d995a031576e10e3138b92a8523b7b9fb6f6bc,0x767b97aabeb5d46a0b33e862374f24b87a7679a9,0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d,0xcf41fa770b2529d26bdb604cb16d61a65e74ae7a,0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c,0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f,0x7a0604aa59f054f0d25d859c21222afa0086a959,0x445259622cd7453dd92d3c23ec7af004947c73ea,0x3e897e924842dab543f30352afad81e5e4886ef7,0x8f7a5c571816ed31182108a7c3046e75033f4fe0,0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0,0xde1569da8f95de2ccccbfbda7d05ae5bd788a99f,0x8052e45555e66f0de48d195a4aab947578134b4a,0xbcb30d55d932a15f430a5b4553fca71e8aeee57a,0x7132becef1e3d8d4d9061598c860cae2c86197e6?flow=self&positions=%7B%7D&sortDir=desc&sortKey=time&usdGte=0.1
+
+20 wallets ranked between 170,000 and 1,300,000.
+
+Layer0 day: 5 wallets on day 151, 4 on days 251 or 252, 7 on days 504/505.
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d42742e3-1c45-45ec-a2b0-15bfe147ca96)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a16f035e-9c94-46d5-ac28-6348537d0896)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/45749631-47b2-4c0c-80c4-acd5a01f74c6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/6ac95307-dc3d-4dcf-af00-a590a1e7fbbb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/429a5175-0a71-4b18-8f3a-d12123c3b1c3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7aa4d786-ee39-4e3a-98df-f9a4e207ea97)
+
+all addrees : arbi stg lock
+
+```
+1 0x2f91922aa4caba7ae19c1223c0007a1a598dff51 2023-03-30   
+2 0xf366adde5b682a8e0d5e4f09663844ea95332f94 2023-09-17   
+3 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8 2023-09-17   
+4 0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c 2023-03-31   
+5 0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02 2023-09-17   
+6 0xbae2a1899e06cab91fb9251db3b2e7d31acdca44 2023-12-27   
+7 0x19d995a031576e10e3138b92a8523b7b9fb6f6bc 2023-09-17   
+8 0x767b97aabeb5d46a0b33e862374f24b87a7679a9 2023-03-30   
+9 0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d 2023-03-31   
+10 0xcf41fa770b2529d26bdb604cb16d61a65e74ae7a 2024-02-07   
+11 0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c 2023-09-17   
+12 0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f 2023-03-31   
+13 0x7a0604aa59f054f0d25d859c21222afa0086a959 2023-03-31   
+14 0x445259622cd7453dd92d3c23ec7af004947c73ea 2023-03-31   
+15 0x3e897e924842dab543f30352afad81e5e4886ef7 2023-04-09   
+16 0x8f7a5c571816ed31182108a7c3046e75033f4fe0 2024-02-20   
+17 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0 2023-03-31   
+18 0xde1569da8f95de2ccccbfbda7d05ae5bd788a99f 2024-02-20   
+19 0x8052e45555e66f0de48d195a4aab947578134b4a 2023-03-31   
+20 0xbcb30d55d932a15f430a5b4553fca71e8aeee57a 2024-02-07   
+221 0x7132becef1e3d8d4d9061598c860cae2c86197e6 2023-09-17   
+```
+
+zksync native bridge same date !
+
+```
+1 0x2f91922aa4caba7ae19c1223c0007a1a598dff51 2023-09-22 
+2 0xf366adde5b682a8e0d5e4f09663844ea95332f94 2023-09-23 
+3 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8 2023-09-22 2023-09-09 
+4 0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c 2023-09-22 
+5 0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02 2023-09-22 2023-09-09 
+6 0xbae2a1899e06cab91fb9251db3b2e7d31acdca44 2023-09-23 
+7 0x19d995a031576e10e3138b92a8523b7b9fb6f6bc 2023-09-22 2023-09-09 
+8 0x767b97aabeb5d46a0b33e862374f24b87a7679a9 2023-09-23 
+9 0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d 2023-09-22 2023-03-31 
+10 0xcf41fa770b2529d26bdb604cb16d61a65e74ae7a 2023-09-23 
+11 0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c 2023-09-22 2023-09-09 
+12 0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f 2023-09-22 2023-04-01 
+13 0x7a0604aa59f054f0d25d859c21222afa0086a959 2023-09-23 
+14 0x445259622cd7453dd92d3c23ec7af004947c73ea 2023-09-22 2023-04-05 
+15 0x3e897e924842dab543f30352afad81e5e4886ef7 2023-09-23 
+16 0x8f7a5c571816ed31182108a7c3046e75033f4fe0 2023-09-24 
+17 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0 2023-09-22 
+18 0xde1569da8f95de2ccccbfbda7d05ae5bd788a99f 2023-09-24 
+19 0x8052e45555e66f0de48d195a4aab947578134b4a 2023-09-22 
+20 0xbcb30d55d932a15f430a5b4553fca71e8aeee57a 2023-09-23 
+21 0x7132becef1e3d8d4d9061598c860cae2c86197e6 2023-09-22 2023-09-09 
+```
+
+For (0xf366adde5b682a8e0d5e4f09663844ea95332f94, 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8, 0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02, 0x19d995a031576e10e3138b92a8523b7b9fb6f6bc, 0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c, 0x7132becef1e3d8d4d9061598c860cae2c86197e6) that is 6 out of 20 addresses, same date, same amount, same protocol:
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/de07f210-f342-4f98-a4f6-8b9436acd7a1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/84734335-28e0-4526-9311-5952701ddc12)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d8d63be0-41f1-4077-bcbc-9706030a4e2f)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5abe023a-4cb5-4822-a977-aa32fb7de1cb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dce7ad28-04ee-425a-bd25-85ff0fe8fe70)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/893d8eef-8450-4cc5-98c1-dca11d3c6df1)
+
+For (0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c,
+0x2f91922aa4caba7ae19c1223c0007a1a598dff51,
+0x767b97aabeb5d46a0b33e862374f24b87a7679a9,
+0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d,
+0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f,
+0x7a0604aa59f054f0d25d859c21222afa0086a959,
+0x445259622cd7453dd92d3c23ec7af004947c73ea,
+0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0,
+0x8052e45555e66f0de48d195a4aab947578134b4a), which is 9 out of 20 addresses, same amount, same date:
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ac0bada6-b3fa-4bbc-9127-de303c24eb41)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/217030a0-f5c8-483c-87f8-f51ad56697bc)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c6d38176-1b16-4b42-bd68-d79b2dc200aa)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1d472199-0920-49bc-9514-fc2abaabc8e6)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/91a3fdbe-9736-4127-8920-fe2edf34b331)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/88a1f3e2-12a2-4caa-9f48-a3fb15801db1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/4c00fbed-8b5b-4943-b676-da0bbb45e15c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/66a05c66-7e79-434b-8da4-c26d5188b94b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f56e1a80-d047-45e5-a15b-f8c92ee8c21e)
+
+If we look at L0 scan, we find common transactions on certain protocols:
+
+Shimmer Bridge (9 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51, 0xf366adde5b682a8e0d5e4f09663844ea95332f94, 0xbae2a1899e06cab91fb9251db3b2e7d31acdca44, 0x767b97aabeb5d46a0b33e862374f24b87a7679a9, 0xcf41fa770b2529d26bdb604cb16d61a65e74ae7a, 0x3e897e924842dab543f30352afad81e5e4886ef7, 0x8f7a5c571816ed31182108a7c3046e75033f4fe0, 0xde1569da8f95de2ccccbfbda7d05ae5bd788a99f, 0xbcb30d55d932a15f430a5b4553fca71e8aeee57a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b2478b1d-2abf-4090-8781-e5a1a86921f3)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/8e2ee05d-634b-460a-adc3-7bb6a87c0866)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d621fd4a-a676-4d77-8055-7daed3cb05b5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9dd47443-7fd5-4883-a3fa-0530f19f142d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b034adf1-9bed-40a6-acee-ce30ba6ca893)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/fd7818f5-43a3-4406-a6d6-abf8ebc72212)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b8b13b64-5b99-456a-a1a0-62beef55825b)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/c875e74c-69eb-4fd0-8861-7fbc1f75b6c7)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d1645def-5bfe-4c64-b384-5559f340e5c2)
+
+Maverick (16 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51, 0xf366adde5b682a8e0d5e4f09663844ea95332f94, 0xe59e6365e879aebf001de470e3281a4c0d6fb0c8, 0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c, 0x1e98efc80b1b71809b6ce4fa0b09f071143b2c02, 0x19d995a031576e10e3138b92a8523b7b9fb6f6bc, 0x767b97aabeb5d46a0b33e862374f24b87a7679a9, 0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d, 0xb6afd7dcf48ed53fdea3d304bbb2179ee24d209c, 0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f, 0x7a0604aa59f054f0d25d859c21222afa0086a959, 0x445259622cd7453dd92d3c23ec7af004947c73ea, 0x3e897e924842dab543f30352afad81e5e4886ef7, 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0, 0x8052e45555e66f0de48d195a4aab947578134b4a, 0x7132becef1e3d8d4d9061598c860cae2c86197e6)
+on same date 
+
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/84e9f815-49a0-4031-8745-97fed3897eba)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9aeb22db-adc7-4467-9c4f-201bcc06b799)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/e6f315c2-9875-462b-be4b-1e39927cbe74)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/b8c3e58b-6126-497b-8a2b-5fd9d279fc68)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a5968d29-9de1-4d9d-8b13-a46be4b08e5d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5a8af52b-c804-4601-b406-5b04d8e9cf23)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a8fe55d0-aaf7-40d6-9db7-af573c13cfb8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/a8eb00a6-7081-45e7-a040-da2f653a2774)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/9c14055d-090e-489b-9bec-261e3f4fe1e8)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/44a67654-9c57-4fba-9dea-c675619f083c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/7a5eb462-0547-450c-9c6c-619162858437)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/2373cb2d-19b9-419c-9f40-9de8fa8ca57a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/5ecd0774-9655-4aa4-80d5-98437392f416)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/d6e3e0c7-04e8-48d0-82f3-d63b696bb928)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/50029a8b-472f-4a2d-b3fb-6c30d4ae2712)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ff03032f-7f32-4e2a-8068-5a5969258cd1)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/bd040a16-2553-45d8-b4f7-8fe33c7c753d)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/50934074-70de-40c7-9b91-4a7ffb035856)
+
+Finally, USDV (10 wallets, addresses: 0x2f91922aa4caba7ae19c1223c0007a1a598dff51, 0x469cbdfb1f88b41aa89e9ce49af5e758ac4d1d5c, 0x767b97aabeb5d46a0b33e862374f24b87a7679a9, 0x263d6480291fcad81f1dd3c9f5bcc08b5ac5ed1d, 0x4db45526d4c0cae762a2ff5e4d1ad32c5855000f, 0x7a0604aa59f054f0d25d859c21222afa0086a959, 0x445259622cd7453dd92d3c23ec7af004947c73ea, 0x3e897e924842dab543f30352afad81e5e4886ef7, 0xf11b354a61b18b619f8f4e553fcd5db5fb64adf0, 0x8052e45555e66f0de48d195a4aab947578134b4a)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/70f76b24-1b4a-4921-855e-d3dc5c677853)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/477ce827-b37a-41df-831a-c19e57e066eb)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1aa284d8-73c3-4abe-bd13-9f8541a1916c)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/88a0c3ec-80dc-49e6-88db-3c364311a7a9)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/587992c9-a00b-4d84-84b4-bc3204b77fc2)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/f2a9981c-084e-4612-9ad1-a896957b46cf)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/ce6cac11-ec54-48b2-abea-f65a5d30a4bd)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/72dd396d-4af6-4fbc-b687-62dc1d31aee5)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/dccb383a-e38b-4675-82c0-c3f8a409df06)
+![image](https://github.com/altaccounteth/report_layerzero/assets/151371773/1525a308-6a21-4f2a-a61d-ca79e16d10c6)
 
 
 </details>
