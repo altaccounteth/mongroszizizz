@@ -4029,6 +4029,11 @@ zksync
 Same CEX deposit (Binance)
 0x5BAF2a6ac47AE3270e78263177ABdeb70892DaE2
 
+**TLDR**
+Same deposit CEX address
+Similarity on STG lock & native bridge (ZKSYNC, BASE)
+Stargate tx very similar
+
 ```
 0xe2f7102b63119ee436a80a79a554e5d16954a125
 0x84993422cb9f8ed9cd605c06499d3806bbe606d7
@@ -4179,7 +4184,7 @@ base
 First 7 address linked to OKX cex deposit:
 0x33eA3165630a600e5d9BA8b52A7f203D12dc6a8E
 
-**TLDR**
+**TLDR** 
 Clustered sybil farming script 
 ZKSYNC bridge scripted
 LINEA bridge scripted
